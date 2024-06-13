@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+
+	<channel>
+
+		<title>Feed of / – fernandovandervlist.nl</title>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
+		<link>https://www.fernandovandervlist.nl/</link>
+		<description>Fernando van der Vlist (PhD Utrecht University) is a postdoctoral researcher of media and digital society at Utrecht University and also, since 2016, with the Collaborative Research Centre ‘Media of Cooperation’ at the University of Siegen (funded by the German Research Foundation, DFG).</description>
+		<language>en-NL</language>
+		<lastBuildDate>Sat, 25 Mar 2023 12:00:00 +0200 (CEST)</lastBuildDate>
+		<managingEditor>mail@fernandovandervlist.nl</managingEditor>
+
+		<item>
+			<title>Situating the Marketization of Data</title>
+			<link>https://www.fernandovandervlist.nl/research/situating-the-marketization-of-data.html</link>
+			<subject>Platformisation and Data Markets</subject>
+			<description>Data are neither inherently valuable, nor do all data have the same value. This contribution argues how data are made useful and valuable to specific actors and for specific purposes. It draws attention to the material politics of data flows and valuation, and to the many different actors and stakeholders who build the technological conduits and pipelines that facilitate the circulation and use of data. Therefore, it highlights the need to study the infrastructural layer of the global data market, as well as the central role of intermediaries who build and uphold these infrastructures for the exchange and use of data for different purposes. Both are important to situate the processes of datafication and data marketization in specific empirical settings.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Thu, 9 Feb 2023 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>The Platform as Ecosystem: Configurations and Dynamics of Governance and Power</title>
+			<link>https://www.fernandovandervlist.nl/research/the-platform-as-ecosystem.html</link>
+			<subject>Platformisation and Platform Power</subject>
+			<description>Digital ‘platforms’ owned and operated by powerful Big Tech companies have shaped and impacted social, economic, and political life in significant ways. Yet, platforms remain an ambiguous phenomenon. What exactly are these platforms? How can we identify and understand the features of their power?</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 16 Sep 2022 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Making the Car ‘Platform Ready’: How Big Tech Is Driving the Platformisation of Automobility</title>
+			<link>https://www.fernandovandervlist.nl/research/making-the-car-platform-ready.html</link>
+			<subject>Platformisation in the Automotive Industry</subject>
+			<description>“Big Tech” platform companies like Alphabet (Google), Apple, and Amazon are deeply invested in the future of automobility—from developing car-specific interfaces and self-driving technology to establishing business partnerships with automakers. Far from business-as-usual, we explain how Big Tech is reshaping the traditional automotive industry by making the car “platform ready,” as imposed on the web before it. The article considers how this novel transformation of automobility is increasingly significant for critical scholars of social media, platforms, and platformization, as bespoke forms of mediated, datafied, and platformized, sociality emerge. Specifically, we identify six levels upon which this platformization of automobility is unfolding and through which Big Tech is reorganizing the automotive industry according to platform logics concerning programmability, modularity, connectivity, data collection, and developmental partnerships. We do so by analyzing academic and technical literature, industry reports, and initiatives with a stake in platform automobility. Finally, we suggest directions for further research into Big Tech’s stake in the future of automobility, as these new dynamics begin to reshape the automotive industry at large.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>S. Hind, M. Kanderske, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Sun, 26 Jun 2022 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>API Governance: The Case of Facebook’s Evolution</title>
+			<link>https://www.fernandovandervlist.nl/research/api-governance.html</link>
+			<subject>History and Evolution of Facebook Platform</subject>
+			<description>Researchers, policymakers, and competition and regulation authorities worldwide recognize the utility of application programming interfaces (APIs) in powering the digital economy and driving datafication and platformization processes. However, it remains unclear how the APIs of leading social media relate to platform governance and how this relationship evolved. This article traces the evolution of Facebook’s APIs, which evolved from a relatively simple programming interface for data access into a complex layered and interconnected <i>governance arrangement</i>. The study draws on a large corpus of (archived) developer pages and API reference documentation to examine the history of Facebook’s API governance; that is, the governance of and by Facebook through its APIs. This historical analysis emphasizes the technical dimensions and dynamics of what, how, and whom powerful platforms seek to govern, thus highlighting the technicity of platform governance and how it evolved. Because APIs facilitate and govern the material conditions of app development and the social and economic processes they sustain, powerful platforms influence the evolution of their larger ecosystems. As such, the technicity of Facebook’s API governance represents a major source of the platform’s “infrastructural power.”</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist, A. Helmond, M. Burkhardt, and T. Seitz</dc:contributor>
+			<pubDate>Sat, 7 May 2022 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Pandemic Platform Governance: Mapping the Global Ecosystem of COVID-19 Response Apps</title>
+			<link>https://www.fernandovandervlist.nl/research/pandemic-platform-governance.html</link>
+			<subject>COVID-19 Apps and Platform Governance</subject>
+			<description>This article provides a comprehensive mapping of the global ecosystem of COVID-19 pandemic response apps. After considering policy updates by Google Play’s and Apple’s App Store, we analyse all the available response apps in July 2020; their different response types; the apps’ developers and geographical distribution; the ecosystem’s ‘generativity’ and developers’ responsiveness during the unfolding pandemic; the apps’ discursive positioning; and material conditions of their development. Google and Apple are gatekeepers of these app ecosystems and exercise control on different layers, shaping the pandemic app response as well as the relationships between governments, citizens, and other actors. We suggest that this global ecosystem of pandemic responses reflects an exceptional mode of what we call <i>pandemic platform governance</i>, where platforms have negotiated their commercial interests and the public interest in exceptional circumstances.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>M. J. Dieter, A. Helmond, N. Tkacz, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
+			<pubDate>Fri, 6 Aug 2021 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>The Technicity of Platform Governance: Structure and Evolution of Facebook’s APIs</title>
+			<link>https://www.fernandovandervlist.nl/research/the-technicity-of-platform-governance.html</link>
+			<subject>History and Evolution of Facebook Platform</subject>
+			<description>Researchers, policymakers, and competition and regulation authorities worldwide recognise application programming interfaces (APIs) for powering the digital economy and driving processes of datafication and platformisation. However, it is unclear how APIs tie into the power of, and governance by, large digital platforms. This article traces the relationality between Facebook’s APIs, platform governance, and data strategy based on an empirical and evolutionary analysis. It examines a large corpus of (archived) developer pages and API reference documentation to determine the <i>technicity</i> of platform governance – the technical dimension and dynamics of how and what platforms like Facebook seek to govern. It traces how Facebook Platform evolved into a complex layered and interconnected <i>governance arrangement</i>, wherein technical API specifications serve to enforce (changes to) platform policy and (data) strategy. Finally, the article discusses the significance of this technicity in specifying the material conditions for app and business development ‘on top of’ platforms and for maintaining infrastructural and evolutive power over their ecosystems.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist, A. Helmond, M. Burkhardt, and T. Seitz</dc:contributor>
+			<pubDate>Fri, 23 Jul 2021 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Platform and App Histories: Assessing Source Availability in Web Archives and App Repositories</title>
+			<link>https://www.fernandovandervlist.nl/research/platform-and-app-histories.html</link>
+			<subject>Doing App and Platform Historiography</subject>
+			<description>In this chapter, we discuss the research opportunities for historical studies of apps and platforms by focusing on their distinctive characteristics and material traces. We demonstrate the value and explore the utility and breadth of web archives and software repositories for building corpora of archived platform and app sources. Platforms and apps notoriously resist archiving due to their ephemerality and continuous updates. As a consequence, their histories are being overwritten with each update, rather than written and preserved. We present a method to assess the availability of archived web sources for social media platforms and apps across the leading web archives and app repositories. Additionally, we conduct a comparative source set availability analysis to establish how, and how well, various source sets are represented across web archives. Our preliminary results indicate that despite the challenges of social media and app archiving, many material traces of platforms and apps are in fact well preserved. We understand these contextual materials as important primary sources through which digital objects such as platforms and apps co-author their own ‘biographies’ with web archives and software repositories.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Mon, 1 Jul 2021 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>How Partners Mediate Platform Power: Mapping Business and Data Partnerships in the Social Media Ecosystem</title>
+			<link>https://www.fernandovandervlist.nl/research/how-partners-mediate-platform-power.html</link>
+			<subject>Platformisation and Platform Power in Digital Advertising</subject>
+			<description>Social media platforms’ digital advertising revenues depend considerably on partnerships. Business partnerships are endemic and essential to the business of platforms, yet their role remains relatively underexplored in the literature on platformisation and platform power. This article considers the significance of partnerships in the social media ecosystem to better understand how industry platforms, and the infrastructure they build, mediate and shape platform power and governance. We argue that partners contribute to ‘platformisation’ through their collective development of business-to-business platform infrastructures. Specifically, we examine how partners have integrated social media platforms with what we call the <i>audience economy</i> – an exceptionally complex global and interconnected marketplace of intermediaries involved in the creation, commodification, analysis, and circulation of data audiences for purposes including but not limited to digital advertising and marketing. We determined which relationships are involved, which are exclusive or shared, and identified key ecosystem partners. Further, we found that partners build and integrate extensive infrastructures for <i>data-sourcing</i> and <i>media distribution</i>, surfacing infrastructural and strategic sources and locations, or ‘nodes’, of power in this ecosystem. The empirical findings thus highlight the significance of partnerships and partner integrations and draw attention to the powerful industry players and intermediaries that remain largely invisible.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist and A. Helmond</dc:contributor>
+			<pubDate>Mon, 14 Jun 2021 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Seeing the Forest for the Trees: Visualizing Platformization and Its Governance</title>
+			<link>https://www.fernandovandervlist.nl/design/seeing-the-forest-for-the-trees.html</link>
+			<subject>Platformisation and Platform Power</subject>
+			<description>‘The complexities of platforms are increasingly at odds with the narrow legal and economic concepts in which their governance is grounded. This article aims to analyze platformization through the metaphorical lens of a tree to make sense of information ecosystems as hierarchical and interdependent structures. The layered shape of the tree draws attention to the dynamics of power concentration: vertical integration, infrastructuralization, and cross-sectorization. Next, the metaphor helps to revision the current patchwork of European regulatory frameworks, addressing the power asymmetry between citizens and the data-driven systems through which their daily practices are governed. Finally, the platformization tree serves to identify points of intervention that may inform European regulatory bodies and policy-makers to act as agents of change. Taking a holistic approach to platformization, this visual metaphor may inspire a set of principles that reshapes the platform ecosystem in the interest of society and the common good.’ (Quoted)</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>J. F. T. M. van Dijck; F. N. van der Vlist</dc:contributor>
+			<pubDate>Wed, 8 Jul 2020 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Social Media and Platform Historiography: Challenges and Opportunities</title>
+			<link>https://www.fernandovandervlist.nl/research/social-media-and-platform-historiography.html</link>
+			<subject>Doing Platform Historiography</subject>
+			<description>In this article, we propose a methodological outlook for historical platform studies to increase the prominence of platform historiography in the field and practice of web history and archiving. We discuss the challenges of social media archiving and the research opportunities for <i>‘platform’ historiography</i> by focusing on the distinctive characteristics of web-based social media ‘platforms’. Based on our review of the literature, we argue that it is critical to foreground how contemporary platforms serve multiple user groups beyond end users (e.g. developers, business, investors) and how they operate on multiple levels (e.g. interface, architecture, ecosystem). By attending to the multiple sides and layers of social media beyond their end users only, we can reconstruct histories of platforms, not only as social networks, but also as technical artefacts, business organisations, and more. A focus on the materiality of platforms introduces numerous underutilised archived web sources that present significant entry points and research opportunities for platform historiography. We assess the availability of these archived sources across the leading web archives. Our results show that despite the challenges of social media archiving, platforms’ resources are in fact well-preserved if we look beyond their end-user interfaces. Drawing on illustrative examples, we discuss two sets of entry points and materials for platform historiography at length: first, for writing developer-side histories, and second, for business-side histories. We conclude with recommendations for platform historians and archiving practitioners and reflections on the future of platform historiography.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Wed, 6 Nov 2019 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Apps and Infrastructures – A Research Agenda</title>
+			<link>https://www.fernandovandervlist.nl/research/apps-and-infrastructures-a-research-agenda.html</link>
+			<subject>App Studies</subject>
+			<description>In this Special Issue editorial, we introduce a research agenda for empirical app studies. First, we introduce the three main strands of scholarship that have engaged with (mobile) apps and infrastructures so far. This enables us to position the contributions to this Special Issue at the cutting edge of the research on apps and infrastructures. We present our theoretical perspective on the infrastructural situatedness of apps to foreground how apps are always relational and, therefore, situated in a technological as well as social and cultural sense. From this perspective, we outline the contours of the <i>app/infrastructure stack</i>, which proposes to account for the hierarchical layered structure of apps and infrastructures, including their various interrelations and interdependencies. Finally, we derive six emerging research themes for future app studies based on the eight contributions included in this Special Issue that we hope will motivate further innovative and critical research into apps and infrastructures specifically as well as into computational culture in general.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>C. Gerlitz, A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Mon, 21 Oct 2019 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Regramming the Platform: Infrastructural Relations Between Apps and Social Media</title>
+			<link>https://www.fernandovandervlist.nl/research/regramming-the-platform.html</link>
+			<subject>App Development on Social Media</subject>
+			<description>In this article, we empirically analyse the infrastructural relations between mobile apps and social media platforms and present a methodology to account for app–platform relations. Contrary to previous research on platforms and apps, we develop our approach from the perspective of apps based on a relational understanding of infrastructure. Our app-centric approach to platforms and infrastructure provides critical insights into (i) the kinds of third-party apps developed on the peripheries of social media platforms, (ii) the diverse practices and features supported and extended by those apps, and (iii) the messy and contingent nature of the relations between apps and social media platforms. Our approach provides insights into alternative forms of platform programmability beyond APIs and yields critical insights into social media-based ‘innovation’ app ecosystems driven by creative developer workarounds. Drawing on quantitative and qualitative forms of analysis of Android and iOS apps related to Facebook, Instagram, Snapchat, and Twitter, we explore how third-party apps engage with the specific ‘grammars of action’ of social media platforms and outline five distinct forms of <i>regramming</i>. With regramming, we refer to how app developers work with and around the affordances, action grammars, and constraints imposed by platforms for using their data and functionality. We conclude with conceptual and methodological reflections on the infrastructural relations between apps and social media platforms, app stores, and mobile platforms from the perspective of apps.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>C. Gerlitz, A. Helmond, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
+			<pubDate>Mon, 21 Oct 2019 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Multi-Situated App Studies: Methods and Propositions</title>
+			<link>https://www.fernandovandervlist.nl/research/multi-situated-app-studies.html</link>
+			<subject>Doing App Studies</subject>
+			<description>This article discusses methodological approaches to app studies, focussing on their embeddedness and situatedness within multiple infrastructural settings. Our approach involves close attention to the multivalent affordances of apps as software packages, particularly their capacity to enter into diverse groupings and relations depending on different infrastructural situations. The changing situations they evoke and participate in, accordingly, make apps visible and accountable in a variety of unique ways. Therefore, engaging with and even staging these situations allows for political-economic, social, and cultural dynamics associated with apps and their infrastructures to be investigated through a style of research we describe as multi-situated app studies. This article offers an overview of four different entry points of enquiry that are exemplary of this multi-situated approach, focussing on app stores, app interfaces, app packages, and app connections. We conclude with nine propositions that develop out of these studies as prompts for further research.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>M. J. Dieter, C. Gerlitz, A. Helmond, N. Tkacz, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
+			<pubDate>Thu, 6 Jun 2019 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Facebook’s Evolution: Development of a Platform-as-Infrastructure</title>
+			<link>https://www.fernandovandervlist.nl/research/facebooks-evolution.html</link>
+			<subject>History and Evolution of Facebook Platform</subject>
+			<description>The purpose of this article is to operationalise an evolutionary perspective on the history of social media and to trace Facebook’s evolution from a social networking site to a ‘platform-as-infrastructure’. Social media platforms such as Facebook change constantly on the level of their platform architectures, interfaces, governance frameworks, and control mechanisms, all while responding to their larger environments. By examining the evolution of Facebook’s programmability and corporate partnerships, we develop an empirical historical analysis of the platform’s boundary dynamics that ultimately determine its operational scale and scope. Based on our analysis of a unique set of archived primary sources, we discern four main stages in Facebook’s long-term evolution and discuss the interplay between ongoing processes of ‘platformisation’ and ‘infrastructuralisation’. We argue that these terms foreground complementary aspects of the platform’s efforts in balancing its expansion and adaptability to changing user needs and other ‘environmental dynamics’ without risking its integrations and embedding in other domains, such as advertising, marketing, and publishing. Ultimately, our contribution illustrates how empirical platform histories can denaturalise the current dominant position of social media platforms, such as Facebook, revealing over a decade of incremental evolution rather than revolution.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Wed, 1 May 2019 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>The Platform Society: Public Values in a Connective World</title>
+			<link>https://www.fernandovandervlist.nl/design/the-platform-society.html</link>
+			<subject>Platformisation and Platform Power</subject>
+			<description>‘Individuals all over the world can use Airbnb to rent an apartment in a foreign city, check Coursera to find a course on statistics, join PatientsLikeMe to exchange information about one’s disease, hail a cab using Uber, or read the news through Facebook’s Instant Articles. The promise of connective platforms is that they offer personalized services and contribute to innovation and economic growth, while bypassing cumbersome institutional or industrial overhead. In <i>The Platform Society</i>, Van Dijck, Poell and De Waal offer a comprehensive analysis of a connective world where platforms have penetrated the heart of societies-disrupting markets and labor relations, circumventing institutions, transforming social and civic practices and affecting democratic processes. This book questions what role online platforms play in the organization of Western societies. First, how do platform mechanisms work and to what effect are they deployed? Second, how can platforms incorporate public values and benefit the public good? <i>The Platform Society</i> analyzes intense struggles between competing ideological systems and contesting societal actors – market, government and civil society – raising the issue of who is or should be responsible for anchoring public values and the common good in a platform society. Public values include of course privacy, accuracy, safety, and security, but they also pertain to broader societal effects, such as fairness, accessibility, democratic control, and accountability. Such values are the very stakes in the struggle over the platformization of societies around the globe. <i>The Platform Society</i> highlights how this struggle plays out in four private and public sectors: news, urban transport, health, and education. Each struggle highlights local dimensions, for instance fights over regulation between individual platforms and city governments, but also addresses the level of the platform ecosystem as well as the geopolitical level where power clashes between global markets and (supra-)national governments take place.’ (Quoted)</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>J. F. T. M. van Dijck, T. Poell, and B. G. M. de Waal; F. N. van der Vlist</dc:contributor>
+			<pubDate>Wed, 8 Jul 2020 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Store, Interface, Package, Connection: Methods and Propositions for App Studies</title>
+			<link>https://www.fernandovandervlist.nl/research/store-interface-package-connection.html</link>
+			<subject>Doing App Studies</subject>
+			<description>This paper discusses methodological approaches to app studies, focussing on their embeddedness and situatedness within multiple infrastructural settings. Our approach arises by paying close attention to the multivalent affordances of apps as software packages, particularly their capacity to enter into diverse groupings and relations depending on different infrastructural situations. The changing situations they evoke and participate in, accordingly, makes apps visible and accountable in a variety of unique ways. Engaging with and even staging these situations, therefore, allows for political-economic, social and cultural dynamics associated with apps and their infrastructures can be investigated through a style of research we describe as multi-situated app studies. The piece offers an overview of four different entry points of enquiry that are exemplary of this overarching framework, focussing on app stores, app interfaces, app packages and app connections. We conclude with nine propositions that develop out of these studies as prompts for further research.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>M. J. Dieter, C. Gerlitz, A. Helmond, N. Tkacz, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
+			<pubDate>Thu, 30 Aug 2018 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Diaspora and Mapping Methodologies: Tracing Transnational Digital Connections with ‘Mattering Maps’</title>
+			<link>https://www.fernandovandervlist.nl/research/diaspora-and-mapping-methodologies.html</link>
+			<subject>Mapping Digital Diasporas</subject>
+			<description>There is a methodological tendency in work on diaspora and digital media for quantitative investigations to approach diaspora in static ways that contrast with theories of diaspora as a dynamic cultural formation. On the other hand, qualitative, ethnographic work tends not to engage with digital methods and quantitative data-driven investigation. In this article, we sketch this methodological and disciplinary disconnect and address it by proposing a model for understanding digitally mediated formations of diaspora that combines digital methods techniques with a sensitivity to ethical and theoretical discussions of migration and diaspora. Drawing on interpretive epistemologies and feminist research ethics, we present a case study analysis of a locally informed, Turkish–Dutch issue. We argue for a method that produces ‘mattering maps’. This involves tracking and visualizing digital traces of an issue across web platforms (Google Search results, Facebook pages, and Instagram posts) and integrating this with an analysis of the face-to-face interview responses of a key issue actor.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>D. Alinejad, L. I. Candidatu, M. Mevsimler, C. Minchilli, S. Ponzanesi, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Wed, 5 Dec 2018 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Apps and Infrastructures</title>
+			<link>https://www.fernandovandervlist.nl/research/apps-and-infrastructures-call-for-abstracts.html</link>
+			<subject></subject>
+			<description>Call for abstracts for a Special Issue of <i>Computational Culture – A Journal of Software Studies</i>.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>C. Gerlitz, A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Tue, 6 Feb 2018 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Media Studies Reference Worksheets: Digital Research Skills for Media Studies</title>
+			<link>https://www.fernandovandervlist.nl/links-and-resources/media-studies-reference-worksheets.html</link>
+			<subject>Doing Digital Research</subject>
+			<description>The Media Studies Reference Worksheets are a set of online accessible learning and teaching resources for essential digital research skills intended for students, researchers, and lecturers in the field of Media Studies. All learning and teaching resources are offered in English to cater to international Bachelor’s, Master’s and Research Master’s students, researchers, and lecturers. They are also tailored so that they may be integrated and used in the context of specific courses in our Bachelor’s, Master’s, and Research Master’s programmes. Moreover, these resources help facilitate blended forms of learning where online digital media are combined traditional classroom methods. The included reference worksheets address essential digital research skills required to conduct, manage, organise, and present research involving different types of sources and data. Common examples include: film databases or directories, collections of movie titles, second screen data, collections of television shows, audience data, social media data, and web data. Learning to work with these data and materials enables students to independently develop (digital) humanities projects.</description>
+			<category>Links and Resources</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist and A. Helmond</dc:contributor>
+			<pubDate>Tue, 17 Oct 2017 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>The Political Economy of Social Data: A Historical Analysis of Platform–Industry Partnerships</title>
+			<link>https://www.fernandovandervlist.nl/research/the-political-economy-of-social-data.html</link>
+			<subject>History and Evolution of Facebook Platform</subject>
+			<description>Social media platform–industry partnerships are essential to understanding the politics and economics of social data circulating among platforms and third parties. Using Facebook as a case study, this paper develops a novel methodology for empirically surveying the historical dynamics of social media industry partnerships and partner programs. Facebook is particularly emblematic as one of the few dominant actors that functions both as data aggregator and as digital marketing platform whilst operating a multiplicity of dedicated partner programs that cater to a wide array of industry partners. We employ mixed methods by aligning digital historical research and interview methods: using ‘digital methods’, we reconstruct both ongoing and former declared platform–industry partnerships and programs with web data whilst conducting semi-structured interviews with selected platform partners to contextualize the empirical research. This enables us to address (i) the dynamic relations between social media platforms and industry partners, (ii) their diversification by catering to a growing number of stakeholders with distinct interests, and (iii) their gradual entrenchment as dominant actors within an emerging digital marketing ecosystem. By tracing how and when partnerships and industry alliances are forged, sustained, and terminated over time we are able to develop a critical account of the political economy of social data that addresses the politics of platforms and stakeholders as well as the consolidation of platform power.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Fri, 28 Jul 2017 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Counter-Mapping Surveillance: A Critical Cartography of Mass Surveillance Technology After Snowden</title>
+			<link>https://www.fernandovandervlist.nl/research/counter-mapping-surveillance.html</link>
+			<subject>Edward Snowden’s Global Surveillance Revelations</subject>
+			<description>This article critically examines mass surveillance technology revealed by Snowden’s disclosures. It addresses that we do not only live in a society where surveillance is deeply inscribed but more urgently, that it is increasingly difficult to study surveillance when its technologies and practices are difficult to distinguish from everyday routines. Considerably, many of the technologies and systems utilised for surveillance purposes were not originally designed as proper surveillance technologies. Instead, they have effectively become surveillance technologies by being enrolled into a particular surveillant assemblage. Three contributions are made towards critical scholarship on surveillance, intelligence, and security. First, a novel empirical cartographic methodology is developed that employs the vocabularies of assemblages and actor–networks. Second, this methodology is applied to critically examine global mass surveillance according to Snowden. Multiple leaked data sources have been utilised to trace actors, their associations amongst each other, and to create several graphical maps and diagrams. These maps provide insights into actor types and dependence relations described in the original disclosed documents. Third, the analytical value of three ordering concepts as well as the logistics of surveillance are explored via notable actors and actor groups. In short, this contribution provides empirical cartographic methods, concepts, and analytical targets for critically examining surveillance technology and its particular compositions. It addresses challenges of resisting mass surveillance and some forms of data activism, and calls for the continuing proliferation of counter-maps to facilitate grounded critique, to raise awareness, and to gain a foothold for meaningful resistance against mass surveillance.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Tue, 28 Feb 2017 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>App Support Ecologies: An Empirical Investigation of App–Platform Relations</title>
+			<link>https://www.fernandovandervlist.nl/design/app-support-ecologies.html</link>
+			<subject>App Development on Social Media</subject>
+			<description>This project sets out to advance the study of mobile apps at the intersection with platform studies and explores what both fields of study may learn from each other. A novel empirical methodology is developed to explore the intricate relations between mobile apps and social media platforms. Our findings suggest to think of apps as relational software entities, simultaneously situated and distributed. Apps exist as part of wider ecologies made up of programmable infrastructures and controlled data flows. Furthermore, this empirical investigation interfaces apps with platform studies. First, it contributes to the study of mobile apps by providing a novel empirical methodology for mapping app–platform relations and thereby providing an account of apps as software entities that are both situated (existing ‘in context’) and distributed (both shaped by and shaping relations to platforms and diverse stakeholders). Second, it also contributes to the study of platforms by offering insights into stakeholder politics and practices, which we argue are crucial to understanding the defining features of platforms: their programmability, distinct affordances, multiplicitous stakeholders, and strategies for negotiating openness/closure.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>C. Gerlitz, A. Helmond, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical); F. N. van der Vlist</dc:contributor>
+			<pubDate>Thu, 8 Dec 2016 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>De platformsamenleving: Strijd om publieke waarden in een online wereld</title>
+			<link>https://www.fernandovandervlist.nl/design/de-platformsamenleving.html</link>
+			<subject>Platformisering en platformmacht</subject>
+			<description>‘Van Airbnb tot Uber, en van Nextdoor tot Facebook, een steeds groter deel van het maatschappelijk en economisch verkeer verloopt via online platformen. De opkomst van deze platformen leidt tot optimistische vertogen. Doordat ze bestaande praktijken en instituties – van taximarkt tot lokale democratie – letterlijk en figuurlijk „ontregelen”, zouden deze platforms leiden tot economische en maatschappelijke innovatie. Kort samengevat luidt hun belofte: minder overhead en minder overheid. Wat in deze discussie nog onderbelicht blijft, is de rol die platformen spelen bij de behartiging van publieke belangen. Hun interfaces, reputatiesystemen, en algoritmes waarmee ze vraag en aanbod koppelen sturen de inrichting van de samenleving. Met grote gevolgen voor publieke belangen, zoals de toegankelijkheid, veiligheid en betaalbaarheid van (openbaar) vervoer, de pluriformiteit in de journalistiek of de inrichting van het onderwijs. In dit boek verkennen de auteurs de werking van platformen in een drietal maatschappelijke domeinen. Met als inzet de vraag: hoe kunnen in de platformsamenleving publieke waarden worden geborgd?’ (Quoted)</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>J. F. T. M. van Dijck, T. Poell, and B. G. M. de Waal; F. N. van der Vlist</dc:contributor>
+			<pubDate>Tue, 10 Nov 2016 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>App Studies: Platform Rules and Methodological Challenges</title>
+			<link>https://www.fernandovandervlist.nl/research/app-studies-conference-panel.html</link>
+			<subject></subject>
+			<description></description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>C. Gerlitz, A. Helmond, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
+			<pubDate>Mon, 31 Oct 2016 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Cultures of Use, 1970s–1980s: An Archaeology of Computing’s Integration with Everyday Life</title>
+			<link>https://www.fernandovandervlist.nl/design/cultures-of-use-1970s-1980s.html</link>
+			<subject></subject>
+			<description>‘This dissertation examines the archeology of computing’s integration with everyday life by examining transformations across Cultures of Use (CoU) within the period between the 1970s and 1980s, when computing moved out of organizations and into our homes and our everyday lives. It argues for the importance of switching perspective on the (media) history of computing, not departing from an assumption of computer technological media as organizational centers, but starting with the analysis and juxtaposition of CoU as historical actor-networks that in varying ways connected computing machinery with its human, economical, political, and ideological surroundings. The main thesis of the dissertation is organized around three case studies (word processing; problem solving; online searching) that all evidence that the history of a contemporary entwinement of computing with the lives of human individuals is caught up with a complex set of culturally and historically specific processes involving multiple facets of transformation.’ (Quoted)</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>N. Kerssens; F. N. van der Vlist</dc:contributor>
+			<pubDate>Wed, 25 May 2016 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Accounting for the Social: Investigating Commensuration and Big Data Practices at Facebook</title>
+			<link>https://www.fernandovandervlist.nl/research/accounting-for-the-social.html</link>
+			<subject>Facebook’s Data Infrastructure</subject>
+			<description>This study explores Big Data practices at Facebook through an investigation of the role of <i>commensuration</i> or ‘the transformation of different qualities into a common metric’ in the structuration of analysis and interaction with a major online social media platform. It proposes a conceptual framework and demonstrates the empirical potential of a pragmatic approach based on reading published materials and available documentation. Facebook’s Data Warehousing and Analytics Infrastructure serves as an illustrative example to begin tracing out and describe data assemblages in more detail. In being attentive to the motivations, drivers and challenges engineers face when dealing with Big Data, it is argued that their solutions can enable and support but also constrain specific analytical and transactional capabilities or data flows between various devices and actors. The analysis thus moves beyond methodological critiques of the utility of Big Data that lack empirical support and specificity. It is further argued that analytics not just describe but actively participate in the enactment of social worlds, thereby opening possibilities for new markets or market segments to arise. Online sociality accounts for a model of the social that makes it visible and measurable qua markets inviting data recontextualisation and the creation of value along multiple axes. Contra Facebook’s claim to make the web more ‘social’, an investigation of commensuration brings to the fore the question how the social is accounted for in the first place.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Wed, 1 Jun 2016 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>The Making of Predictions: Social Media-Based Prediction and Its Resources, Techniques, and Applications</title>
+			<link>https://www.fernandovandervlist.nl/research/the-making-of-predictions.html</link>
+			<subject>Algorithmic Techniques</subject>
+			<description>This thesis investigates prediction and the stuff of which it is made. Over the recent years social media have attracted both an academic and public interest in its ‘predictive power’ but when it comes to making predictions researchers generally agree that this is ‘hard’, ‘difficult’, or ‘tough’, especially when it involves uncertainty with regards to the future. Predictions are accomplishments and come into being with a <i>purpose</i>, considerable social and intellectual investment from <i>sponsors or advocates</i>, and mobilisation of existing conceptual and material <i>resources</i>. Rather than a specialist reading of concrete cases of prediction, the objective of this thesis is to develop a framework for conceptualising and analysing the stuff of prediction in at least some of the many ways that it exists, and in which it is imagined, accomplished, experienced, and thought through. More specifically, it investigates this stuff both empirically and conceptually (and historically), with a particular focus on the specificity of its techniques as they find applications in concrete settings. Two emblematic practical goals or purposes for social media-based prediction are investigated: forecasting the pulse of social media streams and the surveillance of influenza-like illness using Web search data. How to analyse the relation between the stuff of prediction and the social circumstances and practicalities with which it is inevitably entangled? What are techniques of prediction using their resources for? At the same time it also does a methodological contribution by making the exploration of what it means to take prediction as an object of study an integral part of the project itself, as opposed to committing to such a view from the outset. What does it mean to take prediction as an object of study; how to conceive of it intellectually? Responding to a growing public and academic interest in the predictive power of social media, and in prediction as a way of dealing with challenges characterised by uncertainty and risk more generally, the proposed framework enables a critical analysis of the production of prediction with a particular sensitivity towards its techniques, the resources they mobilise in light of a certain specific practical goal, and the social and cultural significance of their applications in diverse concrete settings.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 26 Jun 2015 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Calculation in Digital Architecture: A Historical and Conceptual Investigation of a Cultural Technique</title>
+			<link>https://www.fernandovandervlist.nl/research/calculation-in-digital-architecture.html</link>
+			<subject>Algorithmic Techniques</subject>
+			<description>This paper proposes an analysis of software as an object <i>in-the-world</i>. By conceptualising topological calculation and its computation as <i>cultural techniques</i>, it is argued that techniques can and should be critically analysed in their own right as <i>mediators</i> with the capacity to introduce new and specific modes of ordering space and time-structures by reconfiguring or modelling their relationships differently. Building on previous insights by Luciana Parisi on algorithms in architectural and interaction design (2012, 2013), two lines of enquiry are developed to demonstrate what such an approach might look like: first, topological computation is situated within a larger conceptual space or genealogy of concepts and methods that developed across a variety of fields and disciplines. Second, I examine how these particular concepts and methods are mobilised or converge in specific instances of topological computation as technique or practical rationale, tied in with practices of contemporary computational architectural design and engineering that give it meaning and purpose. Rather than taking an <i>object</i> as the starting point of enquiry, the approximation to defining its contours of demarcation as an object in-the-world is taken as the main <i>objective</i>. This crosscutting approach to software and culture through techniques invites us to be skeptical of bifurcations – between the arts and sciences, the theoretical and empirical, the abstract or formal and concrete, the digital and physical, the structural and aesthetic, the skeleton and skin – and forces us to rethink concepts and methods based on geometrical assumptions.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 23 Jan 2015 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>In-Formed Spaces: Conceptualising ‘Smart Cities’ as Assemblages of Anticipation</title>
+			<link>https://www.fernandovandervlist.nl/research/in-formed-spaces.html</link>
+			<subject>Smart Cities</subject>
+			<description>In this paper I develop, one the one hand, a critical and philosophical understanding of the anticipation of the ‘smart city’, and on the other hand, an understanding of the role of computer simulation in the imagination and enactment of technology-focused futures and the new (topological) spaces they render actionable. Even though the smart city is a highly interdisciplinary concept and technology-oriented future orientation, the ontological status and epistemological <i>a priori</i> of its methods, techniques and practices, and the implications or repercussions these may have, remain unclear. To investigate this, I first trace a genealogy, or rather <i>pre-history</i>, of the city as machine. This will situate the subsequent analyses in which I consider the dominant conception of the city as a complex system, which, I argue, constitutes the ontological basis upon which the smart city is conceived. The concept of ‘assemblages of anticipation’ is deployed as a methodology to explore the case of computer simulation within the imagination as well as enactment of particular possible futures that are either encouraged or discouraged. Furthermore, I problematise the ontological status as well as epistemological <i>a priori</i> presumed by simulation. Finally, I discuss some recent developments in the emerging field of <i>interactive architecture</i> to argue that the meaning of spatial design has fundamentally shifted to the design of topological space, as a result of which new problems and social and economic inequalities may arise.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 10 Jan 2014 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Following #UvAMOOC on Twitter: A Network Analysis of a Massive Socio-Technical and Cross-Platform Online Learning Environment</title>
+			<link>https://www.fernandovandervlist.nl/research/following-uvamooc-on-twitter.html</link>
+			<subject>Social Media and Platformed Education</subject>
+			<description>In this article, we argue for a conceptualisation of MOOCs as socio-technical and cross-platform learning environments. We explore different competing visions and expectations of a contested space, and observe the kind of actors that are actually attracted by these visions and expectations to grasp what kind of learning environment these actors help constitute. To do this, we trace <i>distance learning</i> and <i>interactivity</i> as two initially separate historical and conceptual lineages of contemporary educational technology, and paid careful attention to the particular visions of learning these technologies carry with them. We argue that MOOCs build on Web 2.0 as a platform (O’Reilly 2005) as well as on online social networks to conjure up a <i>specific</i> socio-technical learning environment. We specifically focus our attention on Twitter, and how this microblogging platform is deployed as part of massive online learning environments. To operationalise this research, we have devised an outline for an analytical framework for ‘following Twitter’, both as medium and as a network of actors (Latour [2005] 2007). This framework would not just render productive particular issues such as uncertainties and instabilities with which we are presented, but also allow us to ‘put ahead of us’ that which we want to study. Consequently, it enabled us to do a network analysis and describe what is <i>actually happening</i> inside the ‘data-space’ as it has been captured by the DMI-TCAT, a device we deploy to ‘follow the medium’ (Rogers 2009) in our acquisition of Twitter data. Ultimately, we debunk some of the idealised visions and inflated expectations following from Web 2.0 ‘possibility thinking’ in the case of our pilot study of UvAMOOC on Twitter. This pilot study then caused us to reconsider the concept of ‘context collapse’ (Marwick and boyd 2010) and the co-existence of a range of actors involved to different degrees within the same ‘data-space’.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>T. de Keijser and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Fri, 6 Dec 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Search as Research: Mapping Localisation and ‘Issue Maturity’ with Search Engines</title>
+			<link>https://www.fernandovandervlist.nl/research/search-as-research.html</link>
+			<subject>Mapping Issues on Google Web Search</subject>
+			<description>We report on whether and in what way Google’s device-specific definition of the ‘local’ may be used to perform cross-country and comparative media analysis with local domains of Google. We suggest to think of search engines in a framework of <i>actor-network-theory</i> which allows us to focus on the <i>negotiability</i> of the spaces they demarcate, and how both human and non-human actors operate side by side to achieve this. Search as research is a valuable research practice to look at contested <i>issue spaces</i>, such as the issue of euthanasia in Web search spheres. We wondered to what extent different socio-cultural and legal attitudes towards euthanasia are apparent in the types of sources and actors that show up in the search results for each of the selected local Google domains, and how far these different source types or actors are removed from the ‘top of the Web’. Can we use these measures to understand the extent to which that issue has <i>matured</i>? To operationalise our research questions, we first undertook a qualitative content analysis to understand local discourse and to be able to identify patterns and anomolies across countries. From there, we then did cross-country comparisons of thee local issue spaces and found that the current state of the debates are mostly about the legislative dimensions, ethical dimensions, and informative, ‘neutral’ resources such as studies and reference sources. Overall, we identified legislative, ethical and oppositional concerns as the most frequent categories, but even though the same categories show up for each of the local domains in our source set, they do not necessarily refer to the same sources. Finally, we conclude that the ‘local’ is in fact a <i>negotiated space</i> between the users, through Google’s algorithms, and that in order to determine issue ‘maturity’ we would need to study multiple social snapshots or ‘present states’ of the ‘movements’ that characterise the social over time.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>T. de Keijser and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Fri, 22 Nov 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Digital Pharmacology</title>
+			<link>https://www.fernandovandervlist.nl/design/digital-pharmacology.html</link>
+			<subject></subject>
+			<description>Digital Pharmacology is a philosophical call to arms – an ideology and movement based on the work of B. Stiegler, a leading French philosopher of technology. In his book <i>Ce qui fait que la vie vaut la peine d’être vécue: De la pharmacologie</i> (Flammarion, 2010), Stiegler calls for a new critique of technology and political economy and in doing so addresses challenges facing ‘the ecology of the human race, the economic system, and the planet which we share with other humans and species’ (Wade, 2014). As he argues, our contemporary technics are the poison or cause of our suffering remedy, but are also key to what makes life worth living and it is in this <i>milieu</i> that questions of care and of its condition arise. The design of this Pamphlets is part of a larger set of artistic expressions that reflect on these critical philosophical views on contemporary political economy. There is a fictional association of digital pharmacists, a written manifesto, a political speech, a Pamphlets, and an official Facebook Page for moderated discussion. The live performance was accompanied by the manifesto, which is designed in the familiar format of the consumer medicine information – a leaflet with important information about medication included with the medicine itself. The leaflet described a ‘diagnosis of society’ and a series of ‘social prescriptions’ (commonly referred to with the symbol ℞). The visual language of the Pamphlets represents the key concept of the <i>digital pharmakon</i>, referring to the simultaneous quality of technics as cause of our suffering and what makes life worth living. Following Sieglers’s arguments, the concept marks a point of departure for a critical overhaul towards a re-formation of a healthy psychic apparatus. Each poster contains one diagnosis and one prescription. Colour gradients are imbued with meaning: blue refers to ‘technics’, green to ‘Being’, yellow to the ‘human spirit’, and red to the ‘desire for drive-based energy’. The coming-together of these colours through gradients symbolises the simultaneity of the digital pharmakon at the heart of Stiegler’s critical philosophy.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Fiorentini, I. Khiri, K. Vershinina, and F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 1 Nov 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Studio @ NN DE Café: De upcoming professional op locatie</title>
+			<link>https://www.fernandovandervlist.nl/design/studio-at-nn-de-cafe.html</link>
+			<subject>Platform for Creative Entrepreneurship</subject>
+			<description>Contemporary creative professionals are creative managers, promotors, administrators and organisers all at the same time. This means that these creative professionals need to present themselves professionally, as well as remain distinctive in their creative practice. <i>Studio @ NN DE Café</i> is an exhibition that contributes to this new kind of creative entrepreneurship by functioning as a platform of opportunity and offering a space of possibilities. The exhibition is at the Nationale-Nederlanden Douwe Egberts Café – a place of art, work, and coffee centrally located across the street from Rotterdam Central Station. It also joins in the mission of the Willem de Kooning Academy (Rotterdam University of Applied Sciences) to create pioneers that maintain a close relationship with society. In this exhibition, twelve young professional artists and designers from various disciplines express and present themselves in a unique way. The value of the exhibition then lies partially in connecting professionals with different backgrounds and career trajectories. The challenge is to find interesting ways to juxtapose the works of these young artists and designers while still maintaining the sense of a coherent exhibition. Central to the design approach are a set of visual symbols that communicate about the distinctive qualities and skills of these young professionals. They effectively provide a number of anchors to visitors who would like to know more about the people behind the exhibited works. They may even trigger conversation. These anchors are displayed as simple word tag clouds printed atop the movable cabinets like informational beacons that are used to exhibit the artists’ and designers’ works whilst also suggesting ways to interpret them.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Sun, 6 Oct 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Reconstructing Web History: Tracing the Trajectory of Lists on the Internet Movie Database</title>
+			<link>https://www.fernandovandervlist.nl/research/reconstructing-web-history.html</link>
+			<subject>Doing Web History</subject>
+			<description>This report presents a single-site history or site biography of the Internet Movie Database (IMDb) and interprets the results of a Web historical analysis through the conceptual lens of Internet list-making culture. The primary soure of Web historical material in our analysis is the Internet Archive, which has been collecting an increasing amount of ‘snapshots’ since November 1996. The main objective is to trace the <i>list</i> as it has been relocated or evolved into different forms over the course of the years so as to be able to read these developments side-by-side with other technological, social and cultural changes. Based on this historical analysis, we show that the list as such has transformed into a <i>list hub</i> or more appropriately a <i>reference database</i> that compiles a range of list <i>genres</i> and as such has been integrated into a number of devices and services external to itself that draw from <i>IMDb.com</i> as a resource of information about movies and celebrity culture. Moreover, we argue that in its current form, the design of <i>IMDb.com</i> constructs a user who is expected to generate order in an initially undifferentiated set of items (i.e. build lists) through particular interactions. Finally, we also reflect briefly on Web historiographical practice from the perspectives of Internet research and <i>digital methods</i> (Rogers 2013) in a broader sense.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>T. de Keijser and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Fri, 15 Nov 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>What’s in the Social Graph?: An Enquiry into a Technical Protocol</title>
+			<link>https://www.fernandovandervlist.nl/research/whats-in-the-social-graph.html</link>
+			<subject>Protocol Politics</subject>
+			<description>In this paper, I develop a historical and discursive understanding of the Social Graph. It develops two lines of investigation: first, an epistemological debate is traced that attempts to solve issues of the real-virtual divide. Based on this historical trajectory, a methodological pragmatism becomes apparent that also appears in graph theory as applied to the Social Graph. ‘Big Data’ undermines these issues of a divide by relying on an epistemology of patterns. However, these patterns turn out to be grounded online as well. Second, this epistemological trajectory is connected to current social, economic, and scientific discourse – situating Big Social Data analysis, the Social Graph, and the Open Graph protocol. To this end, Facebook’s Social Graph is used as a case study throughout. Ultimately, I argue that the Open Graph, as a supplementary and enforcing protocol to the Social Graph, represents Facebook’s normalising strategic direction towards developing a cybernetic infrastructure that rewards those who conform to its commercial ideals, while punishing those who deviate from it.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 7 Jun 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>A Technicity of Collaboration: Coordinating Distributed Software Development on GitHub</title>
+			<link>https://www.fernandovandervlist.nl/research/a-technicity-of-collaboration.html</link>
+			<subject>Platformed Collaboration in Open Source Software Development</subject>
+			<description>This thesis considers the technicity of collaboration on GitHub from a software and platform studies perspective. It discusses how software has the capacity to produce and instantiate certain modes of collaboration that are specific to the environment in which that software is implemented. In order to do so, it draws from the fields of new media, software and platform studies as well as from computer and information science, and combines empirical descriptions with feature analyses in terms of their broader implications for collaboration on GitHub. The analysis includes discussion of Git as a system for distributed revision control and source code management, practices of collaboration on GitHub, and information transparency and activity awareness in relation to the implications for computer-supported collaborative innovation, knowledge sharing, and community building. Based on the analysis, I propose that collaboration should be understood as a relational construct between users and their technical supports, as articulated in a specific context. Systems of storage and versioning, access protocols, <i>grammars of collaboration</i>, <i>social regulation</i>, <i>social learning</i>, activity streams or visualisations, and other facets of <i>technicity</i> are all constitutive of the conditions for these context-specific modes of innovation, knowledge sharing, and community building to emerge.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Wed, 22 May 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Distributed Narratives: Extracting Design Methods from Nonlinear Narrative Formations</title>
+			<link>https://www.fernandovandervlist.nl/research/distributed-narratives-creating-010.html</link>
+			<subject>Designing for Distributed Narratives</subject>
+			<description>This thesis proposes a concept of distributed narratives as a narrative form which is specific to the new-media ecology. As such, it advocates a multilayered approach to thinking about narrative structure as a dynamic formation. First, it proposes a theoretical framework, subdivided into layers, for understanding narrative as an encoded distributed formation. The first layer will identify the role of raw data, and examine how the formation of narrative is influenced by the way this data is stored in databases. The second layer, grounded in Russian formalism, will examine the literary concept of <i>fabula</i>, showing how the data is used and made accessible through narrative techniques. The third layer will then identify the notion of <i>syuzhet</i>, which entails exploring the dynamic role of the user, particularly in the processes of personalisation and accessing narratives. Second, by examining a fourth layer, the thesis shows how the principles of distributed narratives relate to the way these narratives are <i>decoded</i>. Because the decoding of distributed narratives is determined by the way in which these are encoded, the concepts developed in this thesis not only allow for narrative analysis, but also offer an array of proposals for designers to consider while developing appropriate design methods.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Sat, 9 Mar 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Studying Sociocultural Networks: On the Viral Logic of Networked Media Objects</title>
+			<link>https://www.fernandovandervlist.nl/research/studying-sociocultural-networks.html</link>
+			<subject>Content Virality in Online Social Networks</subject>
+			<description>This paper puts forward a theoretical framework to explore and understand the viral logic of digital replication and sociocultural contagion in an age of networks. It suggests an account of viral logic grounded in the Darwinian understanding of memes as well as in Tarde’s understanding of imitation and Bourdieu’s<i>habitus</i>. Using this framework, three specific classes of networked objects were analysed that operate through viral logic on the Web. These classes are activity streams, media conversations, and parasitic media. As a result of these analyses the theoretical framework was extended with a digital account to fit with specific properties of the Web. This research resulted in an applied understanding of viral logic, and of the networks that are shaped by the productivity of memes. It also led to a critical assessment of quantitative analysis, questioning in particular the asymmetrical relation between the social networks and the real world. To this end, a contextual methodology is suggested to complement quantitative analysis with a deep understanding of network mechanics.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 11 Jan 2013 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Distributed Images :: 911: Heartbeat of a Distributed Media Event</title>
+			<link>https://www.fernandovandervlist.nl/design/distributed-images.html</link>
+			<subject>Designing for Distributed Media Events</subject>
+			<description>The two monumental volumes present a rigorous analysis of one particular image – the crash of American Airlines Flight 175 into the south tower of the WTC on September 11, 2001 – that lends its iconic power to an emergent network of related media objects. The events on September 11 have been captured and preserved by many, and in a wide variety of different media formats. Using varied primary documentary materials (e.g., archived newspapers, news articles, photographs, television channel streams, recorded phone conversations, stored text messages, pager data from the FDNY) and a systematic design approach, <i>911: Heartbeat of a Distributed Media Event</i> – where the title refers both to the date of event and the emergency service response number – unfolds the trajectory of this media event across nearly 2,500 pages. It is printed entirely in black with the exception of two full page images. The project provides a novel perspective on the emergent media ecology of a photographic icon of an event seared into collective memory. By tracing the associations of the iconic image under consideration, and by reconstructing its chronological trajectory, it becomes instantly clear how time is mediated and effectively synchronised worldwide at the time of the events. Across the board, television channels interrupted their routine programming flows one after another in order to televise the breaking news. The crash of American Airlines Flight 11 caught people entirely by surprise, but was captured on camera, although in relatively poor quality, by two French-born American filmmakers – brothers Jules and Gédéon Naudet – who were there incidentally to shoot a documentary film about a firefighter. In contrast, the second plane crash of American Airlines Flight 175 occurred once all television camera’s were set up, pointing at the burning tower while live broadcasting the breaking news event across their networks. Consequently, the second crash is observed and documented from a large number of places, by many people, and with different kinds of registration devices, resulting in high-quality photographs, voice recordings, moving images, and many other primary documentary materials. Everyone could see the collapse of the Twin Towers of the World Trade Center, and they could see it live. It is under these conditions that the iconic photographic image of the burning tower could be staged, produced, widely circulated, and collectively remembered.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Mon, 11 Jun 2012 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Distributed Identities :: README: Distributed Identity of the Internet Archive</title>
+			<link>https://www.fernandovandervlist.nl/design/distributed-identities.html</link>
+			<subject>Designing for Distributed Brand Identities</subject>
+			<description>The contemporary new media environment requires an overhaul in the way one thinks about brands and brand identities. In particular, it is essential to consider the brand as a distributed network of identity expressions comprising various characters, marks, images, messages, and narratives, but also their adoption and appropriation in culture and society. Some of these expressions come from brand representatives following strict identity guidelines and style guide documents, but today many expressions are not as controlled and may be appropriated in different ways. Hence brand identities are no longer strictly visual, nor controlled in their circulation. <I>README: The Internet Archive’s Distributed Identity</I> presents an analysis of the current graphical brand identity of the Internet Archive and proposes a reconsideration of their identity as one that is networked and distributed. That is, the brand identity of the Internet Archive is one that is a collection fo visual and non-visual echoes circulating across the live Web and in Web archives, which aligns with distributed narrative forms that arguably characterise contemporary new media environments. The paperback presents the variety of brand expressions concerning the Internet Archive and also presents a typology of these expressions. These expressions were collected through a number of Google Search queries. While brand marks are included, there are also former brand marks and slight variations on them. Furthermore, the analysis also includes alternative expressions, including homepage screenshots, circulating content and maps, photographs of the institution’s brick and mortar building, photographs associated with the institution and its founder, and screenshots of ‘12 Hours Dark: the Internet Archive vs. Censorship’, which refers to the controversial SOPA (Stop Online Piracy Act) bill introduced in the United States in early 2012. These examples demonstrate the value of thinking about brand identities not as fixed and controlled graphic expressions, but as networked, dynamic, and distributed assemblages of goals, content, people, buildings, images, issues, and concerns associated with brands.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Mon, 11 Jun 2012 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Distributed Narratives: Navigating Multiple Views</title>
+			<link>https://www.fernandovandervlist.nl/design/distributed-narratives-multiple-views.html</link>
+			<subject>Designing <i>Distributed Narratives</i></subject>
+			<description>Thirteen distinctive pamphlets are designed as supplements to the Bachelor’s thesis <i>Distributed Narratives: Extracting Design Methods from Nonlinear Narrative Formations</i> (2012). Each pamphlet provides a selective reading – or view – of its contents. The contents of the thesis are abstracted and visualised as a tree with branches for sections and subsections. Each branch has a page number and its position on the front side of the pamphlet corresponds precisely with a miniature representation of the corresponding paragraph on the rear side. That is, the rear side contains the entire thesis in miniature form, much like a landscape of floating text paragraphs. While the rear sides of the pamphlets remain identical, the front sides are particular to distinctive readings. Readings are based on a number of character types: there is a ‘Collector’, a ‘Data Architect’, a ‘Data Miner’, a ‘Decoder’, a ‘Device Junkie’, an ‘Encoder’, an ‘Information Architect’, a ‘Network Administrator’, a ‘Process Coordinator’, a ‘Random Participant’, a ‘Stylist’, a ‘System Architect’, and a ‘System Informer’. Descriptions of each character type are provided in the upper left sections of these pamphlets. They thus serve as blueprints covering different – and sometimes overlapping – aspects of conceptualising, designing, engineering, and coordinating distributed narratives whilst inspiring interdisciplinary collaborations.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Mon, 11 Jun 2012 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Distributed Narratives: Extracting Design Methods from Nonlinear Narrative Formations</title>
+			<link>https://www.fernandovandervlist.nl/research/distributed-narratives.html</link>
+			<subject>Designing for Distributed Narratives</subject>
+			<description>This thesis proposes a concept of distributed narratives as a narrative form which is specific to the new-media ecology. As such, it advocates a multilayered approach to thinking about narrative structure as a dynamic formation. First, it proposes a theoretical framework, subdivided into layers, for understanding narrative as an encoded distributed formation. The first layer will identify the role of raw data, and examine how the formation of narrative is influenced by the way this data is stored in databases. The second layer, grounded in Russian formalism, will examine the literary concept of <i>fabula</i>, showing how the data is used and made accessible through narrative techniques. The third layer will then identify the notion of <i>syuzhet</i>, which entails exploring the dynamic role of the user, particularly in the processes of personalisation and accessing narratives. Second, by examining a fourth layer, the thesis shows how the principles of distributed narratives relate to the way these narratives are <i>decoded</i>. Because the decoding of distributed narratives is determined by the way in which these are encoded, the concepts developed in this thesis not only allow for narrative analysis, but also offer an array of proposals for designers to consider while developing appropriate design methods.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Fri, 25 May 2012 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Googleverse: The Google Search Universe</title>
+			<link>https://www.fernandovandervlist.nl/design/googleverse.html</link>
+			<subject>Googlisation</subject>
+			<description>The Googleverse is the ecosystem of Google’s tools, products, and services. It represents the digital universe according to Google, which to many is the primary way of accessing the Web. This diagram takes stock of all local Google domains available for Web search by people worldwide. It has screen captures for each of Google’s country code top-level domains (ccTLDs), which cater to people in different countries, sovereign states, and other territory identified with a country code. They are positioned and scaled according to the size of the populations they cater to. Yet notably, all of the nearly 200 local Google domains’ landing pages look roughly identical. They all have the white background, the centred brand mark with the search box underneath, the ‘I’m Feeling Lucky’ feature button, and a small number of visible tabs and hyperlinks. In fact, these landing pages have not really changed much at all since the launch of Google Search in the late 1990s. Meanwhile, scholars have written ‘Googlization’ critiques, including ‘Google and the Politics of Tabs’ (Govcom.org, 2008), <i>Google and the Myth of Universal Knowledge</i> (Jeanneney, 2008), and <i>The Googlization of Everything</i> (Vaidhyanathan, 2011). But upon closer examination there are small differences, too. In addition to the changing tabs, there are differences in language, but also slight differences in the visual interface. First, at the time of data collection – May 11, 2011 – <i>google.us</i> redirects to the worldwide domain <i>google.com</i>, which is the only domain that does not state any country names. And second, <i>google.com.hk</i> is the only local Google domain with a curious solid black border around the centred brand mark with the search box underneath. Furthermore, as an interactive diagram of floating local Google Search widgets, the project also invites cross-language searches and comparative analysis of localised and personalised search results, which can serve critical purposes alongside general critiques of ‘Googlization’.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Sat, 15 Oct 2011 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Rotterdam 2057: The Future Will Be History</title>
+			<link>https://www.fernandovandervlist.nl/design/rotterdam-2057-blaak10.html</link>
+			<subject>Designing for Future Cities</subject>
+			<description>Rotterdam is a city of many contrasts and traditions, and is sometimes considered a testing grounds for Dutch electoral politics. Rotterdam has already been termed the European Capital of Culture (2001), the City of Architecture (2007), and most recently the Best Festival City of the World (2010). The Port of Rotterdam is also a physical and a metaphorical connection to the rest of the world: in terms of demographics, Rotterdam is a part of the world more than it is a part of Netherlands. It is a place where important social, cultural, and political issues emerge, and thus need to be addressed. Therefore, it is both necessary and useful to develop visions of the future today. While the year 2057 is seemingly a distant future, it is also the year in which some of us retire and leave our jobs. Visionaries should look beyond the present moment and into the distant future. But who are the visionaries of today and what are their visions of the future of this city? The year 2057 is still a long time to go, but visions of the future should be developed today.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>M. van Bachum, E. Harmsen, F. N. van der Vlist (alphabetical); et al.</dc:contributor>
+			<pubDate>Thu, 12 May 2011 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Rotterdam 2057: The Future Will Be History</title>
+			<link>https://www.fernandovandervlist.nl/design/rotterdam-2057.html</link>
+			<subject>Designing for Future Cities</subject>
+			<description>This project is the outcome of a collaboration among 60 students in Graphic Design, which has culminated in a book publication (Willem de Kooning Academy in collaboration with Jong and Goed, 2011) and an accompanying three-day interactive exhibition at BLAAK10 Gallery and Store (Rotterdam, Netherlands). It is an edited volume with 36 distinct contributions, each presenting a unique vision of the future of the city of Rotterdam in the year 2057. Contributions are organised by the scale of visionary concern, so to speak: (i) they engage with Rotterdam as a microcosm representing the world at large, (ii) they engage with Rotterdam as a city, urban or metropolitan area, and (iii) they engage with Rotterdam from a perspective of people and their communities, cultures, economies, and interactions. A keyword index is included to enable readers to navigate these contributions. While the entire index is presented on a single spread, corresponding marks are also printed on the book’s fore-edge (fanned). The 22nd section is a satire titled ‘The Wonderful World of Choicemania’. The primary focus of this section is on the critical human and psychological implications of technological change. Drawing from recent ideas and developments in the fields of psychology and game theory – including B. Schwartz’s influential book on <i>The Paradox of Choice</i> (2005) – some of the psychological and social implications of the availability of too much choice are considered, in particular the relation between choice, self-identity management, and autonomy. It is a satire that envelops the reader in a circular argument through a series of six consecutively visualised and illustrated statements guiding the reader through a decision-making process. As pamphlets, they may be cut out and put up next to one another in the form of a circle. It is a decision aid designed to facilitate reasoned decision making. The satire is a critique on the ideological construct that promotes the belief in the idea that more choice fundamentally equals more freedom. Yet the ability of individuals to make rational and strategic decisions is highly limited for various reasons. Various design elements are used to this end to point out inherent conflicts between the availability of too much choice and the illusion of self-identity management. For example, to what extent can one craft, invent, or assemble – rather than inherit – an identity of the self? Two colour schemes are used and intertwined, making visual references to social media on the one hand (blue, white, Internet colours), and to critiques of conspicuous consumption on the other hand (red, yellow, supermarket colours). Both modes of consumption become increasingly entangled in the wonderful world of choice.</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. Hahne, T. Meeus (alphabetical); et al.</dc:contributor>
+			<pubDate>Thu, 12 May 2011 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Exercises in Style: Tweeüntwintig variaties op de werkelijkheid; Een lexicologie van de werkelijkheid</title>
+			<link>https://www.fernandovandervlist.nl/design/exercises-in-style.html</link>
+			<subject></subject>
+			<description>This project is inspired by R. Queneau’s <i>Exercises de style</i> (Gallimard, 1947), which is a collection of 99 retellings of the same story, each in a different style. Similarly for the present writing experiment, a short piece of writing was taken from <i>De Telefoongids and De Gouden Gids</i> (DTG, 2011), which is the Dutch telephone book. In particular, a brief 250-word accompanying paragraph to the colophon is selected as a starting point. This single piece of writing was then rewritten into 22 thematic variations while still expressing the same meanings. How to communicate the same meanings in different formats? Some are conventional, but many are experimental and explore the characteristics and limits of distinctive genres of writing. The book presents the outcomes of the writing experiment in the form of a systematic linguistic analysis, which illustrates the deconstructive character of the experiment itself. It also acknowledges the origin of the writings it contains and adopts various design elements from the telephone book. What is it that makes these variations distinctive, and what do they still have in common? First, each variation text is compared to the text of the original piece of writing to identify literal commonalities (i.e., shared words, numbers, punctuation). These commonalities then become core elements while all distinctive elements become contextual information expressing the particular variations. This contextual information is then used to deconstruct each variation further. Namely all contextual words, numbers, and punctuation are dissected and spread out alphabetically on individual pages (i.e., A–Z, 0–9, and punctuation) while retaining their original positions. The result is a rigorous inventory of words, numbers, and punctuation per variation and provides insights into the typographic, linguistics, and language conventions. For example, one variation of a personal letter displays a relatively large number of words filed under <i>i</i> and <i>j</i> due to the increased conventional use of words like ‘I’, ‘you’, and ‘your’. In addition to this analysis, the book also includes a reference section with brief descriptions of the variations included, and also includes a lexicon (i.e., an inventory of words used).</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Thu, 21 Apr 2011 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Hergebruik (Special Issue), Huig #12</title>
+			<link>https://www.fernandovandervlist.nl/design/huig-issue-12.html</link>
+			<subject></subject>
+			<description><i>Huig</i> (named after Dutch architect H. A. Maaskant) is an architectural periodical published annually by the Rotterdam Academy of Architecture and Urban Design (RAvB). This twelfth (special) issue addresses the current topic of vacancy in architecture and urban planning in the city of Rotterdam, Netherlands. The layout design envelops the reader in the magazine and makes the reading experience similar to traversing a vacant city. Various design elements are used to this end. For example, the inside of the protective dust jacket is a cartographic map of the contents of the entire issue, and serves as an overview of its contents and pages. Additionally, zoom-ins and zoom-outs are used to frame the pages that follow like a canvas, with some containing section overviews, others containing articles, interviews, and there is also a photographic essay running throughout the entire volume. While the front cover is glossy to illustrate the new – or the new-build – each section is in fact thematic and successively addresses one stage of the lifecycle of the architectural building (i.e., new-build, decay, vacancy, reuse, and demolition). Design elements differ in each thematic section to illustrate these successive phases. The editorial and photographic content are all aligned with this theme. Notably, the demolition phase is intentionally left out so as to make a statement and suggest the discourse move towards adaptive reuse instead. That is, a move towards reusing sites or buildings for purposes other than for which they were originally built or designed (e.g., repurposing vacant office buildings for social housing).</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>T. de Jong, M. Józefczak, F. N. van der Vlist, and D. R. de Vries (alphabetical)</dc:contributor>
+			<pubDate>Fri, 4 Feb 2011 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>127 Years of Dutch Graphic Design</title>
+			<link>https://www.fernandovandervlist.nl/design/127-years-of-dutch-graphic-design.html</link>
+			<subject>Dutch Graphic Design History</subject>
+			<description>This information graphic offers a historical perspective on the emergence of professional networks of graphic designers in Netherlands. Seminal designers and their collectives, collaborations, commissions, exhibitions, publications, educational backgrounds, places of birth, places of work, awards, prizes, related artistic movements were studied. While all included designers were professionally active in the past twenty-five years (1985–2010), their biographical information spans an impressive period of 127 years. This historical information is used and visualised as a geographical network, which puts a special emphasis on the geography and localities of professional design culture. This network is grounded geographically, but is also grounded temporally with a timeline (the bottom edge of the graphic). Each piece of information is located and some pieces are also dated. In particular, this rendition highlights the networks that have emerge over time among these Dutch designers and through their (shared) professional activities. It becomes apparent that most Dutch graphic designers, at one point in their careers, have been professionally active in the capital city. It is also surprising to learn that so many of these designers have their networks within the country, with only a small number of exceptions. There are biographical relations to the United States, United Kingdom, Germany, Belgium, and Switzerland. Nodes are different kinds of information and lines are connections across these pieces of information. Different typography and character styles are used to visually distinguish the kinds of information included. Sans-serif capital fonts are used only to display geographical locations and the timeline dates. Serif fonts are used for names of institutions, and most other information. Italic fonts are used only for the names of designers (the starting points for data collection). Font sizes indicate the ranking of each node, which is a measure of their degree (i.e., a count of the connections).</description>
+			<category>Design</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist</dc:contributor>
+			<pubDate>Mon, 28 Jun 2010 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+
+	</channel>
+
+</rss>
+
