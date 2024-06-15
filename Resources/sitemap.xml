@@ -9,7 +9,7 @@
 
 	<url>
 		<loc>https://www.fernandovandervlist.nl/about.html</loc>
-		<lastmod>2023-08-16</lastmod>
+		<lastmod>2024-06-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -40,6 +40,36 @@
 		<priority>0.80</priority>
 	</url>
 
+	<url>
+		<loc>https://www.fernandovandervlist.nl/research/the-nationality-of-apps.html</loc>
+		<lastmod>2024-05-31</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
+	<url>
+		<loc>https://www.fernandovandervlist.nl/research/challenges-as-catalysts.html</loc>
+		<lastmod>2024-04-17</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
+	<url>
+		<loc>https://www.fernandovandervlist.nl/research/big-ai.html</loc>
+		<lastmod>2024-03-12</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
+	<url>
+		<loc>https://www.fernandovandervlist.nl/research/digital-methods-for-sensory-media-research.html</loc>
+		<lastmod>2024-04-17</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
+	<url>
+		<loc>https://www.fernandovandervlist.nl/research/super-appification.html</loc>
+		<lastmod>2024-01-10</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
 	<url>
 		<loc>https://www.fernandovandervlist.nl/research/situating-the-marketization-of-data.html</loc>
 		<lastmod>2023-02-09</lastmod>

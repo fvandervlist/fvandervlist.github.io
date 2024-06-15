@@ -5,9 +5,12 @@ Redirect 301 /papers/api-governance.html /research/api-governance.html
 Redirect 301 /papers/app-studies-conference-panel.html /research/app-studies-conference-panel.html
 Redirect 301 /papers/apps-and-infrastructures-a-research-agenda.html /research/apps-and-infrastructures-a-research-agenda.html
 Redirect 301 /papers/apps-and-infrastructures-call-for-abstracts.html /research/apps-and-infrastructures-call-for-abstracts.html
+Redirect 301 /papers/big-ai.html /research/big-ai.html
 Redirect 301 /papers/calculation-in-digital-architecture.html /research/calculation-in-digital-architecture.html
+Redirect 301 /papers/challenges-as-catalysts.html /research/challenges-as-catalysts.html
 Redirect 301 /papers/counter-mapping-surveillance.html /research/counter-mapping-surveillance.html
 Redirect 301 /papers/diaspora-and-mapping-methodologies.html /research/diaspora-and-mapping-methodologies.html
+Redirect 301 /papers/digital-methods-for-sensory-media-research.html /research/digital-methods-for-sensory-media-research.html
 Redirect 301 /papers/distributed-narratives.html /research/distributed-narratives.html
 Redirect 301 /papers/facebooks-evolution.html /research/facebooks-evolution.html
 Redirect 301 /papers/following-uvamooc-on-twitter.html /research/following-uvamooc-on-twitter.html
@@ -24,7 +27,9 @@ Redirect 301 /papers/situating-the-marketization-of-data.html /research/situatin
 Redirect 301 /papers/social-media-and-platform-historiography.html /research/social-media-and-platform-historiography.html
 Redirect 301 /papers/store-interface-package-connection.html /research/store-interface-package-connection.html
 Redirect 301 /papers/studying-sociocultural-networks.html /research/studying-sociocultural-networks.html
+Redirect 301 /papers/super-appification.html /research/super-appification.html
 Redirect 301 /papers/the-making-of-predictions.html /research/the-making-of-predictions.html
+Redirect 301 /papers/the-nationality-of-apps.html /research/the-nationality-of-apps.html
 Redirect 301 /papers/the-platform-as-ecosystem.html /research/the-platform-as-ecosystem.html
 Redirect 301 /papers/the-political-economy-of-social-data.html /research/the-political-economy-of-social-data.html
 Redirect 301 /papers/the-technicity-of-platform-governance.html /research/the-technicity-of-platform-governance.html
@@ -54,3 +59,5 @@ Redirect 301 /research/bdes-thesis.html /research/distributed-narratives.html
 Redirect 301 /research/ba-thesis.html /research/a-technicity-of-collaboration.html
 Redirect 301 /research/ma-thesis.html /research/the-making-of-predictions.html
 Redirect 301 /research/phd-thesis.html /research/the-platform-as-ecosystem.html
+
+

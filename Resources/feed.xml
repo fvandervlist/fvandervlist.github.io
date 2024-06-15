@@ -6,15 +6,65 @@
 		<title>Feed of / – fernandovandervlist.nl</title>
 		<atom:link rel="self" type="application/rss+xml" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 		<link>https://www.fernandovandervlist.nl/</link>
-		<description>Fernando van der Vlist (PhD Utrecht University) is a postdoctoral researcher of media and digital society at Utrecht University and also, since 2016, with the Collaborative Research Centre ‘Media of Cooperation’ at the University of Siegen (funded by the German Research Foundation, DFG).</description>
+		<description>Fernando van der Vlist (PhD Utrecht University) is Assistant Professor of Cultural Data &amp; AI in the Department of Media Studies at the University of Amsterdam, the Netherlands, and programme coordinator of the Master&rsquo;s Cultural Data &amp; AI. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
 		<language>en-NL</language>
-		<lastBuildDate>Sat, 25 Mar 2023 12:00:00 +0200 (CEST)</lastBuildDate>
+		<lastBuildDate>Sat, 15 Jun 2024 12:00:00 +0200 (CEST)</lastBuildDate>
 		<managingEditor>mail@fernandovandervlist.nl</managingEditor>
 
 		<item>
+			<title>The Nationality of Apps?</title>
+			<link>https://www.fernandovandervlist.nl/research/the-nationality-of-apps.html</link>
+			<subject>App Studies</subject>
+			<description>As Apple’s App Store approaches its 16th anniversary, regulations, markets, and services have evolved into local offerings of what was once a unified marketplace, resulting in distinct app experiences worldwide. In the context of ongoing efforts to regulate the app ecosystem, dominant app stores like Apple’s App Store and the Google Play Store play a pivotal role in delineating and controlling boundaries between countries or regions within it. This report explores the implications of this trend for country-specific offerings and regional cultures and economies of apps, as well as the diverse manifestations of ‘appification’ on a global scale. Through a series of diverse case studies conducted together with our Master’s students, adopting a ‘multi-situated’ approach to app studies, it highlights the multifaceted impact of apps on everyday life, cultural and economic dynamics, and geopolitical events. Ultimately, the report underscores the importance of critical app studies and its ongoing relevance in comprehending the cultural, economic, and political dimensions of mobile apps and appification across countries and regions worldwide.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist and E. J. T. Weltevrede</dc:contributor>
+			<pubDate>Fri, 31 May 2024 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Challenges as Catalysts</title>
+			<link>https://www.fernandovandervlist.nl/research/challenges-as-catalysts.html</link>
+			<subject>Challenges in AI and Self-Driving</subject>
+			<description>Artificial intelligence (AI) and machine learning (ML) are becoming increasingly significant areas of research for scholars in science and technology studies (STS) and media studies. In March 2020, Waymo, Google/Alphabet’s autonomous vehicle project, introduced the ‘Open Dataset Virtual Challenge’, an annual competition leveraging their Waymo Open Dataset. This freely accessible dataset comprises annotated autonomous vehicle data from their own Waymo vehicles. Yearly, Waymo has continued to host iterations of this challenge, inviting teams of computer scientists to tackle evolving machine learning and vision problems using Google's data and tools. This article analyses these challenges, situating them within the context of the ‘Grand Challenges’ of artificial intelligence (AI), which aimed to foster accountable and commercially viable advancements in the late 1980s. Through two exploratory workshops we adopted a ‘technographic’ approach to examine the pivotal role of challenges in the development and political economy of AI. Serving as an organising principle for the AI innovation ecosystem, the challenge connects companies and external collaborators, driving advancements in specific machine vision domains. By exploring six key themes—interface methods, incrementalism, metrics, AI vernacular, applied domains, and competitive advantages—the article illustrates the role of these challenges in shaping AI research and development. By unpacking the dynamic interaction between data, computation, and labor, these challenges serve as catalysts propelling advancements toward self-driving technologies. The study reveals how challenges have historically and presently shaped the evolving landscape of self-driving and AI technologies.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>S. Hind, F. N. van der Vlist, and M. Kanderske</dc:contributor>
+			<pubDate>Wed, 17 Apr 2024 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Big AI</title>
+			<link>https://www.fernandovandervlist.nl/research/big-ai.html</link>
+			<subject>Political Economy of AI and Cloud Infrastructure</subject>
+			<description>Critical scholars contend that ‘There is no AI without Big Tech’. This study delves into the substantial role played by major technology conglomerates, including Amazon, Microsoft, and Google (Alphabet), in the ‘industrialisation of artificial intelligence’ (AI). This concept encapsulates the shift of AI technologies from the research and development stage to practical, real-world applications across diverse industry sectors, resulting in new dependencies and associated investments. We employ the term ‘Big AI’ to encapsulate the structural convergence of AI and Big Tech, characterised by the profound interdependence of AI with the infrastructure, resources, and investments of these major technology companies. Using a ‘technographic’ approach, our study scrutinises the infrastructural support and investments of Big Tech in the AI sector, focusing on corporate partnerships, acquisitions, and financial investments. Additionally, we conduct a detailed examination of the complete spectrum of cloud platform products and services offered by Amazon, Microsoft, and Google. We demonstrate that AI is not merely an abstract idea but an actual technology stack encompassing infrastructure, models, applications, and an ecosystem of applications and companies relying on this stack. Significantly, these tech giants have seamlessly integrated all three components of the stack into their cloud offerings. Furthermore, they have developed industry-focused solutions and marketplaces aimed at attracting third-party developers and businesses, fostering the growth of a broader AI ecosystem. This analysis underscores the intricate interdependence between AI and cloud infrastructure, emphasising the industry-specific aspects of cloud AI.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist, A. Helmond, and F. L. Ferrari</dc:contributor>
+			<pubDate>Tue, 12 Mar 2024 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Digital Methods for Sensory Media Research: Toolmaking as a Critical Technical Practice</title>
+			<link>https://www.fernandovandervlist.nl/research/digital-methods-for-sensory-media-research.html</link>
+			<subject>Citical Technical Practice</subject>
+			<description>‘Digital methods’ turn to medium-specific and online avenues for social and cultural research. While these approaches foster empirical media studies, it has become increasingly challenging to ‘follow the medium’ and ‘repurpose’ its methods. The prominence of sensory media such as ‘smart’ networked devices (e.g. mobile phones) in mundane practices and their infrastructural dependencies confront media scholars with highly contingent objects of study. Yet, studying such sensor-based devices is crucial, for they enable continuous and unnoticed monitoring of everyday (inter)activity. The article suggests that developing digital methods for sensory media can be understood as specific ‘critical technical practice’ (CTP) by engaging with two toolmaking stories. It draws on and emphasises the fundamental similarity between CTP and digital methods which both aim at conjoining technical engagement and understanding with methodological reflection. The toolmaking stories explicate the making of and the limitations to developing digital methods for increasingly obfuscated mobile sensory media, exploring the possibilities of repurposing their functionality and data. They include building tools for app code analysis focused on apps’ capacity to track sensor data, as well as for ‘sensing’ and analysing network traffic of mobile devices in use. The featured toolmaking then unravels distinctive research affordances, that is, action possibilities for ‘static’ and ‘dynamic’ modes of analysis grappling with the technicity of mobile sensory media and their data. We argue that toolmaking as CTP for sensory media studies implies engaging with these media as entangled infrastructures, examining not just their social, but also their technical ‘multi-situatedness’. This involves investigating the ‘liveliness’ of their data, or how it is generated, processed and made sense of. In conclusion, we discuss implications for ‘doing digital methods’ in sensory media research. Toolmaking itself becomes an inevitable form of media research and critique, inviting and challenging researchers to deploy the media’s situatedness for their investigations.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>T. H. J. Chao, D. van Geenen, C. Gerlitz, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Tue, 30 Jan 2024 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
+			<title>Super-Appification: Conglomeration in the Global Digital Economy</title>
+			<link>https://www.fernandovandervlist.nl/research/situating-the-marketization-of-data.html</link>
+			<subject>Super Apps and Conglomeration</subject>
+			<description>‘Super apps’ are on the rise. This study explores the characteristics, origins, and manifestations of these apps worldwide, presenting the concept of ‘super-appification’ to describe processes of conglomeration in the global digital economy. Super apps aim to become deeply integrated into people’s everyday lives, capturing and monetising essential activities. By analysing 41 super apps, we identify four distinct types of ‘super-app constellations’, showcasing different patterns and dynamics of conglomeration: ‘Swiss-Army Knife’ apps that consolidate services in one app, ‘Family’ apps that expand through subsidiaries, and ‘Host’ and ‘Hub’-style apps that leverage external developers. This typology offers a comprehensive understanding of the conglomeration patterns underpinning the rise of super apps, involving corporate, development and international expansion strategies. Ultimately, super-appification represents an intensified form of ‘appification’, as these apps increasingly pervade and commodify various aspects of everyday life, such as payment, insurance, grocery delivery, mobility and travel, with significant sociopolitical implications.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist, A. Helmond, M. J. Dieter, and E. J. T. Weltevrede</dc:contributor>
+			<pubDate>Wed 10 Jan 2024 12:00:00 +0200 (CEST)</pubDate>
+		</item>
+		<item>
 			<title>Situating the Marketization of Data</title>
 			<link>https://www.fernandovandervlist.nl/research/situating-the-marketization-of-data.html</link>
-			<subject>Platformisation and Data Markets</subject>
+			<subject>Platformisation in the Data Economy</subject>
 			<description>Data are neither inherently valuable, nor do all data have the same value. This contribution argues how data are made useful and valuable to specific actors and for specific purposes. It draws attention to the material politics of data flows and valuation, and to the many different actors and stakeholders who build the technological conduits and pipelines that facilitate the circulation and use of data. Therefore, it highlights the need to study the infrastructural layer of the global data market, as well as the central role of intermediaries who build and uphold these infrastructures for the exchange and use of data for different purposes. Both are important to situate the processes of datafication and data marketization in specific empirical settings.</description>
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
@@ -24,7 +74,7 @@
 		<item>
 			<title>The Platform as Ecosystem: Configurations and Dynamics of Governance and Power</title>
 			<link>https://www.fernandovandervlist.nl/research/the-platform-as-ecosystem.html</link>
-			<subject>Platformisation and Platform Power</subject>
+			<subject>Platformisation and Political Economy of Big Tech</subject>
 			<description>Digital ‘platforms’ owned and operated by powerful Big Tech companies have shaped and impacted social, economic, and political life in significant ways. Yet, platforms remain an ambiguous phenomenon. What exactly are these platforms? How can we identify and understand the features of their power?</description>
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>

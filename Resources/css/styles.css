@@ -5,6 +5,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Faustina:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap') ;
 
 
+	/* COLOUR SCHEME */
+
+	/* color: rgba(255,255,255,1) ; color: #ffffff ; Whites ;
+	/* color: rgba(255,255,255,.8) ;
+
+	/* color: rgba(32,34,36,1) ; color: #202124 ; Grays;
+	/* color: rgba(32,34,36,.8) ;
+	/* color: rgba(32,34,36,.6) ;
+	/* color: rgba(32,34,36,.4) ;
+	/* color: rgba(32,34,36,.2) ;
+	/* color: rgba(32,34,36,.1) ;
+	/* color: rgba(32,34,36,.05) ;
+	/* color: rgba(32,34,36,.02) ;
+
+		/* color: rgba(86,133,244,1) ; color: #4285f4 ; Bright blue ;
+		/* color: rgba(86,133,244,.6) ;
+		/* color: rgba(86,133,244,.4) ;
+		/* color: rgba(86,133,244,.2) ;
+		/* color: rgba(86,133,244,.1) ;
+		/* color: rgba(86,133,244,.08) ;
+		/* color: rgba(86,133,244,.05) ;
+		/* color: rgba(86,133,244,.02) ;
+
+		/* color: rgba(219,68,55,1) ; color: #db4437 ; Bright red ;
+		/* color: rgba(219,68,55,.6) ;
+		/* color: rgba(219,68,55,.1) ;
+		/* color: rgba(219,68,55,.05) ;
+		/* color: rgba(219,68,55,.02) ;
+
+		/* color: rgba(244,160,0,1) ; color: #f4b400 ; Bright yellow ;
+		/* color: rgba(244,160,0,.6) ;
+		/* color: rgba(244,160,0,.1) ;
+		/* color: rgba(244,160,0,.05) ;
+		/* color: rgba(244,160,0,.02) ;
+
+		/* color: rgba(15,157,88,1) ; color: #0f9d58 ; Bright green ;
+		/* color: rgba(15,157,88,.6) ;
+		/* color: rgba(15,157,88,.1) ;
+		/* color: rgba(15,157,88,.05) ;
+		/* color: rgba(15,157,88,.02) ;
+
+		/* color: rgba(134,64,229,1) ; color: #8640e5 ; Bright violet ;
+		/* color: rgba(134,64,229,.6) ;
+		/* color: rgba(134,64,229,.1) ;
+		/* color: rgba(134,64,229,.05) ;
+		/* color: rgba(134,64,229,.02) ;
+	*/
+
+
 @media screen {
 
 	/* PAGE SETUP */
@@ -304,10 +353,18 @@
 
 	section.summary blockquote span.blockquote-quo {
 		color: rgba(219,68,55,.6) ;
+		display: inline ;
+		font-style: normal ;
 		font-weight: 900 ;
 	}
 
 		/* SUMMARY TAGS */
+
+		section.summary h5 span.byline-kind {
+			color: rgba(219,68,55,1) ;
+			font-weight: 600 ;
+			margin: 0em .5em 0em 0em ;
+		}
 
 		section.summary h6 span.discipline {
 			color: rgba(219,68,55,1) ;
@@ -336,10 +393,12 @@
 			white-space: nowrap ;
 		}
 
+		section.summary h5 span.byline-expands,
 		section.summary h6 span.byline-expands {
 			display: none ;
 		}
 
+			section.summary h5:hover span.byline-expands,
 			section.summary h6:hover span.byline-expands {
 				display: inline ;
 			}
@@ -542,6 +601,10 @@
 	}
 
 	/* SECTION HEADINGS */
+
+	section.summary h5.h5-type {
+		color: rgba(219,68,55,1) ;
+	}
 
 	section h3.istype-latest {
 		color: rgba(244,160,0,1) ;
@@ -1182,7 +1245,7 @@
 
 		table td.td-description,
 		table td.td-description a {
-			font-weight: 600 ;
+			font-weight: 500 ;
 		}
 
 		table tr.tr-core-item td.td-description,
@@ -1413,8 +1476,9 @@
 			opacity: .8 ;
 		}
 
-		/* SINCE 2017 (≤ 5 YRS AGO) */
+		/* SINCE 2017 (≤ 6 YRS AGO) */
 
+		.y2024,
 		.y2023,
 		.y2022,
 		.y2021,
@@ -1425,20 +1489,20 @@
 			opacity: 1.0 ;
 		}
 
-		/* ARCHIVED (> 5 YRS AGO) */
+		/* ARCHIVED (> 6 ... < 12 YRS AGO) */
 
 		.y2017,
 		.y2016,
 		.y2015,
 		.y2014,
-		.y2013 {
+		.y2013,
+		.y2012 {
 			filter: alpha(opacity=60) ;
 			opacity: .6 ;
 		}
 
-		/* ARCHIVED (> 10 YRS AGO) */
+		/* ARCHIVED (> 12 YRS AGO) */
 
-		.y2012,
 		.y2011,
 		.y2010,
 		.y2009,
@@ -1452,6 +1516,7 @@
 			.is-upcoming:hover,
 			.y2025:hover,
 
+			.y2024:hover,
 			.y2023:hover,
 			.y2022:hover,
 			.y2021:hover,
@@ -1473,9 +1538,10 @@
 				opacity: 1 ;
 			}
 
-			/* ARCHIVED TR ITEMS (> 5 YRS AGO) */
+			/* ARCHIVED TR ITEMS (> 6 YRS AGO) */
 
-/*			table tr.y2023,
+/*			table tr.y2024,
+			table tr.y2023,
 			table tr.y2022,
 			table tr.y2021,
 			table tr.y2020,
@@ -1496,8 +1562,14 @@
 				border-bottom: 1px solid rgba(86,133,244,.08) ;
 			}
 
-/*			table tr.y2023 td.td-description,
+/*			table tr.y2024 td.td-description,
+			table tr.y2024 td.td-description a,
+			table tr.y2024 td.td-kind,
+			table tr.y2024 td.td-access,
+			table tr.y2023 td.td-description,
 			table tr.y2023 td.td-description a,
+			table tr.y2023 td.td-kind,
+			table tr.y2023 td.td-access,
 			table tr.y2022 td.td-description,
 			table tr.y2022 td.td-description a,
 			table tr.y2022 td.td-kind,
@@ -1565,7 +1637,7 @@
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
 
 
 	/* PAGE SETUP */
