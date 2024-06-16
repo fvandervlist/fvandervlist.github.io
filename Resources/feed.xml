@@ -6,7 +6,7 @@
 		<title>Feed of / – fernandovandervlist.nl</title>
 		<atom:link rel="self" type="application/rss+xml" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 		<link>https://www.fernandovandervlist.nl/</link>
-		<description>Fernando van der Vlist (PhD Utrecht University) is Assistant Professor of Cultural Data &amp; AI in the Department of Media Studies at the University of Amsterdam, the Netherlands, and programme coordinator of the Master&rsquo;s Cultural Data &amp; AI. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
+		<description>Fernando van der Vlist (PhD Utrecht University) is Assistant Professor of Cultural Data & AI in the Department of Media Studies at the University of Amsterdam, the Netherlands, and programme coordinator of the Master’s Cultural Data & AI. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
 		<language>en-NL</language>
 		<lastBuildDate>Sat, 15 Jun 2024 12:00:00 +0200 (CEST)</lastBuildDate>
 		<managingEditor>mail@fernandovandervlist.nl</managingEditor>
@@ -59,7 +59,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist, A. Helmond, M. J. Dieter, and E. J. T. Weltevrede</dc:contributor>
-			<pubDate>Wed 10 Jan 2024 12:00:00 +0200 (CEST)</pubDate>
+			<pubDate>Wed, 10 Jan 2024 12:00:00 +0200 (CEST)</pubDate>
 		</item>
 		<item>
 			<title>Situating the Marketization of Data</title>
