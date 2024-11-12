@@ -41,8 +41,12 @@
 	<meta name="citation_language" content="English" />
 	<meta name="citation_public_url" content="http://computationalculture.net/cfps-events/#apps-and-infrastructures" />
 
+	<!-- HTML base tag -->
+	<base href="https://www.fernandovandervlist.nl/" />
+
 	<!-- external resource link tags -->
-	<link rel="stylesheet" type="text/css" href="/Resources/css/styles.css" />
+	<link id="light-theme"rel="stylesheet" type="text/css" href="/Resources/css/styles-light.css" media="(prefers-color-scheme: light)" />
+	<link id="dark-theme" rel="stylesheet" type="text/css" href="/Resources/css/styles-dark.css" media="(prefers-color-scheme: dark)" />
 	<link rel="alternate" type="application/rss+xml" title="Feed of / &ndash; fernandovandervlist.nl" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 
 	<link rel="icon" type="image/png" sizes="32x32" href="/Resources/favicon/favicon-32x32.png">
@@ -82,7 +86,7 @@
 
 	<header>
 		<p class="header-path">
-			<a rel="author" href="https://www.fernandovandervlist.nl/" class="path path-root">fernandovandervlist.nl/</a>
+			<a rel="author" href="/" class="path path-root">fernandovandervlist.nl/</a>
 			&rang;
 			<a rel="internal" href="/research/" class="path-parent ahref-text">research/</a>
 			&rang;
@@ -90,7 +94,7 @@
 		</p>
 		<p class="header-anchors">
 			<a rel="internal anchor" href="#Summary" class="anchor ahref-text">&num;Summary</a>
-			<a rel="internal anchor" href="#Cite" class="anchor ahref-text">&num;Cite</a>
+			<a rel="internal anchor" href="#Cite" class="anchor anchor-is-reference ahref-text">&num;Cite</a>
 			<a rel="internal anchor" href="#Info" class="anchor ahref-text">&num;Info</a>
 			<a rel="internal anchor" href="#Article" class="anchor ahref-text">&num;Article</a>
 			<a rel="internal anchor" href="#Relations" class="anchor ahref-text">&num;Relations</a>
@@ -242,7 +246,7 @@
 					<td class="td-access"></td>
 				</tr>
 				<tr class="tr-item y2018">
-					<td class="td-icon"></td>
+					<td class="td-icon">&rarrhk;</td>
 					<td class="td-link"><a rel="external" target="_blank" href="https://wiki.digitalmethods.net/Dmi/WinterSchool2018MappingDataIntensiveAppInfrastructures" class="ahref-text">wiki.digitalmethods.net</a></td>
 					<td class="td-description">Mapping Data-Intensive App Infrastructures</td>
 					<td class="td-datemodified"><span class="is-date">2018-01</span></td>
@@ -250,7 +254,7 @@
 					<td class="td-access"><mark class="is-feature"><span class="is-emoji">&#x1f30d;</span>Public</mark></td>
 				</tr>
 				<tr class="tr-item y2017">
-					<td class="td-icon"></td>
+					<td class="td-icon">&rarrhk;</td>
 					<td class="td-link"><a rel="external" target="_blank" href="https://wiki.digitalmethods.net/Dmi/SummerSchool2017MethodsMaps" class="ahref-text">wiki.digitalmethods.net</a></td>
 					<td class="td-description">Methods Maps</td>
 					<td class="td-datemodified"><span class="is-date">2017-06</span></td>
@@ -258,7 +262,7 @@
 					<td class="td-access"><mark class="is-feature"><span class="is-emoji">&#x1f30d;</span>Public</mark></td>
 				</tr>
 				<tr class="tr-item y2017">
-					<td class="td-icon"></td>
+					<td class="td-icon">&rarrhk;</td>
 					<td class="td-link"><a rel="external" target="_blank" href="https://wiki.digitalmethods.net/Dmi/WinterSchool2017AppStoresAsDataInfrastructure" class="ahref-text">wiki.digitalmethods.net</a></td>
 					<td class="td-description">App Stores as Data Infrastructure</td>
 					<td class="td-datemodified"><span class="is-date">2017-01</span></td>
@@ -272,7 +276,7 @@
 						<span class="td-link-expands">&boxvr; <i>Part of</i> URL: <a rel="external" target="_blank" href="https://www.mediacoop.uni-siegen.de/en/annual-conference-2016/" class="ahref-text">mediacoop.uni-siegen.de</a><br /></span>
 						<span class="td-link-expands">&boxvr; <i>Funded by</i> Grant &numero;: <a rel="external" target="_blank" href="https://gepris.dfg.de/gepris/projekt/262513311" class="ahref-uri">262513311</a><br /></span>
 						<span class="td-link-expands">&boxvr; <i>Version of</i> URL: <a rel="external" target="_blank" href="http://computationalculture.net/regramming-the-platform/" class="ahref-text">computationalculture.net</a><br /></span>
-						<span class="td-link-expands">&boxur; <i>Cited by</i> SERP: <a rel="external" target="_blank" href="https://scholar.google.com/scholar?cites=6305338433930938677,6580519652477069352" class="ahref-text">scholar.google.com</a></span></td>
+						<span class="td-link-expands td-link-expands-is-reference">&boxur; <i>Cited by</i> SERP: <a rel="external" target="_blank" href="https://scholar.google.com/scholar?cites=6305338433930938677,6580519652477069352" class="ahref-text">scholar.google.com</a><br /></span></td>
 					<td class="td-description"><a rel="internal" href="/design/app-support-ecologies.html" class="path ahref-text">App Support Ecologies</a></td>
 					<td class="td-datemodified"><span class="is-date">2016-12-08</span></td>
 					<td class="td-kind"><span class="is-emoji">&#x1f4c3; &#x1f4ca;</span>Conference Poster</td>
@@ -284,14 +288,14 @@
 						&boxvr; DOI: <a rel="external" target="_blank" href="https://doi.org/10.5210/spir.v6i0.8431" class="ahref-uri">10.5210/spir.v6i0.8431</a><br />
 						<span class="td-link-expands">&boxvr; <i>Part of</i> e-ISSN: <a rel="external" target="_blank" href="https://portal.issn.org/resource/ISSN/2162-3317/" class="ahref-uri">2162-3317</a><br /></span>
 						<span class="td-link-expands">&boxvr; <i>Funded by</i> Grant &numero;: <a rel="external" target="_blank" href="https://gepris.dfg.de/gepris/projekt/262513311" class="ahref-uri">262513311</a><br /></span>
-						<span class="td-link-expands">&boxur; <i>Cited by</i> SERP: <a rel="external" target="_blank" href="https://scholar.google.com/scholar?cites=11703184730133935,11948690153081333579" class="ahref-text">scholar.google.com</a></span></td>
+						<span class="td-link-expands td-link-expands-is-reference">&boxur; <i>Cited by</i> SERP: <a rel="external" target="_blank" href="https://scholar.google.com/scholar?cites=11703184730133935,11948690153081333579" class="ahref-text">scholar.google.com</a><br /></span></td>
 					<td class="td-description"><a rel="internal" href="/research/app-studies-conference-panel.html" class="path ahref-text">App Studies (Conference Panel)</a></td>
 					<td class="td-datemodified"><span class="is-date">2016-10-31</span></td>
 					<td class="td-kind"><span class="is-emoji" title="&#x1f50d; Refereed">&#x1f4c4; &#x1f50d;</span>Conference Proceeding</td>
 					<td class="td-access"><mark class="is-feature"><span class="is-emoji">&#x1f513;</span>Open Access</mark></td>
 				</tr>
 				<tr class="tr-item y2016">
-					<td class="td-icon"></td>
+					<td class="td-icon">&rarrhk;</td>
 					<td class="td-link"><a rel="external" target="_blank" href="https://wiki.digitalmethods.net/Dmi/SummerSchool2016SecureMessagingAppEcologies" class="ahref-text">wiki.digitalmethods.net</a></td>
 					<td class="td-description">Mapping (Secure) Messaging App Ecologies</td>
 					<td class="td-datemodified"><span class="is-date">2016-07</span></td>
@@ -299,7 +303,7 @@
 					<td class="td-access"><mark class="is-feature"><span class="is-emoji">&#x1f30d;</span>Public</mark></td>
 				</tr>
 				<tr class="tr-item y2016">
-					<td class="td-icon"></td>
+					<td class="td-icon">&rarrhk;</td>
 					<td class="td-link"><a rel="external" target="_blank" href="https://wiki.digitalmethods.net/Dmi/WinterSchool2016DigitalMethodsForNumberCritique" class="ahref-text">wiki.digitalmethods.net</a></td>
 					<td class="td-description">Digital Methods for Number Critique</td>
 					<td class="td-datemodified"><span class="is-date">2016-01</span></td>
@@ -313,7 +317,7 @@
 
 	<footer>
 		<p class="legend">
-			<span class="legend-field">Legend:</span>
+			<span class="legend-field"><span class="legend-key">&#9679; </span>Legend:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value is-highlight"><span class="legend-key">&#9679; </span>pinned/highlight</span>
@@ -321,9 +325,16 @@
 				<span class="legend-value is-feature"><span class="legend-key">&#9679; </span>feature</span>
 				<span class="legend-value is-reference"><span class="legend-key">&#9679; </span>cite/reference</span>
 				<span class="legend-value is-visited"><span class="legend-key">&#9679; </span>visited</span>
+				<span class="legend-value is-marked"><span class="legend-key">&#9679; </span>marked</span>
 			</span>
 			&boxv;
-			<span class="legend-field">Filters:</span>
+			<span class="legend-field"><span class="legend-key">&#9681; </span>Theme:</span>
+			<small class="is-notif">&hellip;</small>
+			<span class="legend-values-expands">
+				<span class="legend-value"><input type="checkbox" id="toggleTheme" title="Toggle light/dark color scheme" /> Light</span>
+			</span>
+			&boxv;
+			<span class="legend-field"><span class="legend-key">&#9706; </span>Filters:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value"><input type="checkbox" id="toggleIsUpcoming" title="Toggle upcoming items (if applicable)" /> Upcoming</span>

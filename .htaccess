@@ -20,6 +20,7 @@ Redirect 301 /papers/making-the-car-platform-ready.html /research/making-the-car
 Redirect 301 /papers/multi-situated-app-studies.html /research/multi-situated-app-studies.html
 Redirect 301 /papers/pandemic-platform-governance.html /research/pandemic-platform-governance.html
 Redirect 301 /papers/platform-and-app-histories.html /research/platform-and-app-histories.html
+Redirect 301 /papers/platform.html /research/platform.html
 Redirect 301 /papers/reconstructing-web-history.html /research/reconstructing-web-history.html
 Redirect 301 /papers/regramming-the-platform.html /research/regramming-the-platform.html
 Redirect 301 /papers/search-as-research.html /research/search-as-research.html

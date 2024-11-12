@@ -27,8 +27,12 @@
 		Willem de Kooning Academy, Rotterdam University of Applied Sciences, Jong &amp; Goed" />
 	<meta name="author" content="M. van Bachum; E. Harmsen; F. N. van der Vlist; et al." />
 
+	<!-- HTML base tag -->
+	<base href="https://www.fernandovandervlist.nl/" />
+
 	<!-- external resource link tags -->
-	<link rel="stylesheet" type="text/css" href="/Resources/css/styles.css" />
+	<link id="light-theme"rel="stylesheet" type="text/css" href="/Resources/css/styles-light.css" media="(prefers-color-scheme: light)" />
+	<link id="dark-theme" rel="stylesheet" type="text/css" href="/Resources/css/styles-dark.css" media="(prefers-color-scheme: dark)" />
 	<link rel="alternate" type="application/rss+xml" title="Feed of / &ndash; fernandovandervlist.nl" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 
 	<link rel="icon" type="image/png" sizes="32x32" href="/Resources/favicon/favicon-32x32.png">
@@ -68,7 +72,7 @@
 
 	<header>
 		<p class="header-path">
-			<a rel="author" href="https://www.fernandovandervlist.nl/" class="path path-root">fernandovandervlist.nl/</a>
+			<a rel="author" href="/" class="path path-root">fernandovandervlist.nl/</a>
 			&rang;
 			<a rel="internal" href="/design/" class="path-parent ahref-text">design/</a>
 			&rang;
@@ -198,7 +202,7 @@
 				<tr class="tr-item y2011">
 					<td class="td-icon"></td>
 					<td class="td-link"><a rel="internal" href="/design/rotterdam-2057-blaak10.html" class="path ahref-text">rotterdam-2057-blaak10.html</a><br />
-						<span class="td-link-expands">&boxur; <i>Linked to</i> Page: <a rel="internal" href="/design/rotterdam-2057.html" class="path ahref-text">rotterdam-2057.html</a></span></td>
+						<span class="td-link-expands">&boxur; <i>Linked to</i> Page: <a rel="internal" href="/design/rotterdam-2057.html" class="path ahref-text">rotterdam-2057.html</a><br /></span></td>
 					<td class="td-description"><a rel="internal" href="/design/rotterdam-2057-blaak10.html" class="path ahref-text"><i>Rotterdam 2057</i> (BLAAK10 Gallery &amp; Store)</a></td>
 					<td class="td-datemodified"><span class="is-date">2011-05-12</span></td>
 					<td>Exhibition</td>
@@ -210,7 +214,7 @@
 
 	<footer>
 		<p class="legend">
-			<span class="legend-field">Legend:</span>
+			<span class="legend-field"><span class="legend-key">&#9679; </span>Legend:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value is-highlight"><span class="legend-key">&#9679; </span>pinned/highlight</span>
@@ -218,9 +222,16 @@
 				<span class="legend-value is-feature"><span class="legend-key">&#9679; </span>feature</span>
 				<span class="legend-value is-reference"><span class="legend-key">&#9679; </span>cite/reference</span>
 				<span class="legend-value is-visited"><span class="legend-key">&#9679; </span>visited</span>
+				<span class="legend-value is-marked"><span class="legend-key">&#9679; </span>marked</span>
 			</span>
 			&boxv;
-			<span class="legend-field">Filters:</span>
+			<span class="legend-field"><span class="legend-key">&#9681; </span>Theme:</span>
+			<small class="is-notif">&hellip;</small>
+			<span class="legend-values-expands">
+				<span class="legend-value"><input type="checkbox" id="toggleTheme" title="Toggle light/dark color scheme" /> Light</span>
+			</span>
+			&boxv;
+			<span class="legend-field"><span class="legend-key">&#9706; </span>Filters:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value"><input type="checkbox" id="toggleIsUpcoming" title="Toggle upcoming items (if applicable)" /> Upcoming</span>

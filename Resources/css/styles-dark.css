@@ -5,6 +5,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Faustina:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap') ;
 
 
+	/* COLOUR SCHEME */
+
+	/* color: rgba(26,26,26,1) ; color: #1a1a1a ; Blacks ;
+	/* color: rgba(26,26,26,.98) ;
+	/* color: rgba(26,26,26,.95) ;
+	/* color: rgba(26,26,26,.8) ;
+	/* color: rgba(26,26,26,.6) ;
+
+	/* color: rgba(255,255,255,1) ; color: #ffffff ; Whites/Grays;
+	/* color: rgba(255,255,255,.8) ;
+	/* color: rgba(255,255,255,.6) ;
+	/* color: rgba(255,255,255,.4) ;
+	/* color: rgba(255,255,255,.2) ;
+	/* color: rgba(255,255,255,.1) ;
+	/* color: rgba(255,255,255,.08) ;
+	/* color: rgba(255,255,255,.05) ;
+	/* color: rgba(255,255,255,.02) ;
+
+		/* color: rgba(86,133,244,1) ; color: #4285f4 ; Bright blue ;
+		/* color: rgba(86,133,244,.6) ;
+		/* color: rgba(86,133,244,.2) ;
+		/* color: rgba(86,133,244,.1) ;
+		/* color: rgba(86,133,244,.05) ;
+
+		/* color: rgba(219,68,55,1) ; color: #db4437 ; Bright red ;
+		/* color: rgba(219,68,55,.6) ;
+		/* color: rgba(219,68,55,.2) ;
+		/* color: rgba(219,68,55,.1) ;
+		/* color: rgba(219,68,55,.05) ;
+
+		/* color: rgba(244,160,0,1) ; color: #f4b400 ; Bright yellow ;
+		/* color: rgba(244,160,0,.6) ;
+		/* color: rgba(244,160,0,.2) ;
+		/* color: rgba(244,160,0,.1) ;
+		/* color: rgba(244,160,0,.05) ;
+
+		/* color: rgba(15,157,88,1) ; color: #0f9d58 ; Bright green ;
+		/* color: rgba(15,157,88,.6) ;
+		/* color: rgba(134,64,229,.2) ;
+		/* color: rgba(134,64,229,.1) ;
+		/* color: rgba(134,64,229,.05) ;
+
+		/* color: rgba(134,64,229,1) ; color: #8640e5 ; Bright violet ;
+		/* color: rgba(134,64,229,.6) ;
+		/* color: rgba(134,64,229,.2) ;
+		/* color: rgba(134,64,229,.1) ;
+		/* color: rgba(134,64,229,.05) ;
+	*/
+
+
 @media screen {
 
 	/* PAGE SETUP */
@@ -13,8 +63,8 @@
 	}
 
 	body {
-		background-color: rgba(86,133,244,.05) ;
-		color: rgba(32,34,36,1) ;
+		background-color: rgba(26,26,26,.98) ;
+		color: rgba(255,255,255,1) ;
 		font-family: 'Roboto',sans-serif ;
 		-webkit-font-smoothing: antialiased ;
 		font-smoothing: antialiased ;
@@ -22,7 +72,7 @@
 	}
 
 	main {
-		background-color: rgba(255,255,255,.6) ;
+		background-color: rgba(26,26,26,1) ;
 		font-size: 1em ;
 		font-weight: 400 ;
 		line-height: 1.5 ;
@@ -32,7 +82,7 @@
 
 	header,
 	footer {
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 		font-family: 'Roboto Mono',monospace ;
 		font-size: .83em ;
 		font-weight: 400 ;
@@ -58,6 +108,24 @@
 		}
 
 
+	/* PAGE HEADER NOTE */
+
+	small.header-note-connect {
+		background-color: rgba(86,133,244,.2) ;
+		border-radius: .5em ;
+		color: rgba(255,255,255,1) ;
+		display: block ;
+		font-family: 'Roboto',sans-serif ;
+		font-size: 1em ;
+		font-style: italic ;
+		padding: 2em ;
+	}
+
+	small.header-note-contact a {
+		color: rgba(255,255,255,1) ;
+	}
+
+
 	/* PAGE SECTION */
 
 	section {
@@ -71,7 +139,7 @@
 	}
 
 	section.latest {
-		background-color: rgba(244,160,0,.02) ;
+		background-color: rgba(244,160,0,.05) ;
 		margin: 0em 0em 1.5em 0em ;
 		box-shadow: -8px 8px 0px rgba(244,160,0,.4) ;
 		-webkit-box-shadow: -8px 8px 0px rgba(244,160,0,.4) ;
@@ -80,7 +148,7 @@
 	}
 
 		section.latest:hover {
-			background-color: rgba(244,160,0,.05) ;
+			background-color: rgba(244,160,0,.1) ;
 			box-shadow: -8px 8px 0px rgba(244,160,0,.6) ;
 			-webkit-box-shadow: -8px 8px 0px rgba(244,160,0,.6) ;
 			-moz-box-shadow: -8px 8px 0px rgba(244,160,0,.6) ;
@@ -88,7 +156,7 @@
 		}
 
 	section.pinned {
-		background-color: rgba(219,68,55,.02) ;
+		background-color: rgba(219,68,55,.05) ;
 		margin: 0em 0em 1.5em 0em ;
 		box-shadow: -8px 8px 0px rgba(219,68,55,.4) ;
 		-webkit-box-shadow: -8px 8px 0px rgba(219,68,55,.4) ;
@@ -97,33 +165,50 @@
 	}
 
 		section.pinned:hover {
-			background-color: rgba(219,68,55,.05) ;
+			background-color: rgba(219,68,55,.1) ;
 			box-shadow: -8px 8px 0px rgba(219,68,55,.6) ;
 			-webkit-box-shadow: -8px 8px 0px rgba(219,68,55,.6) ;
 			-moz-box-shadow: -8px 8px 0px rgba(219,68,55,.6) ;
 			-khtml-box-shadow: -8px 8px 0px rgba(219,68,55,.6) ;
 		}
 
+	section.topcited {
+		background-color: rgba(86,133,244,.05) ;
+		margin: 0em 0em 1.5em 0em ;
+		box-shadow: -8px 8px 0px rgba(86,133,244,.4) ;
+		-webkit-box-shadow: -8px 8px 0px rgba(86,133,244,.4) ;
+		-moz-box-shadow: -8px 8px 0px rgba(86,133,244,.4) ;
+		-khtml-box-shadow: -8px 8px 0px rgba(86,133,244,.4) ;
+	}
+
+		section.topcited:hover {
+			background-color: rgba(86,133,244,.1) ;
+			box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
+			-webkit-box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
+			-moz-box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
+			-khtml-box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
+		}
+
 	section.index {
-/*		background-color: rgba(255,255,255,1) ; */
-/*		background-color: rgba(86,133,244,.02) ; */
+/*		background-color: rgba(26,26,26,1) ; */
+/*		background-color: rgba(255,255,255,.02) ; */
 		border-radius: .5em ;
 	}
 
 	section.relations {
-		background-color: rgba(86,133,244,.02) ;
-		box-shadow: -8px 8px 0px rgba(86,133,244,.1) ;
-		-webkit-box-shadow: -8px 8px 0px rgba(86,133,244,.1) ;
-		-moz-box-shadow: -8px 8px 0px rgba(86,133,244,.1) ;
-		-khtml-box-shadow: -8px 8px 0px rgba(86,133,244,.1) ;
+		background-color: rgba(255,255,255,.02) ;
+		box-shadow: -8px 8px 0px rgba(255,255,255,.1) ;
+		-webkit-box-shadow: -8px 8px 0px rgba(255,255,255,.1) ;
+		-moz-box-shadow: -8px 8px 0px rgba(255,255,255,.1) ;
+		-khtml-box-shadow: -8px 8px 0px rgba(255,255,255,.1) ;
 	}
 
 		section.relations:hover {
-			background-color: rgba(86,133,244,.05) ;
-			box-shadow: -8px 8px 0px rgba(86,133,244,.2) ;
-			-webkit-box-shadow: -8px 8px 0px rgba(86,133,244,.2) ;
-			-moz-box-shadow: -8px 8px 0px rgba(86,133,244,.2) ;
-			-khtml-box-shadow: -8px 8px 0px rgba(86,133,244,.2) ;
+			background-color: rgba(255,255,255,.05) ;
+			box-shadow: -8px 8px 0px rgba(255,255,255,.2) ;
+			-webkit-box-shadow: -8px 8px 0px rgba(255,255,255,.2) ;
+			-moz-box-shadow: -8px 8px 0px rgba(255,255,255,.2) ;
+			-khtml-box-shadow: -8px 8px 0px rgba(255,255,255,.2) ;
 		}
 
 /*	section.latest,
@@ -136,30 +221,30 @@
 	section.bios,
 	section.cite,
 	section.contact-card {
-		background-color: rgba(86,133,244,.05) ;
-		box-shadow: -8px 8px 0px rgba(86,133,244,1) ;
+		background-color: rgba(86,133,244,.1) ;
+		box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
 		margin: 0em 0em 1.5em 0em ;
-		-webkit-box-shadow: -8px 8px 0px rgba(86,133,244,1) ;
-		-moz-box-shadow: -8px 8px 0px rgba(86,133,244,1) ;
-		-khtml-box-shadow: -8px 8px 0px rgba(86,133,244,1) ;
+		-webkit-box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
+		-moz-box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
+		-khtml-box-shadow: -8px 8px 0px rgba(86,133,244,.6) ;
 	}
 
 	section.cite table tr.tr-cite-section {
-		background-color: rgba(86,133,244,.02) ;
+		background-color: rgba(86,133,244,.05) ;
 		font-size: .83em ;
 	}
 
 		section.bios:hover table td:hover,
 		section.cite:hover table td:hover,
 		section.contact-card:hover table td:hover {
-			background-color: rgba(86,133,244,.05) ;
+			background-color: rgba(86,133,244,.1) ;
 			border-radius: .5em ;
 		}
 
 		section.bios:hover table td:active,
 		section.cite:hover table td:active,
 		section.contact-card:hover table td:active {
-			background-color: rgba(86,133,244,.1) ;
+			background-color: rgba(86,133,244,.2) ;
 			cursor: grabbing ;
 		}
 
@@ -182,9 +267,9 @@
 	}
 
 	section.summary {
-		background-color: rgba(255,255,255,1) ;
-/*		border-top: 4px solid rgba(86,133,244,.1) ;
-		border-bottom: 1px dashed rgba(86,133,244,.1) ; */
+		background-color: rgba(255,255,255,.02) ;
+/*		border-top: 4px solid rgba(255,255,255,.1) ;
+		border-bottom: 1px dashed rgba(255,255,255,.1) ; */
 		border-radius: 1em ;
 		font-family: 'Faustina',serif ;
 		font-size: 1.17em ;
@@ -194,14 +279,14 @@
 	section.summary-expands {
 		margin: 0em ;
 		padding: 1em ;
-/*		background-color: rgba(32,34,36,.02) ;
-		-webkit-box-shadow: -6px 6px 0px rgba(32,34,36,.1) ;
-		-moz-box-shadow: -6px 6px 0px rgba(32,34,36,.1) ;
-		-khtml-box-shadow: -6px 6px 0px rgba(32,34,36,.1) ; */
+/*		background-color: rgba(255,255,255,.02) ;
+		-webkit-box-shadow: -6px 6px 0px rgba(255,255,255,.1) ;
+		-moz-box-shadow: -6px 6px 0px rgba(255,255,255,.1) ;
+		-khtml-box-shadow: -6px 6px 0px rgba(255,255,255,.1) ; */
 	}
 
 	section.summary-expands-hover {
-		border: 1px solid rgba(32,34,36,.02) ;
+		border: 1px solid rgba(255,255,255,.02) ;
 		border-radius: .5em ;
 		padding: 0em ;
 	}
@@ -217,12 +302,12 @@
 		}
 
 		section.summary-expands-hover:hover {
-			background-color: rgba(32,34,36,.02) ;
-/*			border: 1px solid rgba(32,34,36,.1) ; */
+			background-color: rgba(255,255,255,.02) ;
+/*			border: 1px solid rgba(255,255,255,.1) ; */
 		}
 
 		section.summary-expands-hover:hover small.note-expands {
-			background-color: rgba(32,34,36,.05) ;
+			background-color: rgba(255,255,255,.05) ;
 			border-radius: .5em .5em 0em 0em ;
 		}
 
@@ -232,26 +317,26 @@
 		}
 
 	section.gallery {
-		background-color: rgba(86,133,244,.02) ;
+		background-color: rgba(255,255,255,.02) ;
 		border-radius: .5em ;
 	}
 
 	section.info {
-/*		background-color: rgba(86,133,244,.02) ; */
-/*		border: 1px solid rgba(86,133,244,.1) ; */
+/*		background-color: rgba(255,255,255,.02) ; */
+/*		border: 1px solid rgba(255,255,255,.1) ; */
 		border-radius: .5em ;
 	}
 
 	section.article-tocontents {
-		background-color: rgba(86,133,244,.02) ;
-		border: 1px solid rgba(86,133,244,.1) ;
+		background-color: rgba(255,255,255,.02) ;
+		border: 1px solid rgba(255,255,255,.1) ;
 		border-radius: .5em ;
 		font-size: .83em ;
 	}
 
 	section.article-keypoints {
-		background-color: rgba(219,68,55,.02) ;
-		border: 1px solid rgba(219,68,55,.1) ;
+		background-color: rgba(219,68,55,.05) ;
+		border: 1px solid rgba(219,68,55,.2) ;
 		border-radius: .5em ;
 		font-size: .83em ;
 		padding: 2em ;
@@ -259,21 +344,25 @@
 
 	section.latest table th,
 	section.pinned table th,
+	section.topcited table th,
 	section.relations table th {
 		display: none ;
 	}
 
 	section.latest table tr,
 	section.pinned table tr,
+	section.topcited table tr,
 	section.relations table tr {
 		display: none ;
 	}
 
 		section.latest:hover table tr,
 		section.pinned:hover table tr,
+		section.topcited:hover table tr,
 		section.relations:hover table tr {
 			display: table-row ;
 		}
+
 
 	/* PAGE SECTION SUMMARY */
 
@@ -366,8 +455,8 @@
 			}
 
 			section.summary:hover p.shortcuts {
-/*				background-color: rgba(32,34,36,.02) ; */
-				background-color: rgba(86,133,244,.05) ;
+/*				background-color: rgba(255,255,255,.02) ; */
+				background-color: rgba(255,255,255,.05) ;
 				border-radius: .5em ;
 				display: block ;
 				padding: 1em ;
@@ -386,57 +475,58 @@
 		}
 
 		section.summary p.shortcuts span.shortcut-link {
-/*			background-color: rgba(86,133,244,.05) ; */
-			background-color: rgba(255,255,255,.8) ;
-			border: 1px solid rgba(86,133,244,.1) ;
+/*			background-color: rgba(255,255,255,.05) ; */
+			background-color: rgba(26,26,26,.8) ;
+			border: 1px solid rgba(255,255,255,.1) ;
 			border-radius: 1em ;
 			padding: .5em ;
 		}
 
 			section.summary p.shortcuts span.shortcut-link:hover {
-				background-color: rgba(86,133,244,.1) ;
+				background-color: rgba(255,255,255,.1) ;
 			}
 
 		section.summary p.shortcuts span.is-highlight {
-/*			background-color: rgba(219,68,55,.05) ;
-			border: 1px solid rgba(219,68,55,.1) ; */
+/*			background-color: rgba(219,68,55,.1) ;
+			border: 1px solid rgba(219,68,55,.2) ; */
 		}
 
 			section.summary p.shortcuts span.is-highlight:hover {
-				background-color: rgba(219,68,55,.1) ;
+				background-color: rgba(219,68,55,.2) ;
 			}
 
 		section.summary p.shortcuts span.is-reference {
-/*			background-color: rgba(86,133,244,.05) ;
-			border: 1px solid rgba(86,133,244,.1) ; */
+/*			background-color: rgba(86,133,244,.1) ;
+			border: 1px solid rgba(86,133,244,.2) ; */
 		}
 
 			section.summary p.shortcuts span.is-reference:hover {
-				background-color: rgba(86,133,244,.1) ;
+				background-color: rgba(86,133,244,.2) ;
 			}
 
 		section.summary p.shortcuts span.is-feature {
-/*			background-color: rgba(15,157,88,.05) ;
-			border: 1px solid rgba(15,157,88,.1) ; */
+/*			background-color: rgba(134,64,229,.1) ;
+			border: 1px solid rgba(134,64,229,.2) ; */
 		}
 
 			section.summary p.shortcuts span.is-feature:hover {
-				background-color: rgba(15,157,88,.1) ;
+				background-color: rgba(134,64,229,.2) ;
 			}
 
 		section.summary p.shortcuts span.is-version {
-/*			background-color: rgba(244,160,0,.05) ;
-			border: 1px solid rgba(244,160,0,.1) ; */
+/*			background-color: rgba(244,160,0,.1) ;
+			border: 1px solid rgba(244,160,0,.2) ; */
 		}
 
 			section.summary p.shortcuts span.is-version:hover {
-				background-color: rgba(244,160,0,.1) ;
+				background-color: rgba(244,160,0,.2) ;
 			}
+
 
 	/* PAGE ARTICLE */
 
 	article {
-		background-color: rgba(255,255,255,1) ;
+		background-color: rgba(255,255,255,.02) ;
 		border-radius: .5em ;
 		font-family: 'Faustina',serif ;
 		font-size: 1.17em ;
@@ -444,10 +534,10 @@
 		line-height: 1.5 ;
 		margin: 0em auto 1em auto ;
 		padding: 1em 8em ;
-/*		box-shadow: -8px 8px 0px rgba(86,133,244,.05) ;
-		-webkit-box-shadow: -8px 8px 0px rgba(86,133,244,.05) ;
-		-moz-box-shadow: -8px 8px 0px rgba(86,133,244,.05) ;
-		-khtml-box-shadow: -8px 8px 0px rgba(86,133,244,.05) ; */
+/*		box-shadow: -8px 8px 0px rgba(255,255,255,.02) ;
+		-webkit-box-shadow: -8px 8px 0px rgba(255,255,255,.02) ;
+		-moz-box-shadow: -8px 8px 0px rgba(255,255,255,.02) ;
+		-khtml-box-shadow: -8px 8px 0px rgba(255,255,255,.02) ; */
 	}
 
 	article h3 {
@@ -490,7 +580,7 @@
 	}
 
 	article code {
-		background-color: rgba(86,133,244,.1) ;
+		background-color: rgba(255,255,255,.1) ;
 		font-family: 'Roboto Mono',monospace ;
 		font-size: .83em ;
 	}
@@ -499,14 +589,14 @@
 	}
 
 	article figure {
-		background-color: rgba(86,133,244,.02) ;
-		border: 1px solid rgba(86,133,244,.1) ;
+		background-color: rgba(255,255,255,.02) ;
+		border: 1px solid rgba(255,255,255,.1) ;
 		border-radius: .5em ;
 		padding: 1em ;
 	}
 
 	article figcaption {
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: .83em ;
 	}
@@ -535,7 +625,7 @@
 	}
 
 	h5 {
-		color: rgba(32,34,36,.8) ;
+		color: rgba(255,255,255,.8) ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: .67em ;
 		font-weight: 500 ;
@@ -544,7 +634,7 @@
 	}
 
 	h6 {
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: .83em ;
 		font-weight: 400 ;
@@ -566,7 +656,7 @@
 
 	section.latest h3.istype-latest small.is-notif {
 		color: rgba(244,160,0,.8) ;
-		background-color: rgba(244,160,0,.1) ;
+		background-color: rgba(244,160,0,.2) ;
 		border-radius: .5em ;
 		margin: 0em 0em 0em .5em ;
 		padding: .5em ;
@@ -581,12 +671,13 @@
 
 	section.pinned h3.istype-pinned small.is-notif {
 		color: rgba(219,68,55,.8) ;
-		background-color: rgba(219,68,55,.1) ;
+		background-color: rgba(219,68,55,.2) ;
 		border-radius: .5em ;
 		margin: 0em 0em 0em .5em ;
 		padding: .5em ;
 	}
 
+	section.topcited h3.istype-topcited,
 	section h3.istype-reference {
 		color: rgba(86,133,244,1) ;
 		border-bottom: 1px dashed rgba(86,133,244,1) ;
@@ -594,32 +685,33 @@
 		padding: 0em 0em 1em 0em ;
 	}
 
+	section.topcited h3.istype-topcited small.is-notif,
 	section.bios h3.istype-reference small.is-notif {
 		color: rgba(86,133,244,.8) ;
-		background-color: rgba(86,133,244,.1) ;
+		background-color: rgba(86,133,244,.2) ;
 		border-radius: .5em ;
 		margin: 0em 0em 0em .5em ;
 		padding: .5em ;
 	}
 
 	section h3.istype-relations {
-		color: rgba(32,34,36,.8) ;
-		border-bottom: 1px dashed rgba(86,133,244,.4) ;
+		color: rgba(255,255,255,.8) ;
+		border-bottom: 1px dashed rgba(255,255,255,.4) ;
 		margin: 0em 0em 1em 0em ;
 		padding: 0em 0em 1em 0em ;
 	}
 
 	section.relations h3.istype-relations small.is-notif {
-		color: rgba(32,34,36,.8) ;
-		background-color: rgba(86,133,244,.05) ;
+		color: rgba(255,255,255,.8) ;
+		background-color: rgba(255,255,255,.05) ;
 		border-radius: .5em ;
 		margin: 0em 0em 0em .5em ;
 		padding: .5em ;
 	}
 
 	footer p.legend small.is-notif {
-		color: rgba(32,34,36,.8) ;
-		background-color: rgba(86,133,244,.05) ;
+		color: rgba(255,255,255,.8) ;
+		background-color: rgba(255,255,255,.05) ;
 		border-radius: .5em ;
 		margin: 0em 0em 0em .5em ;
 		padding: .5em ;
@@ -627,6 +719,7 @@
 
 		section.latest:hover h3.istype-latest small.is-notif,
 		section.pinned:hover h3.istype-pinned small.is-notif,
+		section.topcited:hover h3.istype-topcited small.is-notif,
 		section.bios:hover h3.istype-reference small.is-notif,
 		section.relations:hover h3.istype-relations small.is-notif,
 		footer p.legend:hover small.is-notif {
@@ -646,7 +739,7 @@
 	}
 
 	section.summary h1 span.h1-subtitle {
-		color: rgba(32,34,36,.8) ;
+		color: rgba(255,255,255,.8) ;
 		font-style: italic ;
 		font-weight: 600 ;
 	}
@@ -664,14 +757,14 @@
 	}
 
 	article h3.article-tocontents {
-		color: rgba(32,34,36,1) ;
-		border-bottom: 1px dashed rgba(86,133,244,.1) ;
+		color: rgba(255,255,255,1) ;
+		border-bottom: 1px dashed rgba(255,255,255,.1) ;
 		margin: 0em 0em 1em 0em ;
 		padding: 0em 0em 1em 0em ;
 	}
 
 	article section.article-tocontents td.td-description span.tocontents-subtitle {
-		color: rgba(32,34,36,.8) ;
+		color: rgba(255,255,255,.8) ;
 		font-style: italic ;
 	}
 
@@ -680,7 +773,7 @@
 
 	a {
 		border-bottom: 1px dotted ;
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 		text-decoration: none ;
 	}
 
@@ -697,7 +790,7 @@
 	}
 
 	a.path-parent {
-		color: rgba(32,34,36,.8) ;
+		color: rgba(255,255,255,.8) ;
 		font-weight: 600 ;
 	}
 
@@ -705,8 +798,9 @@
 	a.path-root,
 	a.path-parent,
 	a.anchor {
-		color: rgba(32,34,36,1) ;
+		color: rgba(255,255,255,1) ;
 	}
+
 		a.path:hover,
 		a.path-root:hover,
 		a.path-parent:hover {
@@ -724,7 +818,7 @@
 
 		p.shortcuts span.shortcut-link,
 		p.shortcuts span.shortcut-link a {
-			color: rgba(32,34,36,.6) ;
+			color: rgba(255,255,255,.6) ;
 		}
 
 		p.shortcuts span.is-highlight,
@@ -749,11 +843,22 @@
 
 		/* HYPERLINK TYPES */
 
+		header a.path-root {
+			color: rgba(219,68,55,1) !important ;
+		}
+
 		header a.path,
-		header a.path-root,
 		header a.path-parent,
 		header a.anchor {
-			color: rgba(32,34,36,.8) ;
+			color: rgba(255,255,255,.8) ;
+		}
+
+		header a.anchor-is-highlight {
+			color: rgba(219,68,55,1) ;
+		}
+
+		header a.anchor-is-reference {
+			color: rgba(86,133,244,1) ;
 		}
 
 		a.ahref-emoji,
@@ -772,7 +877,12 @@
 
 		table td.td-link:hover span.td-link-expands,
 		table td.td-link:hover span.td-link-expands a {
-			color: rgba(32,34,36,.6) ;
+			color: rgba(255,255,255,.6) ;
+		}
+
+		table td.td-link:hover span.td-link-expands-is-reference,
+		table td.td-link:hover span.td-link-expands-is-reference a {
+			color: rgba(86,133,244,.6) !important ;
 		}
 
 		section.latest table td.td-more,
@@ -785,7 +895,15 @@
 
 		section.pinned table td.td-more,
 		section.pinned table td.td-more a {
-			color: rgba(32,34,36,.8) ;
+			color: rgba(219,68,55,1) ;
+			font-style: italic ;
+			font-weight: 400 !important ;
+			height: 3em ;
+		}
+
+		section.topcited table td.td-more,
+		section.topcited table td.td-more a {
+			color: rgba(86,133,244,1) ;
 			font-style: italic ;
 			font-weight: 400 !important ;
 			height: 3em ;
@@ -794,6 +912,7 @@
 		table tr.tr-item a:visited,
 		section.latest table tr.tr-item a:visited,
 		section.pinned table tr.tr-item a:visited,
+		section.topcited table tr.tr-item a:visited,
 		section.index table tr.tr-item a:visited,
 		section.relations table tr.tr-item a:visited {
 /*			color: rgba(134,64,229,.6) ; */
@@ -804,15 +923,15 @@
 
 	hr {
 		border: none ;
-		color: rgba(86,133,244,.2) ;
+		color: rgba(255,255,255,.2) ;
 	}
 
 	hr.solid {
-		border-bottom: 1px solid rgba(86,133,244,.1) ;
+		border-bottom: 1px solid rgba(255,255,255,.1) ;
 	}
 
 	hr.dashed {
-		border-bottom: 1px dashed rgba(86,133,244,.1) ;
+		border-bottom: 1px dashed rgba(255,255,255,.1) ;
 	}
 
 	hr.istype-latest {
@@ -825,18 +944,23 @@
 		display: none ;
 	}
 
+	hr.istype-topcited {
+		border-bottom: 2px solid rgba(86,133,244,1) ;
+		display: none ;
+	}
+
 	hr.istype-reference {
 		border-bottom: 2px solid rgba(86,133,244,1) ;
 		display: none ;
 	}
 
 	hr.istype-relations {
-		border-bottom: 2px solid rgba(86,133,244,.6) ;
+		border-bottom: 2px solid rgba(255,255,255,.6) ;
 		display: none ;
 	}
 
 	hr.shortcuts {
-		border-bottom: 2px solid rgba(86,133,244,.6) ;
+		border-bottom: 2px solid rgba(255,255,255,.6) ;
 	}
 
 	header hr,
@@ -846,6 +970,7 @@
 	section.gallery hr,
 	section.latest hr,
 	section.pinned hr,
+	section.topcited hr,
 	section.bios hr,
 	section.cite hr,
 	section.info hr,
@@ -862,18 +987,19 @@
 	}
 
 	mark.is-marked {
-/*		background-color: rgba(255,254,209,1) ;
+/*		background-color: rgba(255,254,209,.2) ;
 		border-radius: 0em 1em ; */
 	}
 
 	mark.is-feature {
-		background-color: rgba(15,157,88,.1) ;
+		background-color: rgba(134,64,229,.2) ;
 		border-radius: 0em 1em ;
 		color: rgba(15,157,88,1) ;
 	}
 
 	a.istype-latest,
 	a.istype-pinned,
+	a.istype-topcited,
 	a.is-highlight,
 	a.is-reference,
 	a.is-feature,
@@ -882,19 +1008,19 @@
 	}
 
 	blockquote.is-highlight {
-		background-color: rgba(219,68,55,.05) ;
+		background-color: rgba(219,68,55,.1) ;
 		-webkit-box-shadow: -6px 0px 0px rgba(219,68,55,.6) ;
 		-moz-box-shadow: -6px 0px 0px rgba(219,68,55,.6) ;
 		-khtml-box-shadow: -6px 0px 0px rgba(219,68,55,.6) ;
 	}
 
 	li.is-upcoming {
-		background-color: rgba(244,160,0,.05) ;
+		background-color: rgba(244,160,0,.1) ;
 		border-radius: 1em ;
 	}
 
 	li.is-highlight {
-		background-color: rgba(219,68,55,.05) ;
+		background-color: rgba(219,68,55,.1) ;
 		border-radius: 1em ;
 	}
 
@@ -902,8 +1028,8 @@
 	/* PARAGRAPH, LIST, SMALL */
 
 	blockquote {
-		background-color: rgba(86,133,244,.05) ;
-		color: rgba(32,34,36,.8) ;
+		background-color: rgba(86,133,244,.1) ;
+		color: rgba(255,255,255,.8) ;
 		margin: 1em 0em 1em 1em ;
 		padding: 1em ;
 		-webkit-box-shadow: -6px 0px 0px rgba(86,133,244,.2) ;
@@ -943,9 +1069,9 @@
 
 	small.note,
 	small.note-expands {
-		background-color: rgba(32,34,36,.02) ;
+		background-color: rgba(255,255,255,.02) ;
 		border-radius: .5em ;
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 		display: block ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: .83em ;
@@ -1001,7 +1127,7 @@
 
 	section.info table th,
 	section.info table td, {
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 	}
 
 	/* TABLE TR */
@@ -1011,78 +1137,93 @@
 	table tr.tr-core-item,
 	table tr.tr-core-supdir,
 	table tr.tr-core-subdir {
-/*		background-color: rgba(255,255,255,.8) ; */
-		border-top: 1px solid rgba(86,133,244,.05) ;
-		border-bottom: 1px solid rgba(86,133,244,.05) ;
+/*		background-color: rgba(26,26,26,.8) ; */
+		border-top: 1px solid rgba(255,255,255,.05) ;
+		border-bottom: 1px solid rgba(255,255,255,.05) ;
 	}
 
 		table tr.tr-core-item:hover,
 		table tr.tr-item-more:hover,
 		table tr.tr-core-supdir:hover,
 		table tr.tr-core-subdir:hover {
-			background-color: rgba(32,34,36,.05) !important ;
+			background-color: rgba(255,255,255,.05) !important ;
 		}
 
 		table tr.tr-item:hover {
-			background-color: rgba(32,34,36,.05) !important ;
-			-webkit-box-shadow: inset 4px 0px 0px rgba(86,133,244,1) ;
-			-moz-box-shadow: -4px 0px 0px rgba(86,133,244,1) ;
-			-khtml-box-shadow: -4px 0px 0px rgba(86,133,244,1) ;
-/*			-webkit-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ;
-			-moz-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ;
-			-khtml-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ; */
+			background-color: rgba(255,255,255,.05) !important ;
+			-webkit-box-shadow: inset 4px 0px 0px rgba(255,255,255,1) ;
+			-moz-box-shadow: -4px 0px 0px rgba(255,255,255,1) ;
+			-khtml-box-shadow: -4px 0px 0px rgba(255,255,255,1) ;
+/*			-webkit-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-moz-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-khtml-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ; */
 		}
 
 		table tr.tr-istype-latest:hover {
-			background-color: rgba(32,34,36,.05) !important ;
+			background-color: rgba(255,255,255,.05) !important ;
 			-webkit-box-shadow: inset 4px 0px 0px rgba(244,160,0,1) ;
 			-moz-box-shadow: -4px 0px 0px rgba(244,160,0,1) ;
 			-khtml-box-shadow: -4px 0px 0px rgba(244,160,0,1) ;
-/*			-webkit-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ;
-			-moz-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ;
-			-khtml-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ; */
+/*			-webkit-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-moz-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-khtml-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ; */
 		}
 
 		table tr.tr-istype-pinned:hover {
-			background-color: rgba(32,34,36,.05) !important ;
+			background-color: rgba(255,255,255,.05) !important ;
 			-webkit-box-shadow: inset 4px 0px 0px rgba(219,68,55,1) ;
 			-moz-box-shadow: -4px 0px 0px rgba(219,68,55,1) ;
 			-khtml-box-shadow: -4px 0px 0px rgba(219,68,55,1) ;
-/*			-webkit-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ;
-			-moz-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ;
-			-khtml-box-shadow: 0px 4px 0px rgba(32,34,36,.2) ; */
+/*			-webkit-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-moz-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-khtml-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ; */
+		}
+
+		table tr.tr-istype-topcited:hover {
+			background-color: rgba(255,255,255,.05) !important ;
+			-webkit-box-shadow: inset 4px 0px 0px rgba(86,133,244,1) ;
+			-moz-box-shadow: -4px 0px 0px rgba(86,133,244,1) ;
+			-khtml-box-shadow: -4px 0px 0px rgba(86,133,244,1) ;
+/*			-webkit-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-moz-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
+			-khtml-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ; */
 		}
 
 	section.latest table tr.tr-item {
-		border-top: 1px solid rgba(244,160,0,.05) ;
-		border-bottom: 1px solid rgba(244,160,0,.05) ;
+		border-top: 1px solid rgba(244,160,0,.1) ;
+		border-bottom: 1px solid rgba(244,160,0,.1) ;
 	}
 
 	section.pinned table tr.tr-item {
-		border-top: 1px solid rgba(219,68,55,.05) ;
-		border-bottom: 1px solid rgba(219,68,55,.05) ;
+		border-top: 1px solid rgba(219,68,55,.1) ;
+		border-bottom: 1px solid rgba(219,68,55,.1) ;
+	}
+
+	section.topcited table tr.tr-item {
+		border-top: 1px solid rgba(86,133,244,.1) ;
+		border-bottom: 1px solid rgba(86,133,244,.1) ;
 	}
 
 	table tr.tr-istype-pinned {
-		background-color: rgba(219,68,55,.05) !important ;
+		background-color: rgba(219,68,55,.1) !important ;
 /*		-webkit-box-shadow: inset 4px 0px 0px rgba(219,68,55,.2) ;
 		-moz-box-shadow: -4px 0px 0px rgba(219,68,55,.2) ;
 		-khtml-box-shadow: -4px 0px 0px rgba(219,68,55,.2) ; */
 	}
 
 	table tr.tr-item-more {
-		background-color: rgba(32,34,36,.05) !important ;
-		color: rgba(32,34,36,.8) !important ;
+		background-color: rgba(255,255,255,.05) !important ;
+		color: rgba(255,255,255,.8) !important ;
 	}
 
 		table tr.tr-item-more:hover {
-			background-color: rgba(32,34,36,.08) !important ;
+			background-color: rgba(255,255,255,.08) !important ;
 		}
 
 		/* TABLE TH */
 
 		table th {
-			color: rgba(32,34,36,.8) ;
+			color: rgba(255,255,255,.8) ;
 			padding-right: .5em ;
 			text-align: left ;
 			vertical-align: top ;
@@ -1090,6 +1231,7 @@
 
 		section.latest table th,
 		section.pinned table th,
+		section.topcited table th,
 		section.index table th,
 		section.relations table th {
 			font-weight: 400 ;
@@ -1131,8 +1273,12 @@
 			color: rgba(219,68,55,1) ;
 		}
 
+		table th.th-istype-topcited {
+			color: rgba(86,133,244,1) ;
+		}
+
 		table th.th-istype-sortby {
-/*			border-bottom: 1px solid rgba(32,34,36,.6) ; */
+/*			border-bottom: 1px solid rgba(255,255,255,.6) ; */
 		}
 
 		section.bios table,
@@ -1176,7 +1322,7 @@
 		}
 
 		table td.td-icon {
-			color: rgba(32,34,36,.6) ;
+			color: rgba(255,255,255,.6) ;
 		}
 
 		table td.td-link {
@@ -1190,7 +1336,7 @@
 		}
 
 			table td.td-link:hover span.td-link-expands {
-				color: rgba(32,34,36,.6) ;
+				color: rgba(255,255,255,.6) ;
 				display: inline ;
 			}
 
@@ -1204,22 +1350,27 @@
 		table tr.tr-istype-latest td.td-description,
 		table tr.tr-istype-latest td.td-description a,
 		table tr.tr-istype-pinned td.td-description,
-		table tr.tr-istype-pinned td.td-description a {
+		table tr.tr-istype-pinned td.td-description a,
+		table tr.tr-istype-topcited td.td-description,
+		table tr.tr-istype-topcited td.td-description a {
 			font-weight: 600 !important ;
 		}
 
 		table td.td-kind,
 		table td.td-access {
-			color: rgba(32,34,36,.8) ;
+			color: rgba(255,255,255,.8) ;
 			font-weight: 400 ;
 			text-transform: uppercase ;
 		}
 
 		section.pinned table tr.tr-istype-pinned td.td-kind,
+		table tr.tr-istype-pinned td.td-kind {
+			color: rgba(219,68,55,.8) ;
+			font-weight: 500 !important ;
+		}
+
 		section.pinned table tr.tr-istype-pinned td.td-access,
-		table tr.tr-istype-pinned td.td-kind,
 		table tr.tr-istype-pinned td.td-access {
-			color: rgba(219,68,55,1) !important ;
 			font-weight: 500 !important ;
 		}
 
@@ -1235,7 +1386,7 @@
 	.byline a,
 	.keywords,
 	.keywords a {
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 		font-family: 'Roboto',sans-serif ;
 	}
 
@@ -1255,13 +1406,13 @@
 		section.index img,
 		section.gallery-index img,
 		section.gallery img {
-			border: 1px solid rgba(86,133,244,.1) ;
+			border: 1px solid rgba(255,255,255,.1) ;
 			cursor: zoom-in ;
 			max-height: 60px ;
 		}
 
 		section.is-author img {
-			border: 1px solid rgba(86,133,244,.1) ;
+			border: 1px solid rgba(255,255,255,.1) ;
 			cursor: zoom-in ;
 			max-height: 120px ;
 		}
@@ -1277,7 +1428,7 @@
 			section.gallery-index img:active,
 			section.gallery img:active,
 			section.is-author img:active {
-				border: 1px solid rgba(86,133,244,.2) ;
+				border: 1px solid rgba(255,255,255,.2) ;
 				border-radius: .5em ;
 				cursor: grabbing ;
 				max-height: 100% ;
@@ -1300,7 +1451,7 @@
 		}
 
 		.is-topic {
-			background-color: rgba(219,68,55,.1) ;
+			background-color: rgba(219,68,55,.2) ;
 			border-radius: 0em 1em ;
 			color: rgba(219,68,55,1) ;
 			font-weight: 700 ;
@@ -1330,7 +1481,7 @@
 		}
 
 		.is-translation {
-			color: rgba(32,34,36,.6) ;
+			color: rgba(255,255,255,.6) ;
 			display: none ;
 			font-style: italic ;
 		}
@@ -1354,20 +1505,20 @@
 
 		a.istype-latest,
 		a.is-version {
-/*			background-color: rgba(244,160,0,.1) ; */
+/*			background-color: rgba(244,160,0,.2) ; */
 		}
 
 		a.is-highlight,
 		a.istype-pinned {
-/*			background-color: rgba(219,68,55,.1) ; */
+/*			background-color: rgba(219,68,55,.2) ; */
 		}
 
 		a.is-reference {
-/*			background-color: rgba(86,133,244,.1) ; */
+/*			background-color: rgba(86,133,244,.2) ; */
 		}
 
 		a.is-feature {
-/*			background-color: rgba(15,157,88,.1) ; */
+/*			background-color: rgba(134,64,229,.2) ; */
 		}
 
 		/* FOOTER LEGEND */
@@ -1381,38 +1532,38 @@
 			}
 
 		footer p.legend span.is-highlight {
-			background-color: rgba(219,68,55,.1) ;
+			background-color: rgba(219,68,55,.2) ;
 			border-radius: 0em 1em ;
 			color: rgba(219,68,55,1) ;
 		}
 
 		footer p.legend span.is-date {
-			background-color: rgba(244,160,0,.1) ;
+			background-color: rgba(244,160,0,.2) ;
 			border-radius: 0em 1em ;
 			color: rgba(244,160,0,1) ;
 		}
 
 		footer p.legend span.is-reference {
-			background-color: rgba(86,133,244,.1) ;
+			background-color: rgba(86,133,244,.2) ;
 			border-radius: 0em 1em ;
 			color: rgba(86,133,244,1) ;
 		}
 
 		footer p.legend span.is-feature {
-			background-color: rgba(15,157,88,.1) ;
+			background-color: rgba(134,64,229,.2) ;
 			border-radius: 0em 1em ;
 			color: rgba(15,157,88,1) ;
 		}
 
 		footer p.legend span.is-visited {
-			background-color: rgba(134,64,229,.1) ;
+			background-color: rgba(134,64,229,.2) ;
 			border-radius: 0em 1em ;
 			color: rgba(134,64,229,1) ;
 			display: none ;
 		}
 
 		footer p.legend span.is-marked {
-			background-color: rgba(255,254,209,1) ;
+			background-color: rgba(255,254,209,.2) ;
 			border-radius: 0em 1em ;
 			display: none ;
 		}
@@ -1422,26 +1573,27 @@
 		/* UPCOMING */
 
 		.is-upcoming,
-		.y2025 {
+		.y2026 {
 			filter: alpha(opacity=80) ;
 			opacity: .8 ;
 		}
 
 		/* SINCE 2017 (≤ 6 YRS AGO) */
 
+		.y2025
 		.y2024,
 		.y2023,
 		.y2022,
 		.y2021,
 		.y2020,
-		.y2019,
-		.y2018 {
+		.y2019 {
 			filter: alpha(opacity=100) ;
 			opacity: 1.0 ;
 		}
 
 		/* ARCHIVED (> 6 ... < 12 YRS AGO) */
 
+		.y2018
 		.y2017,
 		.y2016,
 		.y2015,
@@ -1465,8 +1617,9 @@
 			table tr.tr-istype-pinned,
 			.is-highlight,
 			.is-upcoming:hover,
-			.y2025:hover,
+			.y2026:hover,
 
+			.y2025:hover,
 			.y2024:hover,
 			.y2023:hover,
 			.y2022:hover,
@@ -1496,8 +1649,8 @@
 			table tr.y2022,
 			table tr.y2021,
 			table tr.y2020,
-			table tr.y2019,
-			table tr.y2018, */
+			table tr.y2019, */
+			table tr.y2018,
 			table tr.y2017,
 			table tr.y2016,
 			table tr.y2015,
@@ -1508,9 +1661,9 @@
 			table tr.y2010,
 			table tr.y2009,
 			table tr.y2008 {
-				background-color: rgba(86,133,244,.05) ;
-				border-top: 1px solid rgba(86,133,244,.08) ;
-				border-bottom: 1px solid rgba(86,133,244,.08) ;
+				background-color: rgba(255,255,255,.05) ;
+				border-top: 1px solid rgba(255,255,255,.08) ;
+				border-bottom: 1px solid rgba(255,255,255,.08) ;
 			}
 
 /*			table tr.y2024 td.td-description,
@@ -1536,11 +1689,11 @@
 			table tr.y2019 td.td-description,
 			table tr.y2019 td.td-description a,
 			table tr.y2019 td.td-kind,
-			table tr.y2019 td.td-access,
+			table tr.y2019 td.td-access, */
 			table tr.y2018 td.td-description,
 			table tr.y2018 td.td-description a,
 			table tr.y2018 td.td-kind,
-			table tr.y2018 td.td-access, */
+			table tr.y2018 td.td-access,
 			table tr.y2017 td.td-description,
 			table tr.y2017 td.td-description a,
 			table tr.y2017 td.td-kind,
@@ -1581,7 +1734,7 @@
 			table tr.y2008 td.td-description a,
 			table tr.y2008 td.td-kind,
 			table tr.y2008 td.td-access {
-				color: rgba(32,34,36,.8) ;
+				color: rgba(255,255,255,.8) ;
 				font-weight: 500 ;
 			}
 
@@ -1645,7 +1798,7 @@
 	}
 
 	article figcaption {
-		color: rgba(32,34,36,.6) ;
+		color: rgba(255,255,255,.6) ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: .83em ;
 		text-align: right ;
@@ -1673,7 +1826,7 @@
 	small.header-note {
 		background-color: rgba(255,254,209,1) ;
 		border-radius: .5em ;
-		color: rgba(32,34,36,1) ;
+		color: rgba(26,26,26,1) ;
 		display: block ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: .83em ;
@@ -1697,7 +1850,7 @@
 	main,
 	header,
 	footer {
-		color: rgba(32,34,36,1) ;
+		color: rgba(255,255,255,1) ;
 		font-family: 'Faustina',sans-serif ;
 		font-size: 11.5pt ;
 		font-weight: 400 ;
@@ -1730,7 +1883,7 @@
 	/* HYPERLINKS */
 
 	a {
-		color: rgba(32,34,36,1) ;
+		color: rgba(255,255,255,1) ;
 		text-decoration: none ;
 	}
 

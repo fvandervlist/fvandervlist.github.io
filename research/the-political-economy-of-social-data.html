@@ -48,8 +48,12 @@
 	<meta name="citation_fulltext_html_url" content="https://dl.acm.org/doi/full/10.1145/3097286.3097324" />
 	<meta name="citation_pages" content="1&ndash;5" />
 
+	<!-- HTML base tag -->
+	<base href="https://www.fernandovandervlist.nl/" />
+
 	<!-- external resource link tags -->
-	<link rel="stylesheet" type="text/css" href="/Resources/css/styles.css" />
+	<link id="light-theme"rel="stylesheet" type="text/css" href="/Resources/css/styles-light.css" media="(prefers-color-scheme: light)" />
+	<link id="dark-theme" rel="stylesheet" type="text/css" href="/Resources/css/styles-dark.css" media="(prefers-color-scheme: dark)" />
 	<link rel="alternate" type="application/rss+xml" title="Feed of / &ndash; fernandovandervlist.nl" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 
 	<link rel="icon" type="image/png" sizes="32x32" href="/Resources/favicon/favicon-32x32.png">
@@ -89,7 +93,7 @@
 
 	<header>
 		<p class="header-path">
-			<a rel="author" href="https://www.fernandovandervlist.nl/" class="path path-root">fernandovandervlist.nl/</a>
+			<a rel="author" href="/" class="path path-root">fernandovandervlist.nl/</a>
 			&rang;
 			<a rel="internal" href="/research/" class="path-parent ahref-text">research/</a>
 			&rang;
@@ -98,7 +102,7 @@
 		<p class="header-anchors">
 			<a rel="internal anchor" href="#Summary" class="anchor ahref-text">&num;Summary</a>
 			<a rel="internal anchor" href="#Gallery" class="anchor ahref-text">&num;Gallery</a>
-			<a rel="internal anchor" href="#Cite" class="anchor ahref-text">&num;Cite</a>
+			<a rel="internal anchor" href="#Cite" class="anchor anchor-is-reference ahref-text">&num;Cite</a>
 			<a rel="internal anchor" href="#Info" class="anchor ahref-text">&num;Info</a>
 			<a rel="internal anchor" href="#Relations" class="anchor ahref-text">&num;Relations</a>
 		</p>
@@ -245,7 +249,7 @@
 					<td class="td-access"></td>
 				</tr>
 				<tr class="tr-item y2016">
-					<td class="td-icon"></td>
+					<td class="td-icon">&rarrhk;</td>
 					<td class="td-link"><a rel="external" target="_blank" href="http://blogs.oii.ox.ac.uk/ipp-conference/2016/programme-2016/track-c-markets-and-labour/markets-ii/anne-helmond-fernando-n-van-der-vlist.html" class="ahref-text">blogs.oii.ox.ac.uk</a></td>
 					<td class="td-description">Big Data Advertising Infrastructures</td>
 					<td class="td-datemodified"><span class="is-date">2016-09</span></td>
@@ -259,7 +263,7 @@
 
 	<footer>
 		<p class="legend">
-			<span class="legend-field">Legend:</span>
+			<span class="legend-field"><span class="legend-key">&#9679; </span>Legend:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value is-highlight"><span class="legend-key">&#9679; </span>pinned/highlight</span>
@@ -267,9 +271,16 @@
 				<span class="legend-value is-feature"><span class="legend-key">&#9679; </span>feature</span>
 				<span class="legend-value is-reference"><span class="legend-key">&#9679; </span>cite/reference</span>
 				<span class="legend-value is-visited"><span class="legend-key">&#9679; </span>visited</span>
+				<span class="legend-value is-marked"><span class="legend-key">&#9679; </span>marked</span>
 			</span>
 			&boxv;
-			<span class="legend-field">Filters:</span>
+			<span class="legend-field"><span class="legend-key">&#9681; </span>Theme:</span>
+			<small class="is-notif">&hellip;</small>
+			<span class="legend-values-expands">
+				<span class="legend-value"><input type="checkbox" id="toggleTheme" title="Toggle light/dark color scheme" /> Light</span>
+			</span>
+			&boxv;
+			<span class="legend-field"><span class="legend-key">&#9706; </span>Filters:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value"><input type="checkbox" id="toggleIsUpcoming" title="Toggle upcoming items (if applicable)" /> Upcoming</span>

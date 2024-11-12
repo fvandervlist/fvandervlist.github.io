@@ -1,4 +1,44 @@
-/* TOGGLE */
+// TOGGLE THEME
+
+const lightTheme = document.getElementById('light-theme');
+const darkTheme = document.getElementById('dark-theme');
+const toggleTheme = document.getElementById('toggleTheme');
+
+// Check initial theme and set checkbox state
+const savedTheme = localStorage.getItem('theme');
+const systemPrefersDark = window.matchMedia('(prefers-color-scheme: light)').matches;
+const initialTheme = savedTheme || (systemPrefersDark ? 'light' : 'dark');
+setTheme(initialTheme);
+
+// Listen for changes in system preference and apply if no user preference is saved
+window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', event => {
+	if (!localStorage.getItem('theme')) { // Only apply if no user preference is set
+		setTheme(event.matches ? 'light' : 'dark');
+	}
+});
+
+// Update theme when checkbox changes
+toggleTheme.addEventListener('change', () => {
+	const newTheme = toggleTheme.checked ? 'light' : 'dark';
+	setTheme(newTheme);
+	localStorage.setItem('theme', newTheme); // Save user preference
+});
+
+// Function to set theme by controlling the `media` attribute
+function setTheme(theme) {
+	if (theme === 'light') {
+		lightTheme.media = 'all'; // Enable light theme
+		darkTheme.media = 'not all'; // Disable dark theme
+		toggleTheme.checked = true;
+	} else {
+		lightTheme.media = 'not all'; // Disable light theme
+		darkTheme.media = 'all'; // Enable dark theme
+		toggleTheme.checked = false;
+	}
+}
+
+
+// TOGGLE DISPLAY FILTERS
 
 var lis = document.getElementsByTagName('li') ;
 var tds = document.getElementsByTagName('td') ;
@@ -10,7 +50,7 @@ var smalls = document.getElementsByTagName('small') ;
 var allTags = document.getElementsByTagName('*') ;
 
 
-/* toggleIsUpcoming */
+// toggleIsUpcoming
 
 var toggleIsUpcoming = function() {
 	for (var i = 0, l = lis.length; i < l; i++) {
@@ -24,11 +64,13 @@ var toggleIsUpcoming = function() {
 document.getElementById('toggleIsUpcoming').checked = true ;
 document.getElementById('toggleIsUpcoming').onclick = toggleIsUpcoming ;
 
-/* toggleIsArchived (> 5 YRS AGO) */
+// toggleIsArchived (> 5 YRS AGO)
 
 var toggleIsArchived = function() {
 	for (var i = 0, l = lis.length; i < l; i++) {
-		if (lis[i].getAttribute('class') == 'y2016'
+		if (lis[i].getAttribute('class') == 'y2018'
+		|| lis[i].getAttribute('class') == 'y2017'
+		|| lis[i].getAttribute('class') == 'y2016'
 		|| lis[i].getAttribute('class') == 'y2015'
 		|| lis[i].getAttribute('class') == 'y2014'
 		|| lis[i].getAttribute('class') == 'y2013'
@@ -41,7 +83,11 @@ var toggleIsArchived = function() {
 			else lis[i].style.display = 'none' ;
 	}
 	for (var i = 0, l = trs.length; i < l; i++) {
-		if (trs[i].getAttribute('class') == 'tr-item y2016'
+		if (trs[i].getAttribute('class') == 'tr-item y2018'
+		|| trs[i].getAttribute('class') == 'tr-item y2018 tr-istype-pinned'
+		|| trs[i].getAttribute('class') == 'tr-item y2017'
+		|| trs[i].getAttribute('class') == 'tr-item y2017 tr-istype-pinned'
+		|| trs[i].getAttribute('class') == 'tr-item y2016'
 		|| trs[i].getAttribute('class') == 'tr-item y2016 tr-istype-pinned'
 		|| trs[i].getAttribute('class') == 'tr-item y2015'
 		|| trs[i].getAttribute('class') == 'tr-item y2015 tr-istype-pinned'
@@ -67,7 +113,7 @@ var toggleIsArchived = function() {
 document.getElementById('toggleIsArchived').checked = true ;
 document.getElementById('toggleIsArchived').onclick = toggleIsArchived ;
 
-/* toggleIsMarked */
+// toggleIsMarked
 
 var toggleIsMarked = function() {
 	for (var i = 0, l = marks.length; i < l; i++) {
@@ -85,7 +131,7 @@ var toggleIsMarked = function() {
 document.getElementById('toggleIsMarked').checked = false ;
 document.getElementById('toggleIsMarked').onclick = toggleIsMarked ;
 
-/* toggleIsTranslation */
+// toggleIsTranslation
 
 var toggleIsTranslation = function() {
 	for (var i = 0, l = spans.length; i < l; i++) {
@@ -108,7 +154,7 @@ var toggleIsTranslation = function() {
 document.getElementById('toggleIsTranslation').checked = false ;
 document.getElementById('toggleIsTranslation').onclick = toggleIsTranslation ;
 
-/* toggleIsEmoji */
+// toggleIsEmoji
 
 var toggleIsEmoji = function() {
 	for (var i = 0, l = spans.length; i < l; i++) {
@@ -122,7 +168,7 @@ var toggleIsEmoji = function() {
 document.getElementById('toggleIsEmoji').checked = true ;
 document.getElementById('toggleIsEmoji').onclick = toggleIsEmoji ;
 
-/* toggleExpands */
+// toggleExpands
 
 var toggleExpands = function() {
 	for (var i = 0, l = spans.length; i < l; i++) {
@@ -149,6 +195,9 @@ var toggleExpands = function() {
 		if (allTags[i].getAttribute('class') == 'header-anchors'
 		|| allTags[i].getAttribute('class') == 'solid shortcuts'
 		|| allTags[i].getAttribute('class') == 'summary-expands'
+		|| allTags[i].getAttribute('class') == 'y2025 is-details'
+		|| allTags[i].getAttribute('class') == 'y2024 is-details'
+		|| allTags[i].getAttribute('class') == 'y2023 is-details'
 		|| allTags[i].getAttribute('class') == 'y2022 is-details'
 		|| allTags[i].getAttribute('class') == 'y2021 is-details'
 		|| allTags[i].getAttribute('class') == 'y2020 is-details'

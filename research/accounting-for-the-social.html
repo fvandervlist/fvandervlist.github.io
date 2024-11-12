@@ -48,8 +48,12 @@
 	<meta name="citation_fulltext_html_url" content="https://journals.sagepub.com/doi/full/10.1177/2053951716631365" />
 	<meta name="citation_pdf_url" content="https://journals.sagepub.com/doi/pdf/10.1177/2053951716631365" />
 
+	<!-- HTML base tag -->
+	<base href="https://www.fernandovandervlist.nl/" />
+
 	<!-- external resource link tags -->
-	<link rel="stylesheet" type="text/css" href="/Resources/css/styles.css" />
+	<link id="light-theme"rel="stylesheet" type="text/css" href="/Resources/css/styles-light.css" media="(prefers-color-scheme: light)" />
+	<link id="dark-theme" rel="stylesheet" type="text/css" href="/Resources/css/styles-dark.css" media="(prefers-color-scheme: dark)" />
 	<link rel="alternate" type="application/rss+xml" title="Feed of / &ndash; fernandovandervlist.nl" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 
 	<link rel="icon" type="image/png" sizes="32x32" href="/Resources/favicon/favicon-32x32.png">
@@ -89,7 +93,7 @@
 
 	<header>
 		<p class="header-path">
-			<a rel="author" href="https://www.fernandovandervlist.nl/" class="path path-root">fernandovandervlist.nl/</a>
+			<a rel="author" href="/" class="path path-root">fernandovandervlist.nl/</a>
 			&rang;
 			<a rel="internal" href="/research/" class="path-parent ahref-text">research/</a>
 			&rang;
@@ -97,7 +101,7 @@
 		</p>
 		<p class="header-anchors">
 			<a rel="internal anchor" href="#Summary" class="anchor ahref-text">&num;Summary</a>
-			<a rel="internal anchor" href="#Cite" class="anchor ahref-text">&num;Cite</a>
+			<a rel="internal anchor" href="#Cite" class="anchor anchor-is-reference ahref-text">&num;Cite</a>
 			<a rel="internal anchor" href="#Info" class="anchor ahref-text">&num;Info</a>
 			<a rel="internal anchor" href="#Relations" class="anchor ahref-text">&num;Relations</a>
 		</p>
@@ -237,7 +241,7 @@
 						&boxvr; URL: <a rel="external" target="_blank" href="https://scripties.uba.uva.nl/scriptie/569838" class="ahref-text">scripties.uba.uva.nl</a></td>
 					<td class="td-description"><a rel="internal" href="/research/the-making-of-predictions.html" class="path ahref-text"><i>The Making of Predictions</i></a></td>
 					<td class="td-datemodified"><span class="is-date">2015-06-26</span></td>
-					<td class="td-kind"><span class="is-emoji" title="&#x1f393; Degree">&#x1f393; &#x1f4c4;</span>Thesis &boxv; <span class="is-emoji" title="&#x1f4dc; Nominated"><a rel="internal" href="/about.html#Accomplishments-Awards-Honours" class="anchor ahref-emoji">&#x1f4dc;</a></span></td>
+					<td class="td-kind"><span class="is-emoji" title="&#x1f393; Degree">&#x1f393; &#x1f4c4;</span>Thesis &boxv; <span class="is-emoji" title="&#x1f4dc; Nominated"><a rel="internal" href="/about.html#Accomplishments-Awards-Honours" class="anchor ahref-emoji">&#x1f4dc;</a><br /></span></td>
 					<td class="td-access"><mark class="is-feature"><span class="is-emoji">&#x1f30d;</span>Public</mark></td>
 				</tr>
 				<tr class="tr-item y2015">
@@ -255,7 +259,7 @@
 
 	<footer>
 		<p class="legend">
-			<span class="legend-field">Legend:</span>
+			<span class="legend-field"><span class="legend-key">&#9679; </span>Legend:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value is-highlight"><span class="legend-key">&#9679; </span>pinned/highlight</span>
@@ -263,9 +267,16 @@
 				<span class="legend-value is-feature"><span class="legend-key">&#9679; </span>feature</span>
 				<span class="legend-value is-reference"><span class="legend-key">&#9679; </span>cite/reference</span>
 				<span class="legend-value is-visited"><span class="legend-key">&#9679; </span>visited</span>
+				<span class="legend-value is-marked"><span class="legend-key">&#9679; </span>marked</span>
 			</span>
 			&boxv;
-			<span class="legend-field">Filters:</span>
+			<span class="legend-field"><span class="legend-key">&#9681; </span>Theme:</span>
+			<small class="is-notif">&hellip;</small>
+			<span class="legend-values-expands">
+				<span class="legend-value"><input type="checkbox" id="toggleTheme" title="Toggle light/dark color scheme" /> Light</span>
+			</span>
+			&boxv;
+			<span class="legend-field"><span class="legend-key">&#9706; </span>Filters:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
 				<span class="legend-value"><input type="checkbox" id="toggleIsUpcoming" title="Toggle upcoming items (if applicable)" /> Upcoming</span>
