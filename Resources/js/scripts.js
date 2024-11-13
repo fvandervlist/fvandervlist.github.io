@@ -3,9 +3,19 @@
 document.querySelectorAll('a').forEach(link => {
 	link.addEventListener('click', function(event) {
 		const href = link.getAttribute('href') ;
+
+		// Check if the link is a pure anchor
 		if (href && href.startsWith('#')) {
-			event.preventDefault() ;
-			window.location.hash = href ;
+			event.preventDefault() ; // Prevent the default anchor behavior
+
+			// Update the URL hash manually
+			window.history.pushState(null, null, href) ;
+
+			// Scroll to the target element if it exists
+			const target = document.querySelector(href) ;
+			if (target) {
+				target.scrollIntoView({ behavior: 'smooth', block: 'start' }) ;
+			}
 		}
 	});
 });
