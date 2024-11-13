@@ -1,3 +1,16 @@
+// OVERRIDE HTML BASE FOR ANCHOR LINKS
+
+document.querySelectorAll('a').forEach(link => {
+	link.addEventListener('click', function(event) {
+		const href = link.getAttribute('href') ;
+		if (href && href.startsWith('#')) {
+			event.preventDefault() ;
+			window.location.hash = href ;
+		}
+	});
+});
+
+
 // TOGGLE THEME
 
 const lightTheme = document.getElementById('light-theme');
