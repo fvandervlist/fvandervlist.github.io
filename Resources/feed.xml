@@ -6,9 +6,9 @@
 		<title>Feed of / – fernandovandervlist.nl</title>
 		<atom:link rel="self" type="application/rss+xml" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 		<link>https://www.fernandovandervlist.nl/</link>
-		<description>Fernando van der Vlist, PhD, is a researcher, writer, graphic designer, and educator specialising in digital media and technology. He is Assistant Professor and programme coordinator for the Master&rsquo;s Cultural Data &amp; AI in the Department of Media Studies at the University of Amsterdam, Netherlands. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
+		<description>Fernando van der Vlist, PhD, is a scholar, graphic designer, and educator specialising in digital media and technology. He is Assistant Professor and programme coordinator for the Master&rsquo;s Cultural Data &amp; AI in the Department of Media Studies at the University of Amsterdam, Netherlands. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
 		<language>en-NL</language>
-		<lastBuildDate>Mon, 11 Nov 2024 12:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 11 Nov 2024 14:00:00 +0200</lastBuildDate>
 		<managingEditor>mail@fernandovandervlist.nl</managingEditor>
 
 		<item>
@@ -19,7 +19,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>A. Helmond and F. N. van der Vlist</dc:contributor>
-			<pubDate>Mon, 11 Nov 2024 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 11 Nov 2024 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>The Nationality of Apps?</title>
@@ -29,7 +29,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist and E. J. T. Weltevrede</dc:contributor>
-			<pubDate>Fri, 31 May 2024 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 31 May 2024 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Challenges as Catalysts</title>
@@ -39,7 +39,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>S. Hind, F. N. van der Vlist, and M. Kanderske</dc:contributor>
-			<pubDate>Wed, 17 Apr 2024 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 17 Apr 2024 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Big AI</title>
@@ -49,7 +49,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist, A. Helmond, and F. L. Ferrari</dc:contributor>
-			<pubDate>Tue, 12 Mar 2024 12:00:00 +0200</pubDate>
+			<pubDate>Tue, 12 Mar 2024 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Digital Methods for Sensory Media Research: Toolmaking as a Critical Technical Practice</title>
@@ -59,7 +59,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>T. H. J. Chao, D. van Geenen, C. Gerlitz, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Tue, 30 Jan 2024 12:00:00 +0200</pubDate>
+			<pubDate>Tue, 30 Jan 2024 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Super-Appification: Conglomeration in the Global Digital Economy</title>
@@ -69,7 +69,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist, A. Helmond, M. J. Dieter, and E. J. T. Weltevrede</dc:contributor>
-			<pubDate>Wed, 10 Jan 2024 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 10 Jan 2024 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Situating the Marketization of Data</title>
@@ -79,7 +79,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Thu, 09 Feb 2023 12:00:00 +0200</pubDate>
+			<pubDate>Thu, 09 Feb 2023 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>The Platform as Ecosystem: Configurations and Dynamics of Governance and Power</title>
@@ -89,7 +89,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Fri, 16 Sep 2022 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 16 Sep 2022 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Making the Car ‘Platform Ready’: How Big Tech Is Driving the Platformisation of Automobility</title>
@@ -99,7 +99,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>S. Hind, M. Kanderske, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Sun, 26 Jun 2022 12:00:00 +0200</pubDate>
+			<pubDate>Sun, 26 Jun 2022 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>API Governance: The Case of Facebook’s Evolution</title>
@@ -109,7 +109,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist, A. Helmond, M. Burkhardt, and T. Seitz</dc:contributor>
-			<pubDate>Sat, 07 May 2022 12:00:00 +0200</pubDate>
+			<pubDate>Sat, 07 May 2022 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Pandemic Platform Governance: Mapping the Global Ecosystem of COVID-19 Response Apps</title>
@@ -119,7 +119,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>M. J. Dieter, A. Helmond, N. Tkacz, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
-			<pubDate>Fri, 06 Aug 2021 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 06 Aug 2021 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>The Technicity of Platform Governance: Structure and Evolution of Facebook’s APIs</title>
@@ -129,7 +129,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist, A. Helmond, M. Burkhardt, and T. Seitz</dc:contributor>
-			<pubDate>Fri, 23 Jul 2021 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 23 Jul 2021 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Platform and App Histories: Assessing Source Availability in Web Archives and App Repositories</title>
@@ -139,7 +139,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Mon, 01 Jul 2021 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 01 Jul 2021 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>How Partners Mediate Platform Power: Mapping Business and Data Partnerships in the Social Media Ecosystem</title>
@@ -149,7 +149,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist and A. Helmond</dc:contributor>
-			<pubDate>Mon, 14 Jun 2021 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 14 Jun 2021 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Seeing the Forest for the Trees: Visualizing Platformization and Its Governance</title>
@@ -159,7 +159,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>J. F. T. M. van Dijck; F. N. van der Vlist</dc:contributor>
-			<pubDate>Wed, 08 Jul 2020 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 08 Jul 2020 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Social Media and Platform Historiography: Challenges and Opportunities</title>
@@ -169,7 +169,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Wed, 06 Nov 2019 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 06 Nov 2019 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Apps and Infrastructures – A Research Agenda</title>
@@ -179,7 +179,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>C. Gerlitz, A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 21 Oct 2019 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Regramming the Platform: Infrastructural Relations Between Apps and Social Media</title>
@@ -189,7 +189,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>C. Gerlitz, A. Helmond, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
-			<pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 21 Oct 2019 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Multi-Situated App Studies: Methods and Propositions</title>
@@ -199,7 +199,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>M. J. Dieter, C. Gerlitz, A. Helmond, N. Tkacz, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
-			<pubDate>Thu, 06 Jun 2019 12:00:00 +0200</pubDate>
+			<pubDate>Thu, 06 Jun 2019 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Facebook’s Evolution: Development of a Platform-as-Infrastructure</title>
@@ -209,7 +209,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Wed, 01 May 2019 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 01 May 2019 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>The Platform Society: Public Values in a Connective World</title>
@@ -219,7 +219,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>J. F. T. M. van Dijck, T. Poell, and B. G. M. de Waal; F. N. van der Vlist</dc:contributor>
-			<pubDate>Wed, 08 Jul 2020 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 08 Jul 2020 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Store, Interface, Package, Connection: Methods and Propositions for App Studies</title>
@@ -229,7 +229,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>M. J. Dieter, C. Gerlitz, A. Helmond, N. Tkacz, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
-			<pubDate>Thu, 30 Aug 2018 12:00:00 +0200</pubDate>
+			<pubDate>Thu, 30 Aug 2018 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Diaspora and Mapping Methodologies: Tracing Transnational Digital Connections with ‘Mattering Maps’</title>
@@ -239,7 +239,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>D. Alinejad, L. I. Candidatu, M. Mevsimler, C. Minchilli, S. Ponzanesi, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Wed, 05 Dec 2018 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 05 Dec 2018 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Apps and Infrastructures</title>
@@ -249,7 +249,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>C. Gerlitz, A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Tue, 06 Feb 2018 12:00:00 +0200</pubDate>
+			<pubDate>Tue, 06 Feb 2018 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Media Studies Reference Worksheets: Digital Research Skills for Media Studies</title>
@@ -259,7 +259,7 @@
 			<category>Links and Resources</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist and A. Helmond</dc:contributor>
-			<pubDate>Tue, 17 Oct 2017 12:00:00 +0200</pubDate>
+			<pubDate>Tue, 17 Oct 2017 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>The Political Economy of Social Data: A Historical Analysis of Platform–Industry Partnerships</title>
@@ -269,7 +269,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Fri, 28 Jul 2017 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 28 Jul 2017 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Counter-Mapping Surveillance: A Critical Cartography of Mass Surveillance Technology After Snowden</title>
@@ -279,7 +279,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Tue, 28 Feb 2017 12:00:00 +0200</pubDate>
+			<pubDate>Tue, 28 Feb 2017 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>App Support Ecologies: An Empirical Investigation of App–Platform Relations</title>
@@ -289,7 +289,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>C. Gerlitz, A. Helmond, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical); F. N. van der Vlist</dc:contributor>
-			<pubDate>Thu, 08 Dec 2016 12:00:00 +0200</pubDate>
+			<pubDate>Thu, 08 Dec 2016 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>De platformsamenleving: Strijd om publieke waarden in een online wereld</title>
@@ -299,7 +299,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>J. F. T. M. van Dijck, T. Poell, and B. G. M. de Waal; F. N. van der Vlist</dc:contributor>
-			<pubDate>Tue, 10 Nov 2016 12:00:00 +0200</pubDate>
+			<pubDate>Tue, 10 Nov 2016 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>App Studies: Platform Rules and Methodological Challenges</title>
@@ -309,7 +309,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>C. Gerlitz, A. Helmond, F. N. van der Vlist, and E. J. T. Weltevrede (alphabetical)</dc:contributor>
-			<pubDate>Mon, 31 Oct 2016 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 31 Oct 2016 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Cultures of Use, 1970s–1980s: An Archaeology of Computing’s Integration with Everyday Life</title>
@@ -319,7 +319,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>N. Kerssens; F. N. van der Vlist</dc:contributor>
-			<pubDate>Wed, 25 May 2016 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 25 May 2016 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Accounting for the Social: Investigating Commensuration and Big Data Practices at Facebook</title>
@@ -329,7 +329,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Wed, 01 Jun 2016 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 01 Jun 2016 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>The Making of Predictions: Social Media-Based Prediction and Its Resources, Techniques, and Applications</title>
@@ -339,7 +339,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Fri, 26 Jun 2015 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 26 Jun 2015 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Calculation in Digital Architecture: A Historical and Conceptual Investigation of a Cultural Technique</title>
@@ -349,7 +349,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Fri, 23 Jan 2015 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 23 Jan 2015 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>In-Formed Spaces: Conceptualising ‘Smart Cities’ as Assemblages of Anticipation</title>
@@ -359,7 +359,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Fri, 10 Jan 2014 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 10 Jan 2014 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Following #UvAMOOC on Twitter: A Network Analysis of a Massive Socio-Technical and Cross-Platform Online Learning Environment</title>
@@ -369,7 +369,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>T. de Keijser and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Fri, 06 Dec 2013 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 06 Dec 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Search as Research: Mapping Localisation and ‘Issue Maturity’ with Search Engines</title>
@@ -379,7 +379,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>T. de Keijser and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Fri, 22 Nov 2013 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 22 Nov 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Digital Pharmacology</title>
@@ -389,7 +389,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>A. Fiorentini, I. Khiri, K. Vershinina, and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Fri, 01 Nov 2013 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 01 Nov 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Studio @ NN DE Café: De upcoming professional op locatie</title>
@@ -399,7 +399,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Sun, 06 Oct 2013 12:00:00 +0200</pubDate>
+			<pubDate>Sun, 06 Oct 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Reconstructing Web History: Tracing the Trajectory of Lists on the Internet Movie Database</title>
@@ -409,7 +409,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>T. de Keijser and F. N. van der Vlist (alphabetical)</dc:contributor>
-			<pubDate>Fri, 15 Nov 2013 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 15 Nov 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>What’s in the Social Graph?: An Enquiry into a Technical Protocol</title>
@@ -419,7 +419,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Fri, 07 Jun 2013 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 07 Jun 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>A Technicity of Collaboration: Coordinating Distributed Software Development on GitHub</title>
@@ -429,7 +429,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Wed, 22 May 2013 12:00:00 +0200</pubDate>
+			<pubDate>Wed, 22 May 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Distributed Narratives: Extracting Design Methods from Nonlinear Narrative Formations</title>
@@ -439,7 +439,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Sat, 09 Mar 2013 12:00:00 +0200</pubDate>
+			<pubDate>Sat, 09 Mar 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Studying Sociocultural Networks: On the Viral Logic of Networked Media Objects</title>
@@ -449,7 +449,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Fri, 11 Jan 2013 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 11 Jan 2013 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Distributed Images :: 911: Heartbeat of a Distributed Media Event</title>
@@ -459,7 +459,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Mon, 11 Jun 2012 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 11 Jun 2012 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Distributed Identities :: README: Distributed Identity of the Internet Archive</title>
@@ -469,7 +469,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Mon, 11 Jun 2012 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 11 Jun 2012 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Distributed Narratives: Navigating Multiple Views</title>
@@ -479,7 +479,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Mon, 11 Jun 2012 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 11 Jun 2012 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Distributed Narratives: Extracting Design Methods from Nonlinear Narrative Formations</title>
@@ -489,7 +489,7 @@
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Fri, 25 May 2012 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 25 May 2012 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Googleverse: The Google Search Universe</title>
@@ -499,7 +499,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Sat, 15 Oct 2011 12:00:00 +0200</pubDate>
+			<pubDate>Sat, 15 Oct 2011 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Rotterdam 2057: The Future Will Be History</title>
@@ -509,7 +509,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>M. van Bachum, E. Harmsen, F. N. van der Vlist (alphabetical); et al.</dc:contributor>
-			<pubDate>Thu, 12 May 2011 12:00:00 +0200</pubDate>
+			<pubDate>Thu, 12 May 2011 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Rotterdam 2057: The Future Will Be History</title>
@@ -519,7 +519,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. Hahne, T. Meeus (alphabetical); et al.</dc:contributor>
-			<pubDate>Thu, 12 May 2011 12:00:00 +0200</pubDate>
+			<pubDate>Thu, 12 May 2011 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Exercises in Style: Tweeüntwintig variaties op de werkelijkheid; Een lexicologie van de werkelijkheid</title>
@@ -529,7 +529,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Thu, 21 Apr 2011 12:00:00 +0200</pubDate>
+			<pubDate>Thu, 21 Apr 2011 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>Hergebruik (Special Issue), Huig #12</title>
@@ -539,7 +539,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>T. de Jong, M. Józefczak, F. N. van der Vlist, and D. R. de Vries (alphabetical)</dc:contributor>
-			<pubDate>Fri, 04 Feb 2011 12:00:00 +0200</pubDate>
+			<pubDate>Fri, 04 Feb 2011 14:00:00 +0200</pubDate>
 		</item>
 		<item>
 			<title>127 Years of Dutch Graphic Design</title>
@@ -549,7 +549,7 @@
 			<category>Design</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>F. N. van der Vlist</dc:contributor>
-			<pubDate>Mon, 28 Jun 2010 12:00:00 +0200</pubDate>
+			<pubDate>Mon, 28 Jun 2010 14:00:00 +0200</pubDate>
 		</item>
 
 	</channel>

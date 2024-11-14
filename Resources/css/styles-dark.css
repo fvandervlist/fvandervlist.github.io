@@ -13,7 +13,7 @@
 	}
 
 	body {
-		background-color: rgba(26,26,26,.98) ;
+		background-color: rgba(1,5,15,.98) ;
 		color: rgba(255,255,255,1) ;
 		font-family: 'Roboto',sans-serif ;
 		-webkit-font-smoothing: antialiased ;
@@ -22,7 +22,7 @@
 	}
 
 	main {
-		background-color: rgba(26,26,26,1) ;
+		background-color: rgba(1,5,15,1) ;
 		font-size: 1em ;
 		font-weight: 400 ;
 		line-height: 1.5 ;
@@ -140,7 +140,7 @@
 		}
 
 	section.index {
-/*		background-color: rgba(26,26,26,1) ; */
+/*		background-color: rgba(1,5,15,1) ; */
 /*		background-color: rgba(255,255,255,.02) ; */
 		border-radius: .5em ;
 	}
@@ -426,7 +426,7 @@
 
 		section.summary p.shortcuts span.shortcut-link {
 /*			background-color: rgba(255,255,255,.05) ; */
-			background-color: rgba(26,26,26,.8) ;
+			background-color: rgba(1,5,15,.8) ;
 			border: 1px solid rgba(255,255,255,.1) ;
 			border-radius: 1em ;
 			padding: .5em ;
@@ -1087,7 +1087,7 @@
 	table tr.tr-core-item,
 	table tr.tr-core-supdir,
 	table tr.tr-core-subdir {
-/*		background-color: rgba(26,26,26,.8) ; */
+/*		background-color: rgba(1,5,15,.8) ; */
 		border-top: 1px solid rgba(255,255,255,.05) ;
 		border-bottom: 1px solid rgba(255,255,255,.05) ;
 	}
@@ -1292,6 +1292,7 @@
 
 		table td.td-description,
 		table td.td-description a {
+			font-family: 'Faustina',sans-serif ;
 			font-weight: 500 ;
 		}
 
@@ -1776,7 +1777,7 @@
 	small.header-note {
 		background-color: rgba(255,254,209,1) ;
 		border-radius: .5em ;
-		color: rgba(26,26,26,1) ;
+		color: rgba(1,5,15,1) ;
 		display: block ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: .83em ;
