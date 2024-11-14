@@ -1101,9 +1101,9 @@
 
 		table tr.tr-item:hover {
 			background-color: rgba(255,255,255,.05) !important ;
-			-webkit-box-shadow: inset 4px 0px 0px rgba(255,255,255,1) ;
-			-moz-box-shadow: -4px 0px 0px rgba(255,255,255,1) ;
-			-khtml-box-shadow: -4px 0px 0px rgba(255,255,255,1) ;
+			-webkit-box-shadow: inset 4px 0px 0px rgba(86,133,244,1) ;
+			-moz-box-shadow: -4px 0px 0px rgba(86,133,244,1) ;
+			-khtml-box-shadow: -4px 0px 0px rgba(86,133,244,1) ;
 /*			-webkit-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
 			-moz-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ;
 			-khtml-box-shadow: 0px 4px 0px rgba(255,255,255,.2) ; */
