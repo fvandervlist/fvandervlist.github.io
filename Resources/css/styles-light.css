@@ -436,12 +436,12 @@
 				background-color: rgba(86,133,244,.1) ;
 			}
 
-		section.summary p.shortcuts span.is-highlight {
+		section.summary p.shortcuts span.is-highlighted {
 /*			background-color: rgba(219,68,55,.05) ;
 			border: 1px solid rgba(219,68,55,.1) ; */
 		}
 
-			section.summary p.shortcuts span.is-highlight:hover {
+			section.summary p.shortcuts span.is-highlighted:hover {
 				background-color: rgba(219,68,55,.1) ;
 			}
 
@@ -525,7 +525,7 @@
 		font-size: .83em ;
 		}
 
-	article section blockquote.is-highlight {
+	article section blockquote.is-highlighted {
 		display: block !important ;
 	}
 
@@ -772,8 +772,8 @@
 			color: rgba(32,34,36,.6) ;
 		}
 
-		p.shortcuts span.is-highlight,
-		p.shortcuts span.is-highlight a {
+		p.shortcuts span.is-highlighted,
+		p.shortcuts span.is-highlighted a {
 			color: rgba(219,68,55,1) ;
 		}
 
@@ -804,11 +804,11 @@
 			color: rgba(32,34,36,.8) ;
 		}
 
-		header a.anchor-is-highlight {
+		header p.header-anchors a.is-highlighted {
 			color: rgba(219,68,55,1) ;
 		}
 
-		header a.anchor-is-reference {
+		header p.header-anchors a.is-reference {
 			color: rgba(86,133,244,1) ;
 		}
 
@@ -831,8 +831,8 @@
 			color: rgba(32,34,36,.6) ;
 		}
 
-		table td.td-link:hover span.td-link-expands-is-reference,
-		table td.td-link:hover span.td-link-expands-is-reference a {
+		table td.td-link:hover span.is-reference,
+		table td.td-link:hover span.is-reference a {
 			color: rgba(86,133,244,.6) !important ;
 		}
 
@@ -951,14 +951,14 @@
 	a.istype-latest,
 	a.istype-pinned,
 	a.istype-topcited,
-	a.is-highlight,
+	a.is-highlighted,
 	a.is-reference,
 	a.is-feature,
 	a.is-version, {
 		border-radius: 0em 1em ;
 	}
 
-	blockquote.is-highlight {
+	blockquote.is-highlighted {
 		background-color: rgba(219,68,55,.05) ;
 		-webkit-box-shadow: -6px 0px 0px rgba(219,68,55,.6) ;
 		-moz-box-shadow: -6px 0px 0px rgba(219,68,55,.6) ;
@@ -970,7 +970,7 @@
 		border-radius: 1em ;
 	}
 
-	li.is-highlight {
+	li.is-highlighted {
 		background-color: rgba(219,68,55,.05) ;
 		border-radius: 1em ;
 	}
@@ -1448,7 +1448,7 @@
 		}
 
 		.is-hidden {
-			display: none ;
+			display: none important ;
 		}
 
 		.lang-nl {
@@ -1460,7 +1460,7 @@
 /*			background-color: rgba(244,160,0,.1) ; */
 		}
 
-		a.is-highlight,
+		a.is-highlighted,
 		a.istype-pinned {
 /*			background-color: rgba(219,68,55,.1) ; */
 		}
@@ -1483,7 +1483,7 @@
 				display: inline ;
 			}
 
-		footer p.legend span.is-highlight {
+		footer p.legend span.is-highlighted {
 			background-color: rgba(219,68,55,.1) ;
 			border-radius: 0em 1em ;
 			color: rgba(219,68,55,1) ;
@@ -1567,7 +1567,7 @@
 		}
 
 			table tr.tr-istype-pinned,
-			.is-highlight,
+			.is-highlighted,
 			.is-upcoming:hover,
 			.y2026:hover,
 
@@ -1772,6 +1772,11 @@
 		display: none ;
 	}
 
+	section.contact-card table #Card-Email-Alt,
+	section.contact-card table #Card-PersonalWebsite-Alt {
+		display: none ;
+	}
+
 
 	/* PARAGRAPH, LIST, SMALL */
 
@@ -1784,6 +1789,13 @@
 		font-size: .83em ;
 		font-style: italic ;
 		padding: 1em ;
+	}
+
+
+	/* TYPES */
+
+	.is-hidden {
+		display: none !important ;
 	}
 
 }

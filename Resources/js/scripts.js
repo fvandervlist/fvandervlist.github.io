@@ -2,19 +2,19 @@
 
 document.querySelectorAll('a').forEach(link => {
 	link.addEventListener('click', function(event) {
-		const href = link.getAttribute('href') ;
+		const href = link.getAttribute('href');
 
 		// Check if the link is a pure anchor
 		if (href && href.startsWith('#')) {
-			event.preventDefault() ; // Prevent the default anchor behavior
+			event.preventDefault(); // Prevent the default anchor behavior
 
 			// Update the URL hash manually
-			window.history.pushState(null, null, href) ;
+			window.history.pushState(null, null, href);
 
 			// Scroll to the target element if it exists
-			const target = document.querySelector(href) ;
+			const target = document.querySelector(href);
 			if (target) {
-				target.scrollIntoView({ behavior: 'smooth', block: 'start' }) ;
+				target.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
 	});
@@ -63,14 +63,14 @@ function setTheme(theme) {
 
 // TOGGLE DISPLAY FILTERS
 
-var lis = document.getElementsByTagName('li') ;
-var tds = document.getElementsByTagName('td') ;
-var trs = document.getElementsByTagName('tr') ;
-var sections = document.getElementsByTagName('section') ;
-var spans = document.getElementsByTagName('span') ;
-var marks = document.getElementsByTagName('mark') ;
-var smalls = document.getElementsByTagName('small') ;
-var allTags = document.getElementsByTagName('*') ;
+var lis = document.getElementsByTagName('li');
+var tds = document.getElementsByTagName('td');
+var trs = document.getElementsByTagName('tr');
+var sections = document.getElementsByTagName('section');
+var spans = document.getElementsByTagName('span');
+var marks = document.getElementsByTagName('mark');
+var smalls = document.getElementsByTagName('small');
+var allTags = document.getElementsByTagName('*');
 
 
 // toggleIsUpcoming
@@ -78,14 +78,14 @@ var allTags = document.getElementsByTagName('*') ;
 var toggleIsUpcoming = function() {
 	for (var i = 0, l = lis.length; i < l; i++) {
 		if (lis[i].getAttribute('class') == 'y2025 is-upcoming'
-		|| lis[i].getAttribute('class') == 'y2022 is-upcoming')
-			if (lis[i].style.display == 'none') lis[i].style.display = 'list-item' ;
-			else lis[i].style.display = 'none' ;
+		|| lis[i].getAttribute('class') == 'y2024 is-upcoming')
+			if (lis[i].style.display == 'none') lis[i].style.display = 'list-item';
+			else lis[i].style.display = 'none';
 	}
 }
 
-document.getElementById('toggleIsUpcoming').checked = true ;
-document.getElementById('toggleIsUpcoming').onclick = toggleIsUpcoming ;
+document.getElementById('toggleIsUpcoming').checked = true;
+document.getElementById('toggleIsUpcoming').onclick = toggleIsUpcoming;
 
 // toggleIsArchived (> 5 YRS AGO)
 
@@ -102,8 +102,8 @@ var toggleIsArchived = function() {
 		|| lis[i].getAttribute('class') == 'y2010'
 		|| lis[i].getAttribute('class') == 'y2009'
 		|| lis[i].getAttribute('class') == 'y2008')
-			if (lis[i].style.display == 'none') lis[i].style.display = '' ;
-			else lis[i].style.display = 'none' ;
+			if (lis[i].style.display == 'none') lis[i].style.display = '';
+			else lis[i].style.display = 'none';
 	}
 	for (var i = 0, l = trs.length; i < l; i++) {
 		if (trs[i].getAttribute('class') == 'tr-item y2018'
@@ -128,31 +128,31 @@ var toggleIsArchived = function() {
 		|| trs[i].getAttribute('class') == 'tr-item y2009 tr-istype-pinned'
 		|| trs[i].getAttribute('class') == 'tr-item y2008'
 		|| trs[i].getAttribute('class') == 'tr-item y2008 tr-istype-pinned')
-			if (trs[i].style.display == 'none') trs[i].style.display = '' ;
-			else trs[i].style.display = 'none' ;
+			if (trs[i].style.display == 'none') trs[i].style.display = '';
+			else trs[i].style.display = 'none';
 	}
 }
 
-document.getElementById('toggleIsArchived').checked = true ;
-document.getElementById('toggleIsArchived').onclick = toggleIsArchived ;
+document.getElementById('toggleIsArchived').checked = true;
+document.getElementById('toggleIsArchived').onclick = toggleIsArchived;
 
 // toggleIsMarked
 
 var toggleIsMarked = function() {
 	for (var i = 0, l = marks.length; i < l; i++) {
 		if (marks[i].getAttribute('class') == 'is-marked')
-			if (marks[i].style.backgroundColor == '') marks[i].style.backgroundColor = 'rgba(255,254,209,1)' ;
-			else marks[i].style.backgroundColor = '' ;
+			if (marks[i].style.backgroundColor == '') marks[i].style.backgroundColor = 'rgba(255,254,209,1)';
+			else marks[i].style.backgroundColor = '';
 	}
 	for (var i = 0, l = spans.length; i < l; i++) {
 		if (spans[i].getAttribute('class') == 'legend-value is-marked')
-			if (spans[i].style.display == 'inline') spans[i].style.display = 'none' ;
-			else spans[i].style.display = 'inline' ;
+			if (spans[i].style.display == 'inline') spans[i].style.display = 'none';
+			else spans[i].style.display = 'inline';
 	}
 }
 
-document.getElementById('toggleIsMarked').checked = false ;
-document.getElementById('toggleIsMarked').onclick = toggleIsMarked ;
+document.getElementById('toggleIsMarked').checked = false;
+document.getElementById('toggleIsMarked').onclick = toggleIsMarked;
 
 // toggleIsTranslation
 
@@ -160,8 +160,8 @@ var toggleIsTranslation = function() {
 	for (var i = 0, l = spans.length; i < l; i++) {
 		if (spans[i].getAttribute('class') == 'is-translation'
 		|| spans[i].getAttribute('class') == 'is-translation is-comment')
-			if (spans[i].style.display == 'inline') spans[i].style.display = 'none' ;
-			else spans[i].style.display = 'inline' ;
+			if (spans[i].style.display == 'inline') spans[i].style.display = 'none';
+			else spans[i].style.display = 'inline';
 	}
 	for (var i = 0, l = allTags.length; i < l; i++) {
 		if (allTags[i].getAttribute('class') == 'is-translation'
@@ -169,13 +169,13 @@ var toggleIsTranslation = function() {
 		|| allTags[i].getAttribute('class') == 'summary-contd is-translation'
 		|| allTags[i].getAttribute('class') == 'keywords is-translation'
 		|| allTags[i].getAttribute('class') == 'article-keypoints is-translation')
-			if (allTags[i].style.display == 'block') allTags[i].style.display = 'none' ;
-			else allTags[i].style.display = 'block' ;
+			if (allTags[i].style.display == 'block') allTags[i].style.display = 'none';
+			else allTags[i].style.display = 'block';
 	}
 }
 
-document.getElementById('toggleIsTranslation').checked = false ;
-document.getElementById('toggleIsTranslation').onclick = toggleIsTranslation ;
+document.getElementById('toggleIsTranslation').checked = false;
+document.getElementById('toggleIsTranslation').onclick = toggleIsTranslation;
 
 // toggleIsEmoji
 
@@ -183,13 +183,13 @@ var toggleIsEmoji = function() {
 	for (var i = 0, l = spans.length; i < l; i++) {
 		if (spans[i].getAttribute('class') == 'is-emoji'
 		|| spans[i].getAttribute('class') == 'is-emoji blockquote-quo')
-			if (spans[i].style.display == 'none') spans[i].style.display = '' ;
-			else spans[i].style.display = 'none' ;
+			if (spans[i].style.display == 'none') spans[i].style.display = '';
+			else spans[i].style.display = 'none';
 	}
 }
 
-document.getElementById('toggleIsEmoji').checked = true ;
-document.getElementById('toggleIsEmoji').onclick = toggleIsEmoji ;
+document.getElementById('toggleIsEmoji').checked = true;
+document.getElementById('toggleIsEmoji').onclick = toggleIsEmoji;
 
 // toggleExpands
 
@@ -198,21 +198,21 @@ var toggleExpands = function() {
 		if (spans[i].getAttribute('class') == 'td-link-expands'
 		|| spans[i].getAttribute('class') == 'byline-expands'
 		|| spans[i].getAttribute('class') == 'legend-values-expands')
-			if (spans[i].style.display == 'inline') spans[i].style.display = 'none' ;
-			else spans[i].style.display = 'inline' ;
+			if (spans[i].style.display == 'inline') spans[i].style.display = 'none';
+			else spans[i].style.display = 'inline';
 	}
 	for (var i = 0, l = spans.length; i < l; i++) {
 		if (spans[i].getAttribute('class') == 'th-expands'
 		|| spans[i].getAttribute('class') == 'td-expands')
-			if (spans[i].style.display == 'none') spans[i].style.display = 'inline' ;
-			else spans[i].style.display = 'none' ;
+			if (spans[i].style.display == 'none') spans[i].style.display = 'inline';
+			else spans[i].style.display = 'none';
 	}
 	for (var i = 0, l = allTags.length; i < l; i++) {
 		if (allTags[i].getAttribute('class') == 'th-expands'
 		|| allTags[i].getAttribute('class') == 'td-expands'
 		|| allTags[i].getAttribute('class') == 'byline shortcuts')
-			if (allTags[i].style.display == 'inline') allTags[i].style.display = 'none' ;
-			else allTags[i].style.display = 'inline' ;
+			if (allTags[i].style.display == 'inline') allTags[i].style.display = 'none';
+			else allTags[i].style.display = 'inline';
 	}
 	for (var i = 0, l = allTags.length; i < l; i++) {
 		if (allTags[i].getAttribute('class') == 'header-anchors'
@@ -233,16 +233,16 @@ var toggleExpands = function() {
 		|| allTags[i].getAttribute('class') == 'y2013 is-details'
 		|| allTags[i].getAttribute('class') == 'y2012 is-details'
 		|| allTags[i].getAttribute('class') == 'is-details')
-			if (allTags[i].style.display == 'block') allTags[i].style.display = 'none' ;
-			else allTags[i].style.display = 'block' ;
+			if (allTags[i].style.display == 'block') allTags[i].style.display = 'none';
+			else allTags[i].style.display = 'block';
 	}
 	for (var i = 0, l = smalls.length; i < l; i++) {
 		if (smalls[i].getAttribute('class') == 'is-notif')
-			if (smalls[i].style.display == 'none') smalls[i].style.display = '' ;
-			else smalls[i].style.display = 'none' ;
+			if (smalls[i].style.display == 'none') smalls[i].style.display = '';
+			else smalls[i].style.display = 'none';
 	}
 }
 
-document.getElementById('toggleExpands').checked = false ;
-document.getElementById('toggleExpands').onclick = toggleExpands ;
+document.getElementById('toggleExpands').checked = false;
+document.getElementById('toggleExpands').onclick = toggleExpands;
 
