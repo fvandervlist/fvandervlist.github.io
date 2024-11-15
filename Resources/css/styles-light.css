@@ -1229,8 +1229,12 @@
 		}
 
 		table th.th-istype-sortby {
-			color: rgba(244,160,0,1) ;
 /*			border-bottom: 1px solid rgba(32,34,36,.6) ; */
+		}
+
+		table th.th-datemodified.th-istype-sortby {
+			color: rgba(244,160,0,1) ;
+/*			border-bottom: 1px solid rgba(244,160,0,1) ; */
 		}
 
 		section.bios table,
