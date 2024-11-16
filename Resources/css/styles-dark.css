@@ -1763,12 +1763,120 @@
 
 	/* TABLE */
 
+/*	table th.th-link,
+	table td.td-link,
+	table th.th-description,
+	table td.td-description,
+	table th.th-datemodified,
+	table td.td-datemodified, */
+	table th.th-kind,
+	table td.td-kind,
+	table th.th-access,
+	table td.td-access {
+		display: none ;
+	}
+
+	section.contact-card table #Card-Email-Alt,
+	section.contact-card table #Card-PersonalWebsite-Alt {
+		display: none ;
+	}
+
+
+	/* PARAGRAPH, LIST, SMALL */
+
+	small.header-note {
+		background-color: rgba(255,254,209,1) ;
+		border-radius: .5em ;
+		color: rgba(1,5,15,1) ;
+		display: block ;
+		font-family: 'Roboto',sans-serif ;
+		font-size: .83em ;
+		font-style: italic ;
+		padding: 1em ;
+	}
+
+
+	/* TYPES */
+
+	.is-hidden {
+		display: none !important ;
+	}
+
+}
+
+
+@media screen and (max-width: 600px) {
+
+
+	/* PAGE SETUP */
+
+	body {
+		font-size: .83em ;
+		margin: 0em 0em 2em 0em ;
+		padding: 0em ;
+	}
+
+	main {
+		margin: 0em ;
+/*		margin: 1em ; */
+		padding: 1em ;
+		width: auto ;
+		overflow: hidden ;
+	}
+
+	header,
+	footer {
+		margin: 0em 1em ;
+	}
+
+
+	/* PAGE SECTION */
+
+	section {
+		margin: 1em 0em ;
+		padding: 1em ;
+	}
+
+		/* PAGE SECTION SUMMARY */
+
+		section.summary {
+			padding: 1em ;
+		}
+
+		section.summary blockquote {
+			padding: 1em ;
+		}
+
+
+	/* PAGE ARTICLE */
+
+	article {
+		margin: 1em 0em ;
+		padding: 1em ;
+		width: auto ;
+	}
+
+	article section {
+		margin: 1em 0em ;
+		padding: 0em ;
+	}
+
+	article figcaption {
+		color: rgba(255,255,255,.6) ;
+		font-family: 'Roboto',sans-serif ;
+		font-size: .83em ;
+		text-align: right ;
+	}
+
+
+	/* TABLE */
+
 	table th.th-link,
 	table td.td-link,
 /*	table th.th-description,
-	table td.td-description, */
+	table td.td-description,
 	table th.th-datemodified,
-	table td.td-datemodified,
+	table td.td-datemodified, */
 	table th.th-kind,
 	table td.td-kind,
 	table th.th-access,

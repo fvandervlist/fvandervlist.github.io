@@ -32,7 +32,7 @@
 	<base href="https://www.fernandovandervlist.nl/" />
 
 	<!-- external resource link tags -->
-	<link id="light-theme"rel="stylesheet" type="text/css" href="/Resources/css/styles-light.css" media="(prefers-color-scheme: light)" />
+	<link id="light-theme" rel="stylesheet" type="text/css" href="/Resources/css/styles-light.css" media="(prefers-color-scheme: light)" />
 	<link id="dark-theme" rel="stylesheet" type="text/css" href="/Resources/css/styles-dark.css" media="(prefers-color-scheme: dark)" />
 	<link rel="alternate" type="application/rss+xml" title="Feed of / &ndash; fernandovandervlist.nl" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 
@@ -183,20 +183,17 @@
 			<span class="legend-field"><span class="legend-key">&#9681; </span>Theme:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
-				<span class="legend-value"><input type="checkbox" id="toggleTheme" title="Toggle light/dark color scheme" /> Light</span>
+				<span class="legend-value"><input type="checkbox" id="toggleTheme" title="Toggle light/dark color scheme (default: match browser)" /> Light</span>
 			</span>
 			&boxv;
 			<span class="legend-field"><span class="legend-key">&#9706; </span>Filters:</span>
 			<small class="is-notif">&hellip;</small>
 			<span class="legend-values-expands">
-				<span class="legend-value"><input type="checkbox" id="toggleIsUpcoming" title="Toggle upcoming items (if applicable)" /> Upcoming</span>
-				<span class="legend-value"><input type="checkbox" id="toggleIsArchived" title="Toggle archived items (> 5 years ago)" /> Archived</span>
+				<span class="legend-value"><input type="checkbox" id="toggleIsUpcoming" title="Toggle upcoming items (if applicable) (default: shown)" checked /> Upcoming</span>
+				<span class="legend-value"><input type="checkbox" id="toggleIsArchived" title="Toggle archived items (from > 5 years ago (default: shown))" checked /> Archived</span>
 				&boxv;
-				<span class="legend-value"><input type="checkbox" id="toggleIsMarked" title="Toggle in-text marks (if applicable)" /> Marked</span>
-				<span class="legend-value"><input type="checkbox" id="toggleIsTranslation" title="Toggle in-text original translations (if applicable)" /> Translations</span>
-				<span class="legend-value"><input type="checkbox" id="toggleIsEmoji" title="Toggle in-text emoji" /> Emoji</span>
-				&boxv;
-				<span class="legend-value"><input type="checkbox" id="toggleExpands" title="Unfold additional information (if applicable)" /> Unfolds</span>
+				<span class="legend-value"><input type="checkbox" id="toggleIsTranslation" title="Toggle in-text contextual translations (if applicable) (default: hidden)" unchecked /> Translations</span>
+				<span class="legend-value"><input type="checkbox" id="toggleIsEmoji" title="Toggle in-text emoji (default: shown)" checked /> Emoji</span>
 			</span>
 			&boxv;
 			<span class="legend-field"><span class="legend-key">&#x1f553; </span>Last modified:</span>
