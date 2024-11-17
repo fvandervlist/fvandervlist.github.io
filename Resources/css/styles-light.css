@@ -63,7 +63,7 @@
 	small.header-note-connect {
 		background-color: rgba(86,133,244,.2) ;
 		border-radius: .5em ;
-		color: rgba(32,34,36,1) ;
+		color: rgba(86,133,244,1) ;
 		display: block ;
 		font-family: 'Roboto',sans-serif ;
 		font-size: 1em ;
@@ -72,7 +72,7 @@
 	}
 
 	small.header-note-connect a {
-		color: rgba(32,34,36,1) ;
+		color: rgba(86,133,244,1) ;
 	}
 
 
@@ -1762,27 +1762,6 @@
 	}
 
 
-	/* TABLE */
-
-	table th.th-link,
-	table td.td-link,
-/*	table th.th-description,
-	table td.td-description,
-	table th.th-datemodified,
-	table td.td-datemodified, */
-	table th.th-kind,
-	table td.td-kind,
-	table th.th-access,
-	table td.td-access {
-		display: none ;
-	}
-
-	section.contact-card table #Card-Email-Alt,
-	section.contact-card table #Card-PersonalWebsite-Alt {
-		display: none ;
-	}
-
-
 	/* PARAGRAPH, LIST, SMALL */
 
 	small.header-note {
@@ -1845,7 +1824,12 @@
 		}
 
 		section.summary blockquote {
+			font-size: 1.17em ;
 			padding: 1em ;
+		}
+
+		section.summary blockquote span.blockquote-expands {
+			display: none ;
 		}
 
 
@@ -1872,9 +1856,9 @@
 
 	/* TABLE */
 
-/*	table th.th-link,
+	table th.th-link,
 	table td.td-link,
-	table th.th-description,
+/*	table th.th-description,
 	table td.td-description,
 	table th.th-datemodified,
 	table td.td-datemodified, */
