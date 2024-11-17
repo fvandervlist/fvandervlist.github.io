@@ -974,6 +974,10 @@
 		background-color: rgba(219,68,55,.05) ;
 		border-radius: 1em ;
 	}
+	
+	li span.is-comment {
+		color: rgba(32,34,36,.6) ;
+	}
 
 
 	/* PARAGRAPH, LIST, SMALL */

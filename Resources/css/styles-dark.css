@@ -13,7 +13,7 @@
 	}
 
 	body {
-		background-color: rgba(1,5,15,.95) ;
+		background-color: rgba(1,5,15,.90) ;
 		color: rgba(255,255,255,1) ;
 		font-family: 'Roboto',sans-serif ;
 		-webkit-font-smoothing: antialiased ;
@@ -22,7 +22,7 @@
 	}
 
 	main {
-		background-color: rgba(1,5,15,1) ;
+		background-color: rgba(1,5,15,.4) ;
 		font-size: 1em ;
 		font-weight: 400 ;
 		line-height: 1.5 ;
@@ -972,6 +972,10 @@
 	li.is-highlighted {
 		background-color: rgba(219,68,55,.1) ;
 		border-radius: 1em ;
+	}
+
+	li span.is-comment {
+		color: rgba(255,255,255,.6) ;
 	}
 
 
