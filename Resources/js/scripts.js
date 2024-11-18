@@ -138,7 +138,7 @@ var spans = document.getElementsByTagName('span');
 		});
 	};
 	
-	// toggleIsTranslation function
+	// Function to toggle visibility based on the 'is-translation' class
 	var toggleIsTranslation = function () {
 		var checkbox = document.getElementById('toggleIsTranslation');
 		var elements = document.querySelectorAll('.is-translation'); // Select all elements with the class 'is-translation'
@@ -147,7 +147,7 @@ var spans = document.getElementsByTagName('span');
 		});
 	};
 	
-	// toggleIsEmoji function
+	// Function to toggle visibility based on the 'is-emoji' class
 	var toggleIsEmoji = function () {
 		var checkbox = document.getElementById('toggleIsEmoji');
 		var elements = document.querySelectorAll('.is-emoji'); // Select all elements with the class 'is-emoji'
