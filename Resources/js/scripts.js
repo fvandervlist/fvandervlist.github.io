@@ -120,7 +120,7 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		var elements = document.querySelectorAll('.is-upcoming'); // Select all elements with the class 'is-upcoming'
 		elements.forEach(function (element) {
 			// If the checkbox is checked, show the element; otherwise, hide it
-			element.style.display = checkbox.checked ? 'block' : 'none';
+			element.style.display = checkbox.checked ? '' : 'none';
 		});
 	};
 	
@@ -131,7 +131,7 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		var elements = document.querySelectorAll(years.map(year => `.${year}`).join(',')); // Select all elements with any of the year classes
 		elements.forEach(function (element) {
 			// If the checkbox is checked, show the element; otherwise, hide it
-			element.style.display = checkbox.checked ? 'block' : 'none';
+			element.style.display = checkbox.checked ? '' : 'none';
 		});
 	};
 	
