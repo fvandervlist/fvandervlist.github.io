@@ -121,6 +121,9 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		elements.forEach(function (element) {
 			// If the checkbox is checked, show the element; otherwise, hide it
 			element.style.display = checkbox.checked ? '' : 'none';
+			if (checkbox.checked) {
+				element.style.removeProperty('display'); // Clear the inline 'display' style to use stylesheet styles
+			}
 		});
 	};
 	
@@ -131,7 +134,11 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		var elements = document.querySelectorAll(years.map(year => `.${year}`).join(',')); // Select all elements with any of the year classes
 		elements.forEach(function (element) {
 			// If the checkbox is checked, show the element; otherwise, hide it
-			element.style.display = checkbox.checked ? '' : 'none';
+			if (checkbox.checked) {
+				element.style.removeProperty('display'); // Clear the inline 'display' style to use stylesheet styles
+			} else {
+				element.style.display = 'none'; // Set to 'none' to hide the element
+			}
 		});
 	};
 	
