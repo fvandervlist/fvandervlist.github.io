@@ -114,16 +114,13 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 
 // Toggle functions
 
-var lis = document.getElementsByTagName('li');
-var spans = document.getElementsByTagName('span');
-
 	// Function to toggle visibility based on the 'is-upcoming' class
 	var toggleIsUpcoming = function () {
 		var checkbox = document.getElementById('toggleIsUpcoming');
 		var elements = document.querySelectorAll('.is-upcoming'); // Select all elements with the class 'is-upcoming'
 		elements.forEach(function (element) {
 			// If the checkbox is checked, show the element; otherwise, hide it
-			element.style.display = checkbox.checked ? 'list-item' : 'none';
+			element.style.display = checkbox.checked ? 'block' : 'none';
 		});
 	};
 	
@@ -134,7 +131,7 @@ var spans = document.getElementsByTagName('span');
 		var elements = document.querySelectorAll(years.map(year => `.${year}`).join(',')); // Select all elements with any of the year classes
 		elements.forEach(function (element) {
 			// If the checkbox is checked, show the element; otherwise, hide it
-			element.style.display = checkbox.checked ? 'list-item' : 'none';
+			element.style.display = checkbox.checked ? 'block' : 'none';
 		});
 	};
 	
