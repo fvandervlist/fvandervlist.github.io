@@ -119,8 +119,8 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		var checkbox = document.getElementById('toggleIsUpcoming');
 		var elements = document.querySelectorAll('.is-upcoming'); // Select all elements with the class 'is-upcoming'
 		elements.forEach(function (element) {
-			if (element.classList.contains('is-highlighted')) {
-				// Always show elements with the 'is-highlighted' class
+			if (element.classList.contains('tr-istype-pinned') || element.classList.contains('is-highlighted')) {
+				// Always show elements with the 'tr-istype-pinned' or 'is-highlighted' class
 				element.style.removeProperty('display'); // Ensure their display is managed by the stylesheet
 			} else if (checkbox.checked) {
 				// If checkbox is checked, show other elements
@@ -138,8 +138,8 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		var years = ['y2018', 'y2017', 'y2016', 'y2015', 'y2014', 'y2013', 'y2012', 'y2011', 'y2010', 'y2009', 'y2008'];
 		var elements = document.querySelectorAll(years.map(year => `.${year}`).join(',')); // Select all elements with any of the year classes
 		elements.forEach(function (element) {
-			if (element.classList.contains('is-highlighted')) {
-				// Always show elements with the 'is-highlighted' class
+			if (element.classList.contains('tr-istype-pinned') || element.classList.contains('is-highlighted')) {
+				// Always show elements with the 'tr-istype-pinned' or 'is-highlighted' class
 				element.style.removeProperty('display'); // Ensure their display is managed by the stylesheet
 			} else if (checkbox.checked) {
 				// If checkbox is checked, show other elements
