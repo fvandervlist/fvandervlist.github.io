@@ -119,10 +119,15 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		var checkbox = document.getElementById('toggleIsUpcoming');
 		var elements = document.querySelectorAll('.is-upcoming'); // Select all elements with the class 'is-upcoming'
 		elements.forEach(function (element) {
-			// If the checkbox is checked, show the element; otherwise, hide it
-			element.style.display = checkbox.checked ? '' : 'none';
-			if (checkbox.checked) {
-				element.style.removeProperty('display'); // Clear the inline 'display' style to use stylesheet styles
+			if (element.classList.contains('is-highlighted')) {
+				// Always show elements with the 'is-highlighted' class
+				element.style.removeProperty('display'); // Ensure their display is managed by the stylesheet
+			} else if (checkbox.checked) {
+				// If checkbox is checked, show other elements
+				element.style.removeProperty('display');
+			} else {
+				// If checkbox is unchecked, hide other elements
+				element.style.display = 'none';
 			}
 		});
 	};
@@ -133,11 +138,15 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 		var years = ['y2018', 'y2017', 'y2016', 'y2015', 'y2014', 'y2013', 'y2012', 'y2011', 'y2010', 'y2009', 'y2008'];
 		var elements = document.querySelectorAll(years.map(year => `.${year}`).join(',')); // Select all elements with any of the year classes
 		elements.forEach(function (element) {
-			// If the checkbox is checked, show the element; otherwise, hide it
-			if (checkbox.checked) {
-				element.style.removeProperty('display'); // Clear the inline 'display' style to use stylesheet styles
+			if (element.classList.contains('is-highlighted')) {
+				// Always show elements with the 'is-highlighted' class
+				element.style.removeProperty('display'); // Ensure their display is managed by the stylesheet
+			} else if (checkbox.checked) {
+				// If checkbox is checked, show other elements
+				element.style.removeProperty('display');
 			} else {
-				element.style.display = 'none'; // Set to 'none' to hide the element
+				// If checkbox is unchecked, hide other elements
+				element.style.display = 'none';
 			}
 		});
 	};
