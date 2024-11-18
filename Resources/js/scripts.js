@@ -117,48 +117,43 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 var lis = document.getElementsByTagName('li');
 var spans = document.getElementsByTagName('span');
 
-	// toggleIsUpcoming function
+	// Function to toggle visibility based on the 'is-upcoming' class
 	var toggleIsUpcoming = function () {
 		var checkbox = document.getElementById('toggleIsUpcoming');
-		for (var i = 0; i < lis.length; i++) {
-			if (lis[i].className.includes('is-upcoming')) {
-				// If the checkbox is checked, show the element; otherwise, hide it
-				lis[i].style.display = checkbox.checked ? 'list-item' : 'none';
-			}
-		}
+		var elements = document.querySelectorAll('.is-upcoming'); // Select all elements with the class 'is-upcoming'
+		elements.forEach(function (element) {
+			// If the checkbox is checked, show the element; otherwise, hide it
+			element.style.display = checkbox.checked ? 'list-item' : 'none';
+		});
 	};
 	
-	// toggleIsArchived function
+	// Function to toggle visibility based on specific year classes (> 5 years ago)
 	var toggleIsArchived = function () {
 		var checkbox = document.getElementById('toggleIsArchived');
-		for (var i = 0; i < lis.length; i++) {
-			if (['y2018', 'y2017', 'y2016', 'y2015', 'y2014', 'y2013', 'y2012', 'y2011', 'y2010', 'y2009', 'y2008'].includes(lis[i].className)) {
-				// If the checkbox is checked, show the element; otherwise, hide it
-				lis[i].style.display = checkbox.checked ? 'list-item' : 'none';
-			}
-		}
+		var years = ['y2018', 'y2017', 'y2016', 'y2015', 'y2014', 'y2013', 'y2012', 'y2011', 'y2010', 'y2009', 'y2008'];
+		var elements = document.querySelectorAll(years.map(year => `.${year}`).join(',')); // Select all elements with any of the year classes
+		elements.forEach(function (element) {
+			// If the checkbox is checked, show the element; otherwise, hide it
+			element.style.display = checkbox.checked ? 'list-item' : 'none';
+		});
 	};
 	
 	// toggleIsTranslation function
 	var toggleIsTranslation = function () {
 		var checkbox = document.getElementById('toggleIsTranslation');
-		for (var i = 0; i < spans.length; i++) {
-			if (spans[i].className.includes('is-translation')) {
-				// If the checkbox is checked, show the element; otherwise, hide it
-				spans[i].style.display = checkbox.checked ? 'inline' : 'none';
-			}
-		}
+		var elements = document.querySelectorAll('.is-translation'); // Select all elements with the class 'is-translation'
+		elements.forEach(function (element) {
+			element.style.display = checkbox.checked ? 'inline' : 'none'; // Show or hide based on checkbox state
+		});
 	};
 	
 	// toggleIsEmoji function
 	var toggleIsEmoji = function () {
 		var checkbox = document.getElementById('toggleIsEmoji');
-		for (var i = 0; i < spans.length; i++) {
-			if (spans[i].className.includes('is-emoji')) {
-				// If the checkbox is checked, show the element; otherwise, hide it
-				spans[i].style.display = checkbox.checked ? 'inline' : 'none';
-			}
-		}
+		var elements = document.querySelectorAll('.is-emoji'); // Select all elements with the class 'is-emoji'
+		elements.forEach(function (element) {
+			element.style.display = checkbox.checked ? 'inline' : 'none'; // Show or hide based on checkbox state
+		});
 	};
 
 // Setup each checkbox with persistence
