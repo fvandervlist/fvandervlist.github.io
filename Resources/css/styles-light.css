@@ -1769,14 +1769,7 @@
 	/* PARAGRAPH, LIST, SMALL */
 
 	small.header-note {
-		background-color: rgba(255,254,209,1) ;
-		border-radius: .5em ;
-		color: rgba(32,34,36,1) ;
-		display: block ;
-		font-family: 'Roboto',sans-serif ;
-		font-size: .83em ;
-		font-style: italic ;
-		padding: 1em ;
+		display: none ;
 	}
 
 
