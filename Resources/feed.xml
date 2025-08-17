@@ -6,11 +6,31 @@
 		<title>Feed of / – fernandovandervlist.nl</title>
 		<atom:link rel="self" type="application/rss+xml" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 		<link>https://www.fernandovandervlist.nl/</link>
-		<description>Fernando van der Vlist, PhD, is a scholar, graphic designer, and educator specialising in digital media and technology. He is Assistant Professor and programme coordinator for the Master&rsquo;s Cultural Data &amp; AI in the Department of Media Studies at the University of Amsterdam, Netherlands. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
+		<description>Fernando van der Vlist, PhD, is a scholar, graphic designer, and educator specialising in digital media and technology, with a focus on critical internet and platform studies. He is currently Assistant Professor in Critical Data & AI in the Department of Media Studies at the University of Amsterdam (UvA), where he also coordinates the Master’s programme in Cultural Data & AI. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
 		<language>en-NL</language>
-		<lastBuildDate>Mon, 11 Nov 2024 14:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 17 Aug 2025 14:00:00 +0200</lastBuildDate>
 		<managingEditor>mail@fernandovandervlist.nl</managingEditor>
 
+		<item>
+			<title>Appification in the Age of AI</title>
+			<link>https://www.fernandovandervlist.nl/research/appification-in-the-age-of-ai.html</link>
+			<subject>App Studies and AI</subject>
+			<description>As artificial intelligence (AI) becomes increasingly integrated into everyday life and digital environments, its presence in applications (‘apps’) warrants closer examination. This report explores what we call the ‘appification of AI’—the process by which AI technologies are embedded into daily life and practices via apps and app ecosystems. Drawing on insights from app studies, platform studies, and critical AI studies, the report investigates how different kinds of AI apps and app ecosystems—whether marketed as applications, ‘agents’, ‘solutions’, custom models, ‘GPTs’, or other forms—are shaping user experiences, business models, and digital infrastructures. It maps the rapidly expanding landscape of AI apps across multiple spheres, from generative AI mobile apps and chatbots like OpenAI’s ChatGPT to enterprise-focused AI tools distributed through cloud AI marketplaces. Combining app ecosystem analysis and a ‘multi-situated’ approach to app studies and collaborating with Master’s students, the report presents a series of mappings and case studies that highlight how AI apps are reshaping different sectors and spheres of everyday life. Ultimately, the report underscores the significance of critical app and platform studies in understanding the cultural, economic, and political dimensions of AI technology across various application contexts and cases.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist and E. J. T. Weltevrede</dc:contributor>
+			<pubDate>Wed, 28 May 2025 14:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Introduction: Governing the Digital Society</title>
+			<link>https://www.fernandovandervlist.nl/research/introduction-governing-the-digital-society.html</link>
+			<subject>Governing the Digital Society</subject>
+			<description>Digital technologies have rapidly become integral to communities and societies, bringing both significant benefits and serious concerns. Issues such as misinformation, disinformation, online polarization, discrimination, and widening inequalities have prompted a critical and urgent debate: Can digital societies still be effectively governed? This book brings together insights from various disciplines to address the pressing question: “How can we develop and apply principles of (good) governance in digital societies that are organized democracies?” Governing the Digital Societypresents a range of governance approaches, focusing on online platforms, artificial intelligence, and the public values that underpin these technologies. The authors position themselves at the forefront of their disciplines, offering perspectives from law, critical data studies, urban studies, science and technology studies, computational linguistics, and the political economy of media. Expert interviews provide additional insights into ongoing efforts to tackle the challenges of governing digital societies. The book demonstrates that governance is not just a technical or legal process but a complex societal one, embedding norms, values, and morality into our institutions and daily lives.</description>
+			<category>Research</category>
+			<dc:creator>Amsterdam University Press</dc:creator>
+			<dc:contributor>J. F. T. M. van Dijck, K. F. van Es, A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Tue, 20 May 2025 14:00:00 +0200</pubDate>
+		</item>
 		<item>
 			<title>Platform: A Tapestry of Meanings and Metaphors</title>
 			<link>https://www.fernandovandervlist.nl/research/platform.html</link>
@@ -18,7 +38,7 @@
 			<description>This chapter explores the metaphorical ‘tapestry’ of meanings woven into the ‘platform’ metaphor, tracing its journey from a technical term in the computing sphere to a central concept in digital media. Initially coined to describe digital entities, ‘platforms’ have evolved into complex entities layered with diverse meanings conveyed through metaphors like ‘walled gardens,’ ‘tentacles,’ ‘gatekeepers,’ and ‘ecosystems.’ This evolution highlights the ongoing challenge of defining ‘platforms’ as complex technological, social, political, and economic entities. The chapter navigates through the term’s evolution, recognizing its roles as both an actor term and a conceptual entity across various disciplines, while also serving as a subject (target) of governance and regulation. Emphasizing the richness and nuanced politics inherent in the metaphor, the chapter discussed its significant influence on academic, industry, and regulatory discussions. Furthermore, it explores the emergence of ‘platformization,” which advanced ‘platforms’ into the realm of public concern. Lastly, the chapter underscores that platforms are not solely abstract concepts but tangible entities shaped by distinct material conditions and politics. To ensure the enduring relevance of the platform concept in digital media and platform studies, the chapter advocates for the continuous integration of the platform metaphor with related concepts such as ‘ecosystems.’ This ongoing process of ‘weaving’ and expanding the ‘tapestry’ of meanings and metaphors surrounding the platform concept aims to enrich its explanatory capacity regarding its diverse societal impacts.</description>
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
-			<dc:contributor>A. Helmond and F. N. van der Vlist</dc:contributor>
+			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
 			<pubDate>Mon, 11 Nov 2024 14:00:00 +0200</pubDate>
 		</item>
 		<item>
@@ -178,6 +198,16 @@
 			<description>In this Special Issue editorial, we introduce a research agenda for empirical app studies. First, we introduce the three main strands of scholarship that have engaged with (mobile) apps and infrastructures so far. This enables us to position the contributions to this Special Issue at the cutting edge of the research on apps and infrastructures. We present our theoretical perspective on the infrastructural situatedness of apps to foreground how apps are always relational and, therefore, situated in a technological as well as social and cultural sense. From this perspective, we outline the contours of the <i>app/infrastructure stack</i>, which proposes to account for the hierarchical layered structure of apps and infrastructures, including their various interrelations and interdependencies. Finally, we derive six emerging research themes for future app studies based on the eight contributions included in this Special Issue that we hope will motivate further innovative and critical research into apps and infrastructures specifically as well as into computational culture in general.</description>
 			<category>Research</category>
 			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>C. Gerlitz, A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Mon, 21 Oct 2019 14:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Apps and Infrastructures</title>
+			<link>http://computationalculture.net/issue-seven/</link>
+			<subject>App Studies</subject>
+			<description></description>
+			<category>Research</category>
+			<dc:creator>Computational Culture</dc:creator>
 			<dc:contributor>C. Gerlitz, A. Helmond, D. B. Nieborg, and F. N. van der Vlist (alphabetical)</dc:contributor>
 			<pubDate>Mon, 21 Oct 2019 14:00:00 +0200</pubDate>
 		</item>
@@ -532,7 +562,7 @@
 			<pubDate>Thu, 21 Apr 2011 14:00:00 +0200</pubDate>
 		</item>
 		<item>
-			<title>Hergebruik (Special Issue), Huig #12</title>
+			<title>Hergebruik [Special Issue], Huig #12</title>
 			<link>https://www.fernandovandervlist.nl/design/huig-issue-12.html</link>
 			<subject></subject>
 			<description><i>Huig</i> (named after Dutch architect H. A. Maaskant) is an architectural periodical published annually by the Rotterdam Academy of Architecture and Urban Design (RAvB). This twelfth (special) issue addresses the current topic of vacancy in architecture and urban planning in the city of Rotterdam, Netherlands. The layout design envelops the reader in the magazine and makes the reading experience similar to traversing a vacant city. Various design elements are used to this end. For example, the inside of the protective dust jacket is a cartographic map of the contents of the entire issue, and serves as an overview of its contents and pages. Additionally, zoom-ins and zoom-outs are used to frame the pages that follow like a canvas, with some containing section overviews, others containing articles, interviews, and there is also a photographic essay running throughout the entire volume. While the front cover is glossy to illustrate the new – or the new-build – each section is in fact thematic and successively addresses one stage of the lifecycle of the architectural building (i.e., new-build, decay, vacancy, reuse, and demolition). Design elements differ in each thematic section to illustrate these successive phases. The editorial and photographic content are all aligned with this theme. Notably, the demolition phase is intentionally left out so as to make a statement and suggest the discourse move towards adaptive reuse instead. That is, a move towards reusing sites or buildings for purposes other than for which they were originally built or designed (e.g., repurposing vacant office buildings for social housing).</description>

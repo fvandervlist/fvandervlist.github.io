@@ -9,13 +9,13 @@
 
 	<url>
 		<loc>https://www.fernandovandervlist.nl/about.html</loc>
-		<lastmod>2024-11-16</lastmod>
+		<lastmod>2025-08-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.fernandovandervlist.nl/contact.html</loc>
-		<lastmod>2024-11-16</lastmod>
+		<lastmod>2025-08-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.80</priority>
 	</url>
@@ -42,6 +42,18 @@
 		<priority>0.80</priority>
 	</url>
 
+	<url>
+		<loc>https://www.fernandovandervlist.nl/research/appification-in-the-age-of-ai.html</loc>
+		<lastmod>2025-05-28</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
+	<url>
+		<loc>https://www.fernandovandervlist.nl/research/introduction-governing-the-digital-society.html</loc>
+		<lastmod>2025-05-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
 	<url>
 		<loc>https://www.fernandovandervlist.nl/research/platform.html</loc>
 		<lastmod>2024-11-11</lastmod>
