@@ -131,7 +131,7 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 			}
 		});
 	};
-	
+
 	// Function to toggle visibility based on specific year classes (> 5 years ago)
 	var toggleIsArchived = function () {
 		var checkbox = document.getElementById('toggleIsArchived');
@@ -150,7 +150,7 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 			}
 		});
 	};
-	
+
 	// Function to toggle visibility based on the 'is-translation' class
 	var toggleIsTranslation = function () {
 		var checkbox = document.getElementById('toggleIsTranslation');
@@ -159,7 +159,7 @@ var setupCheckbox = function (checkboxId, defaultState, toggleFunction) {
 			element.style.display = checkbox.checked ? 'inline' : 'none'; // Show or hide based on checkbox state
 		});
 	};
-	
+
 	// Function to toggle visibility based on the 'is-emoji' class
 	var toggleIsEmoji = function () {
 		var checkbox = document.getElementById('toggleIsEmoji');

@@ -6,11 +6,51 @@
 		<title>Feed of / – fernandovandervlist.nl</title>
 		<atom:link rel="self" type="application/rss+xml" href="https://www.fernandovandervlist.nl/Resources/feed.xml" />
 		<link>https://www.fernandovandervlist.nl/</link>
-		<description>Fernando van der Vlist, PhD, is a scholar, graphic designer, and educator specialising in digital media and technology, with a focus on critical internet and platform studies. He is currently Assistant Professor in Critical Data & AI in the Department of Media Studies at the University of Amsterdam (UvA), where he also coordinates the Master’s programme in Cultural Data & AI. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
+		<description>Fernando van der Vlist, PhD, is a researcher, designer, and professor specialising in digital media and technology, with a focus on critical internet and platform studies. He is currently Assistant Professor in Critical Data & AI in the Department of Media Studies at the University of Amsterdam (UvA), where he also coordinates the Master’s programme in Cultural Data & AI. His research focuses on the critical study of digital platforms and apps, their ecosystems, data, and artificial intelligence (AI) in culture and society.</description>
 		<language>en-NL</language>
 		<lastBuildDate>Sun, 17 Aug 2025 14:00:00 +0200</lastBuildDate>
 		<managingEditor>mail@fernandovandervlist.nl</managingEditor>
 
+		<item>
+			<title>Platforms: A Critical Introduction (Polity Press/Wiley)</title>
+			<link>https://www.fernandovandervlist.nl/research/platforms-polity.html</link>
+			<subject>Patforms &amp; Society</subject>
+			<description>From Instagram, Gojek and Uber to Alibaba, Amazon Web Services and ChatGPT, platforms shape nearly every aspect of modern life. They influence how we communicate, work, learn, shop, vote, and connect. But what exactly are platforms? How do they operate and how did they become so powerful? Platforms offers a clear and critical introduction to platforms and platformisation, and to the burgeoning field of platform studies. Written by leading experts in the field, the book explains how platforms operate as companies, services, and technologies or infrastructures, and how they shape economies, cultures, and institutions around the world. Drawing on real-world examples, Anne Helmond and Fernando van der Vlist unpack key concepts such as platform power, governance, and strategy. They show how platforms generate value, influence public life, and create new forms of dependency and control. The book also introduces practical approaches for analysing platforms, ranging from examining financial filings and policy documents to conducting interface walkthroughs and studying technical artefacts.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Fri, 5 Jun 2026 14:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Appification in the Age of AI (Continued)</title>
+			<link>https://www.fernandovandervlist.nl/research/appification-in-the-age-of-ai-continued.html</link>
+			<subject>App Studies and AI</subject>
+			<description>Building directly on the previous work in this series, this report examines the ‘appification of AI’—how AI creeps into our daily lives through various new types of applications and emerging app ecosystems. As the landscape shifts from generative to agentic AI, our central analytical concern is AI’s increasing embeddedness, visibility, and dependency as it transitions into an invisible, foundational infrastructure. Drawing on app studies, platform studies, and critical AI studies, the studies included in this collection investigate this unfolding process across three dimensions: AI-powered applications, everyday uses, and infrastructural integration. Through a series of mappings and five new case studies developed in collaboration with Master’s students, the findings demonstrate AI’s systematic transition into an invisible, infrastructural foundation that redistributes power towards dominant platforms. Specific studies show that first-party AI apps deepen the infrastructural reach of providers through a ‘gradient of absorption’ in mundane task fulfillment; AI mental health apps introduce distinct app logics that reconfigure care; and in domains like food tracking and beauty, there is a consistent gap between developers’ advanced technological narratives and users’ practical, often culturally localised, interpretation of AI. Ultimately, the report highlights the critical significance of app and platform studies for understanding the cultural, economic, and political dimensions of AI as it becomes structurally integrated into the apps and infrastructures of everyday life.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist and E. J. T. Weltevrede</dc:contributor>
+			<pubDate>Wed, 28 May 2025 14:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Orchestrating Scalability</title>
+			<link>https://www.fernandovandervlist.nl/research/orchestrating-scalability.html</link>
+			<subject>Cloud Infrastructure and Innovation in Connected and Autonomous Vehicles (CAVs)</subject>
+			<description>This article explores how cloud computing enables and shapes the scaling of connected and autonomous vehicles (CAVs), positioning cloud infrastructure as a technology, strategy, and imaginary central to the scaling of AI. Using a dataset of 69,421 global patent families, we analyse how diverse actors – including automotive manufacturers, chipmakers, electronics companies, autonomous vehicle firms, and telecom/mapping providers – mobilise cloud technologies to expand AI capabilities, manage resources, and coordinate complex socio-technical systems. Approaching patents through ‘sociotechnical imaginaries’, we show how they simultaneously codify technical innovations while projecting visions of scalable, cloud-enabled CAV futures. Our analysis identifies four thematic clusters – vehicle communication, machine vision, network architectures, and edge computing – through which cloud technologies are operationalised and imagined. We argue that the cloud functions as a technology of orchestration, with cloudification exemplifying AI’s industrialisation as it moves from laboratory research to globally scalable systems. The article contributes to debates on scale by highlighting the interplay between technical, organisational, and imaginative dimensions in shaping AI-enabled mobility.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>A. Gekker, S. Hind, G. Pereira and F. N. van der Vlist (alphabetical)</dc:contributor>
+			<pubDate>Wed, 18 Feb 2026 14:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>App Ecosystem Analysis</title>
+			<link>https://www.fernandovandervlist.nl/research/app-ecosystem-analysis.html</link>
+			<subject>Mobile App Ecosystems</subject>
+			<description>This chapter introduces methods for analyzing app ecosystems, emphasizing that apps are not stand-alone entities but exist within larger ecosystems. It outlines three approaches: apps “for that,” examining thematic collections of apps like those addressing the COVID-19 pandemic; apps “for” apps, focusing on apps developed for specific platforms like social media apps; and apps in apps, investigating third-party services embedded within apps. The chapter concludes by highlighting the importance of these approaches for understanding the cultural, economic and political dynamics of app ecosystems.</description>
+			<category>Research</category>
+			<dc:creator>F. N. van der Vlist</dc:creator>
+			<dc:contributor>F. N. van der Vlist, A. Helmond and E. J. T. Weltevrede</dc:contributor>
+			<pubDate>Tue, 2 Sep 2025 14:00:00 +0200</pubDate>
+		</item>
 		<item>
 			<title>Appification in the Age of AI</title>
 			<link>https://www.fernandovandervlist.nl/research/appification-in-the-age-of-ai.html</link>
@@ -22,12 +62,12 @@
 			<pubDate>Wed, 28 May 2025 14:00:00 +0200</pubDate>
 		</item>
 		<item>
-			<title>Introduction: Governing the Digital Society</title>
+			<title>Introduction: Governing the Digital Society (Amsterdam University Press)</title>
 			<link>https://www.fernandovandervlist.nl/research/introduction-governing-the-digital-society.html</link>
 			<subject>Governing the Digital Society</subject>
 			<description>Digital technologies have rapidly become integral to communities and societies, bringing both significant benefits and serious concerns. Issues such as misinformation, disinformation, online polarization, discrimination, and widening inequalities have prompted a critical and urgent debate: Can digital societies still be effectively governed? This book brings together insights from various disciplines to address the pressing question: “How can we develop and apply principles of (good) governance in digital societies that are organized democracies?” Governing the Digital Societypresents a range of governance approaches, focusing on online platforms, artificial intelligence, and the public values that underpin these technologies. The authors position themselves at the forefront of their disciplines, offering perspectives from law, critical data studies, urban studies, science and technology studies, computational linguistics, and the political economy of media. Expert interviews provide additional insights into ongoing efforts to tackle the challenges of governing digital societies. The book demonstrates that governance is not just a technical or legal process but a complex societal one, embedding norms, values, and morality into our institutions and daily lives.</description>
 			<category>Research</category>
-			<dc:creator>Amsterdam University Press</dc:creator>
+			<dc:creator>F. N. van der Vlist</dc:creator>
 			<dc:contributor>J. F. T. M. van Dijck, K. F. van Es, A. Helmond and F. N. van der Vlist (alphabetical)</dc:contributor>
 			<pubDate>Tue, 20 May 2025 14:00:00 +0200</pubDate>
 		</item>

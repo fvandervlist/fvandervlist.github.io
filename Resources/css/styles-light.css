@@ -5,56 +5,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Faustina:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap') ;
 
 
-	/* COLOUR SCHEME */
-
-	/* color: rgba(255,255,255,1) ; color: #ffffff ; Whites ;
-	/* color: rgba(255,255,255,.8) ;
-	/* color: rgba(255,255,255,.6) ;
-
-	/* color: rgba(32,34,36,1) ; color: #202124 ; Grays;
-	/* color: rgba(32,34,36,.8) ;
-	/* color: rgba(32,34,36,.6) ;
-	/* color: rgba(32,34,36,.4) ;
-	/* color: rgba(32,34,36,.2) ;
-	/* color: rgba(32,34,36,.1) ;
-	/* color: rgba(32,34,36,.05) ;
-	/* color: rgba(32,34,36,.02) ;
-
-		/* color: rgba(86,133,244,1) ; color: #4285f4 ; Bright blue ;
-		/* color: rgba(86,133,244,.6) ;
-		/* color: rgba(86,133,244,.4) ;
-		/* color: rgba(86,133,244,.2) ;
-		/* color: rgba(86,133,244,.1) ;
-		/* color: rgba(86,133,244,.08) ;
-		/* color: rgba(86,133,244,.05) ;
-		/* color: rgba(86,133,244,.02) ;
-
-		/* color: rgba(219,68,55,1) ; color: #db4437 ; Bright red ;
-		/* color: rgba(219,68,55,.6) ;
-		/* color: rgba(219,68,55,.1) ;
-		/* color: rgba(219,68,55,.05) ;
-		/* color: rgba(219,68,55,.02) ;
-
-		/* color: rgba(244,160,0,1) ; color: #f4b400 ; Bright yellow ;
-		/* color: rgba(244,160,0,.6) ;
-		/* color: rgba(244,160,0,.1) ;
-		/* color: rgba(244,160,0,.05) ;
-		/* color: rgba(244,160,0,.02) ;
-
-		/* color: rgba(15,157,88,1) ; color: #0f9d58 ; Bright green ;
-		/* color: rgba(15,157,88,.6) ;
-		/* color: rgba(15,157,88,.1) ;
-		/* color: rgba(15,157,88,.05) ;
-		/* color: rgba(15,157,88,.02) ;
-
-		/* color: rgba(134,64,229,1) ; color: #8640e5 ; Bright violet ;
-		/* color: rgba(134,64,229,.6) ;
-		/* color: rgba(134,64,229,.1) ;
-		/* color: rgba(134,64,229,.05) ;
-		/* color: rgba(134,64,229,.02) ;
-	*/
-
-
 @media screen {
 
 	/* PAGE SETUP */
@@ -365,6 +315,10 @@
 
 
 	/* PAGE SECTION SUMMARY */
+
+	h3.headline {
+		font-weight: 700 ;
+	}
 
 	section.summary p.summary,
 	section.summary p.summary-contd,
@@ -1024,7 +978,7 @@
 		background-color: rgba(219,68,55,.05) ;
 		border-radius: 1em ;
 	}
-	
+
 	li span.is-comment {
 		color: rgba(32,34,36,.6) ;
 	}
@@ -1584,14 +1538,15 @@
 		/* UPCOMING */
 
 		.is-upcoming,
-		.y2026 {
+		.y2027 {
 			filter: alpha(opacity=80) ;
 			opacity: .8 ;
 		}
 
-		/* SINCE 2017 (≤ 6 YRS AGO) */
+		/* SINCE 2019 (≤ 6 YRS AGO) */
 
-		.y2025
+		.y2026,
+		.y2025,
 		.y2024,
 		.y2023,
 		.y2022,
@@ -1602,9 +1557,9 @@
 			opacity: 1.0 ;
 		}
 
-		/* ARCHIVED (> 6 ... < 12 YRS AGO) */
+		/* ARCHIVED (2012–2018) */
 
-		.y2018
+		.y2018,
 		.y2017,
 		.y2016,
 		.y2015,
@@ -1615,7 +1570,7 @@
 			opacity: .6 ;
 		}
 
-		/* ARCHIVED (> 12 YRS AGO) */
+		/* ARCHIVED (< 2012) */
 
 		.y2011,
 		.y2010,
